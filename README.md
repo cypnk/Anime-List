@@ -170,6 +170,7 @@ Kore wa Zombie Desu ka?
 Kotonoha no Niwa (The Garden of Words)  
 Kotoura-san  
 Kuroshitsuji  
+Kyoko Suiri (In/Spectre)  
 Kyoukai no Rinne (RIN-NE)  
 Kyouran Kazoku Nikki  
 
@@ -187,6 +188,7 @@ Mahou Shoujo Ore
 Mahouka Koukou no Rettousei (The Irregular at Magic High School)  
 Mahoutsukai no Yome (The Ancient Magus' Bride)  
 Maison Ikkoku  
+Majo no Tabitabi (Wandering Witch: The Journey of Elaina)  
 Maou-sama, Retry!  
 Manyuu Hikenchou  
 Maria Holic  
