@@ -118,6 +118,7 @@ Himouto! Umaru-chan
 Hinako Note  
 Hinamatsuri  
 Hinomaru Sumo  
+Hitori Bocchi no Marumaru Seikatsu  
 Hitsugi no Chaika (Chaika - The Coffin Princess)  
 Hourou Musuko (Wandering Son)  
 Howl no Ugoku Shiro (Howl's Moving Castle)  
