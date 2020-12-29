@@ -109,6 +109,7 @@ Hataage! Kemono Michi (Kemono Michi: Rise Up)
 Hataraki Man  
 Hataraku Mao-sama (The Devil is a Part-Timer!)  
 Hayate no Gotoku!  
+Hensuki  
 Hibike! Euphonium (Sound! Euphonium)  
 Hidamari Sketch  
 Hidan no Aria  
@@ -150,6 +151,7 @@ Kamisama Hajimemashita
 Kamisama ni Natta Hi (The Day I Became a God)  
 Kamisama no Memochou (Heaven's Memo Pad)  
 Kanojo Okarishimasu (Rent-a-Girlfriend)  
+Kanon (2006)  
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances)  
 Karigurashi no Arrietty (Arrietty)  
 Karin  
@@ -178,6 +180,7 @@ Level E
 Little Witch Academia  
 Love Hina  
 Love Lab  
+Love Live! Sunshine!!  
 Lovely★Complex  
 Lupin III  
 
@@ -286,6 +289,7 @@ Tejina-senpai (Magical Sempai)
 Tenchi Muyou! Ryououki  
 Tenchi Universe  
 Tenisu no Ojisama (The Prince of Tennis)  
+Tenki no Ko (Weathering with you)  
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime)  
 The Kabocha Wine  
 Tokyo ESP  
