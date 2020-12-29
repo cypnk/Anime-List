@@ -2,6 +2,7 @@
 Watched, Watching, To-Watch
 
 Accel World  
+Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest)  
 Aguresshibu Retsuko (Aggressive Retsuko)  
 Ai Yori Aoshi  
 Aishiteruze Baby  
@@ -107,6 +108,7 @@ Hanasaku Iroha
 Hanayamata  
 Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon)  
 Handa-kun  
+Happy Cooking Graffiti (Gourmet Girl Graffiti)  
 Hataage! Kemono Michi (Kemono Michi: Rise Up)  
 Hataraki Man  
 Hataraku Mao-sama (The Devil is a Part-Timer!)  
@@ -174,6 +176,7 @@ Kono Subarashii Sekai ni Shukufuku wo! (KonoSuba: God's Blessing on this Wonderf
 Kore wa Zombie Desu ka?  
 Kotonoha no Niwa (The Garden of Words)  
 Kotoura-san  
+Kuma Kuma Kuma Bear  
 Kuroshitsuji  
 Kyoko Suiri (In/Spectre)  
 Kyoukai no Rinne (RIN-NE)  
