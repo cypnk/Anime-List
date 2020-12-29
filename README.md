@@ -8,6 +8,7 @@ Aishiteruze Baby
 Akagami no Shirayuki-hime (Snow White with the Red Hair)  
 Akatsuki no Yona (Yona of the Dawn)  
 Akira  
+Akudama Drive  
 Ansatsu Kyoushitsu (Assassination Classroom)  
 Amagi Buririanto Paku (Amagi Brilliant Park)  
 Ao Haru Ride (Blue Spring Ride)  
@@ -91,6 +92,7 @@ Gintama
 Girls und Panzer  
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?)  
 Gokujo  
+Golden Kamuy  
 Golgo 13  
 Gosick  
 Gotoubun no Hanayome (The Quintessential Quintuplets)  
@@ -114,6 +116,7 @@ Hibike! Euphonium (Sound! Euphonium)
 Hidamari Sketch  
 Hidan no Aria  
 High School Dxd Ova  
+High School Fleet  
 High Score Girl  
 Himouto! Umaru-chan  
 Hinako Note  
@@ -197,6 +200,7 @@ Manyuu Hikenchou
 Maria Holic  
 Masamune-kun no Revenge  
 Maoyuu Maou Yuusha (Maoyu)  
+Maojo de Oyasumi (Sleepy Princess in the Demon Castle)  
 Majo no Takkyuubin (Kiki's Delivery Service)  
 Michiko to Hatchin  
 Mimi wo Sumaseba  
