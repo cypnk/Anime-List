@@ -131,6 +131,7 @@ Howl no Ugoku Shiro (Howl's Moving Castle)
 Hozuki no Reitetsu (Hozuki's Coolheadedness)  
 Hunter x Hunter  
 Hyakka Ryouran: Samurai Girls  
+Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives)  
 Hyouka  
 
 I My Me! Strawberry Eggs anime  
