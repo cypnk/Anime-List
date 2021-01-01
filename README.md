@@ -151,6 +151,7 @@ Joukamachi no Dandelion (Castle Town Dandelion)
 K-On!  
 Kaguya-sama: Love is War  
 Kami Nomi zo Shiru Sekai (The World God Only Knows)  
+Kami-tachi ni Hirowareta Otoko (By the Grace of the Gods)  
 Kamichu! (The Goddess is a Middle School Student)  
 Kamikaze Kaitou Jeanne  
 Kamisama Hajimemashita  
@@ -315,6 +316,7 @@ Tsukuyomi: Moon Phase
 Tsurezure Children  
 
 Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!)  
+Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord)  
 Uchouten Kazoku (The Eccentric Family)  
 Uchu no Suteruvia (Stellvia of the Universe)  
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199)  
