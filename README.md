@@ -299,6 +299,7 @@ Soredemo Sekai wa Utsukushii (The World is Still Beautiful)
 Stella no Mahou  
 Stop!! Hibari-kun!  
 Strange+e  
+Strike the Blood  
 Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)  
 
 Taiho Shichauzo! (You're Under Arrest)  
