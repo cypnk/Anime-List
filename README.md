@@ -1,6 +1,7 @@
 # Anime-List
 Watched, Watching, To-Watch
 
+Absolute Duo  
 Accel World  
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest)  
 Aguresshibu Retsuko (Aggressive Retsuko)  
@@ -92,6 +93,7 @@ Gin No Saji
 Gintama  
 Girls und Panzer  
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?)  
+God Eater  
 Gokujo  
 Golden Kamuy  
 Golgo 13  
@@ -127,6 +129,7 @@ Hinomaru Sumo
 Hitori Bocchi no Marumaru Seikatsu  
 Hitsugi no Chaika (Chaika - The Coffin Princess)  
 Hourou Musuko (Wandering Son)  
+Houseki no Kuni (Land of the Lustrous)  
 Howl no Ugoku Shiro (Howl's Moving Castle)  
 Hozuki no Reitetsu (Hozuki's Coolheadedness)  
 Hunter x Hunter  
@@ -138,6 +141,7 @@ I My Me! Strawberry Eggs anime
 Idol Densetsu Eriko  
 Imoto Sae Ireba Ii (A Sister's All You Need)  
 Initial D  
+Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace)  
 Isekai Shokudou (Restaurant to Another World)  
 Isekai wa Smartphone to Tomo ni  
 Itadaki! Seieki  
@@ -171,6 +175,7 @@ Kimi ni Todoke
 Kimi to Boku  
 Knight's & Magic  
 Kobayashi-san Chi no Maid Dragon  
+Koi to Senkyo to Chocolate (Love, Election and Chocolate)  
 Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!)  
 Kono Naka ni Hitori, Imouto ga Iru!  
 Kono Oto Tomare!  
@@ -193,6 +198,8 @@ Lovely★Complex
 Lupin III  
 
 Machikado Mazoku (The Demon Girl Next Door)  
+Madan no O to Vanadis (Lord Marksman and Vanadis)  
+Magi (Magi: The Labyrinth of Magic)  
 Mahoraba: Heartful days  
 Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica)  
 Mahou Shoujo Ore  
@@ -233,6 +240,7 @@ No Game No Life
 No-Rin  
 Nobunaga no Shinobi  
 Non Non Biyori  
+Nyan Koi!  
 
 Okami to Koshinryo (Spice and Wolf)  
 One Punch Man  
@@ -267,6 +275,7 @@ School Rumble
 Seihou Bukyou Outlaw Star  
 Seiken no Blacksmith  
 Seirei Tsukai no Blade Dance (Bladedance of Elementalers)  
+Seitokai no Ichizon (Student Council's Discretion)  
 Seitokai Yakindomo  
 Seikai no Monshou  
 Seikai no Senki  
@@ -281,6 +290,7 @@ Shigatsu wa Kimi no Uso
 Shirobako  
 Shokugeki no Souma (Food Wars!)  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour)  
+Shuffle!  
 SKET Dance  
 Slam Dunk  
 Space☆Dandy  
@@ -311,6 +321,8 @@ Tonikaku Kawaii (TONIKAWA: Over the Moon For You)
 Toriko  
 Toshokan Sensou (Library War)  
 Touch  
+Trinity Seven  
+Tsubasa: Reservoir Chronicle  
 Tsuki ga Kirei (As the Moon, So Beautiful)  
 Tsukuyomi: Moon Phase  
 Tsurezure Children  
@@ -340,11 +352,12 @@ Youjo Senki (Saga of Tanya the Evil)
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life)  
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)  
 Yowamushi Pedal  
+Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs)  
+Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero)  
 Yuru Camp△ (Laid-Back Camp)  
 Yuru Yuri  
 
 Zan Sayonara Zetsubou Sensei  
 Zero no Tsukaima  
 Zettai Karen Children (Psychic Squad)  
-
 
