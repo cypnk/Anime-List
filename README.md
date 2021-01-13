@@ -176,6 +176,7 @@ Kimi to Boku
 Knight's & Magic  
 Kobayashi-san Chi no Maid Dragon  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate)  
+Kokuriko-Zaka Kara (From Up On Poppy Hill)  
 Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!)  
 Kono Naka ni Hitori, Imouto ga Iru!  
 Kono Oto Tomare!  
