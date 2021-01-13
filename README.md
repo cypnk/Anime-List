@@ -228,6 +228,7 @@ Monster Musume no Oisha-san (Monster Girl Doctor)
 Mouretsu Pirates  
 Musaigen no Phantom World (Myriad Colors Phantom World)  
 Mushibugyou  
+Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World)  
 
 Nana  
 Nanatsu no Taizai (The Seven Deadly Sins)  
