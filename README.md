@@ -106,6 +106,7 @@ Hachimitsu to Kuroba (Honey and Clover)
 Haikyuu!!  
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!)  
 Hajime no Ippo  
+Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods)  
 Hanasaku Iroha  
 Hanayamata  
 Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon)  
