@@ -132,6 +132,7 @@ Hitsugi no Chaika (Chaika - The Coffin Princess)
 Hourou Musuko (Wandering Son)  
 Houseki no Kuni (Land of the Lustrous)  
 Howl no Ugoku Shiro (Howl's Moving Castle)  
+Honzuki no Gekokujo (Ascendance of a Bookworm)  
 Hozuki no Reitetsu (Hozuki's Coolheadedness)  
 Hunter x Hunter  
 Hyakka Ryouran: Samurai Girls  
