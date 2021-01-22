@@ -29,6 +29,7 @@ Baka to Test to Shoukanjuu
 Bakemonogatari  
 Bakuman  
 Ballroom e Youkoso (Welcome to the Ballroom)  
+BanG Dream!  
 Barakamon  
 Beast King GoLion  
 Beatless  
@@ -140,6 +141,7 @@ Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives)
 Hyouka  
 
 I My Me! Strawberry Eggs anime  
+Ichiban Ushiro no Dai Mao (Demon King Daimao)  
 Idol Densetsu Eriko  
 Imoto Sae Ireba Ii (A Sister's All You Need)  
 Initial D  
