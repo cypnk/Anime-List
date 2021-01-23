@@ -353,9 +353,10 @@ Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!)  
 Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku)  
 
-Yawara!  
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU)  
+Yakitate!! Japan  
 Yamada-kun to 7-nin no Majo  
+Yawara!  
 Youjo Senki (Saga of Tanya the Evil)  
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life)  
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)  
