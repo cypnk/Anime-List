@@ -190,6 +190,7 @@ Kotonoha no Niwa (The Garden of Words)
 Kotoura-san  
 Kuma Kuma Kuma Bear  
 Kuroshitsuji  
+Kyokai no Kanata (Beyond the Boundary)  
 Kyoko Suiri (In/Spectre)  
 Kyoukai no Rinne (RIN-NE)  
 Kyouran Kazoku Nikki  
