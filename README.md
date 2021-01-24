@@ -52,6 +52,7 @@ Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou
 Charlotte  
 Chio-chan no Tsuugakuro (Chio's School Road)  
 Chrome Shelled Regios  
+Chuuka Ichiban! (Cooking Master Boy)  
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions)  
 Comic Girls  
 Cooking Master  
