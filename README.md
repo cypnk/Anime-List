@@ -145,6 +145,7 @@ I My Me! Strawberry Eggs anime
 Ichiban Ushiro no Dai Mao (Demon King Daimao)  
 Idol Densetsu Eriko  
 Imoto Sae Ireba Ii (A Sister's All You Need)  
+Infinite Dendrogram  
 Initial D  
 Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace)  
 Isekai Shokudou (Restaurant to Another World)  
