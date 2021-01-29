@@ -196,6 +196,7 @@ Kyokai no Kanata (Beyond the Boundary)
 Kyoko Suiri (In/Spectre)  
 Kyoukai no Rinne (RIN-NE)  
 Kyouran Kazoku Nikki  
+Kyousogiga  
 
 Level E  
 Little Witch Academia  
@@ -237,6 +238,7 @@ Musaigen no Phantom World (Myriad Colors Phantom World)
 Mushibugyou  
 Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World)  
 
+Nagi no Asukara (A Lull in the Sea)  
 Nana  
 Nanatsu no Taizai (The Seven Deadly Sins)  
 Natsu no Arashi! (Summer Storm!)  
@@ -249,6 +251,7 @@ No Game No Life
 No-Rin  
 Nobunaga no Shinobi  
 Non Non Biyori  
+Nurarihyon no Mago (Nura: Rise of the Yokai Clan)  
 Nyan Koi!  
 
 Okami to Koshinryo (Spice and Wolf)  
@@ -264,6 +267,7 @@ Princess Connect! Re:Dive
 Prizun Skuru (Prison School)  
 Purasutikku Memorizu (Plastic Memories)  
 
+Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight)  
 Rokujouma no Shinryakusha!? (Invaders of the Rokujouma!?)  
 Rosario to Vampire  
 Rozen Maiden  
@@ -296,6 +300,7 @@ Seto no Hanayome
 Sewayaki Kitsune no Senko-san (The Helpful Fox Senko-san)  
 Shakugan no Shana  
 Shigatsu wa Kimi no Uso  
+Shingeki no Bahamuto (Rage of Bahamut)  
 Shirobako  
 Shokugeki no Souma (Food Wars!)  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour)  
@@ -314,6 +319,7 @@ Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)
 Taiho Shichauzo! (You're Under Arrest)  
 Tanaka-kun wa Itsumo Kedaruge  
 Tamako Market  
+Tegami Bachi  
 Tejina-senpai (Magical Sempai)  
 Tenchi Muyou! Ryououki  
 Tenchi Universe  
@@ -350,6 +356,7 @@ Uzaki-chan wa Asobitai!
 
 Vampire Knight  
 
+Wagaya no Oinari-sama (Our Home's Fox Deity)  
 Wagnaria! (Working!)  
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!)  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!)  
