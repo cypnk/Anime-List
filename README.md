@@ -46,6 +46,7 @@ Bokura wa Minna Kawaisou (The Kawai Complex Guide to Manors and Hostel Behavior)
 Bokutachi wa Benkyou ga Dekinai (We Never Learn: BOKUBEN)  
 Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan)  
 Bungou Stray Dogs  
+Busou Shoujo Machiavellianism  
 Bounen no Xamdou (Xam'd: Lost Memories)  
 
 Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou  
@@ -59,6 +60,7 @@ Cooking Master
 
 D.Gray-man  
 Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?)  
+Danshi Koukousei no Nichijou  
 Darling in the FranXX  
 DearS  
 Death March kara Hajimaru Isekai Kyousoukyoku  
@@ -183,6 +185,7 @@ Knight's & Magic
 Kobayashi-san Chi no Maid Dragon  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate)  
 Kokuriko-Zaka Kara (From Up On Poppy Hill)  
+Komori-san wa Kotowarenai!  
 Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!)  
 Kono Naka ni Hitori, Imouto ga Iru!  
 Kono Oto Tomare!  
@@ -263,6 +266,7 @@ Ouran Koukou Host Club
 Pan De Peace  
 Panchi Rain (Punch Line)  
 Peter Grill to Kenja no Jikan  
+Plunderer  
 Princess Connect! Re:Dive  
 Prizun Skuru (Prison School)  
 Purasutikku Memorizu (Plastic Memories)  
