@@ -88,6 +88,7 @@ Fune wo Amu (The Great Passage)
 Fushigi Yuugi (Mysterious Play)  
 
 Gakuen Babysitters  
+Garasu no Kamen (Glass Mask)  
 GATE  
 Gavuriru Droppuauto (Gabriel DropOut)  
 Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun)  
@@ -107,6 +108,7 @@ Grand Blue (Grand Blue Dreaming)
 Great Teacher Onizuka  
 
 Hachimitsu to Kuroba (Honey and Clover)  
+Hachinantte Sore wa Nai Desho! (The 8th son? Are you kidding me?)  
 Haikyuu!!  
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!)  
 Hajime no Ippo  
@@ -176,6 +178,7 @@ Karigurashi no Arrietty (Arrietty)
 Karin  
 Kaze ga Tsuyoku Fuiteiru (Run with the Wind)  
 Kazemakase Tsukikage Ran (Carried by the Wind: Tsukikage Ran)  
+Kemono no Sou-ja Erin (The Beast Player Erin)  
 Kenja no Mago (Wise Man's Grandchild)  
 Kenran Butosai Za Mazu Deibureiku (Mars Daybreak)  
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)  
@@ -217,6 +220,7 @@ Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica)
 Mahou Shoujo Ore  
 Mahouka Koukou no Rettousei (The Irregular at Magic High School)  
 Mahoutsukai no Yome (The Ancient Magus' Bride)  
+Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun)  
 Maison Ikkoku  
 Majo no Tabitabi (Wandering Witch: The Journey of Elaina)  
 Maou-sama, Retry!  
@@ -312,6 +316,7 @@ Shuffle!
 SKET Dance  
 Slam Dunk  
 Space☆Dandy  
+Somari to Mori no Kamisama (Somali and the Forest Spirit)  
 Sora yori mo Tooi Basho (A Place Further Than the Universe)  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
 Stella no Mahou  
@@ -374,6 +379,7 @@ Youjo Senki (Saga of Tanya the Evil)
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life)  
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)  
 Yowamushi Pedal  
+Yumeiro Patissiere  
 Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs)  
 Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero)  
 Yuru Camp△ (Laid-Back Camp)  
