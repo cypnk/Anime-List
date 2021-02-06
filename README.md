@@ -3,6 +3,7 @@ Watched, Watching, To-Watch
 
 Absolute Duo  
 Accel World  
+Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.)  
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest)  
 Aguresshibu Retsuko (Aggressive Retsuko)  
 Ai Yori Aoshi  
@@ -35,6 +36,7 @@ Beast King GoLion
 Beatless  
 Beck  
 Berserk  
+Binbo Shimai Monogatari (Flat Broke Sisters)  
 Bishoujo Senshi Sailor Moon  
 Black Bullet  
 Black Cat  
@@ -109,6 +111,7 @@ Great Teacher Onizuka
 
 Hachimitsu to Kuroba (Honey and Clover)  
 Hachinantte Sore wa Nai Desho! (The 8th son? Are you kidding me?)  
+Haibane Renmei  
 Haikyuu!!  
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!)  
 Hajime no Ippo  
@@ -135,6 +138,7 @@ Hinamatsuri
 Hinomaru Sumo  
 Hitori Bocchi no Marumaru Seikatsu  
 Hitsugi no Chaika (Chaika - The Coffin Princess)  
+Hokago Saikoro Club (After School Dice Club)  
 Hourou Musuko (Wandering Son)  
 Houseki no Kuni (Land of the Lustrous)  
 Howl no Ugoku Shiro (Howl's Moving Castle)  
