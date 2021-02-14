@@ -12,6 +12,7 @@ Akagami no Shirayuki-hime (Snow White with the Red Hair)
 Akatsuki no Yona (Yona of the Dawn)  
 Akira  
 Akudama Drive  
+Angel Heart  
 Ansatsu Kyoushitsu (Assassination Classroom)  
 Amagi Buririanto Paku (Amagi Brilliant Park)  
 Ao Haru Ride (Blue Spring Ride)  
@@ -52,11 +53,13 @@ Busou Shoujo Machiavellianism
 Bounen no Xamdou (Xam'd: Lost Memories)  
 
 Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou  
+Cat's Eye  
 Charlotte  
 Chio-chan no Tsuugakuro (Chio's School Road)  
 Chrome Shelled Regios  
 Chuuka Ichiban! (Cooking Master Boy)  
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions)  
+City Hunter  
 Comic Girls  
 Cooking Master  
 
