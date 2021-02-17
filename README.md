@@ -66,6 +66,7 @@ Cooking Master
 D.Gray-man  
 Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?)  
 Danshi Koukousei no Nichijou  
+Dantalian no Shoka (The Mystic Archives of Dantalian)  
 Darling in the FranXX  
 DearS  
 Death March kara Hajimaru Isekai Kyousoukyoku  
@@ -171,6 +172,7 @@ Joukamachi no Dandelion (Castle Town Dandelion)
 
 K-On!  
 Kaguya-sama: Love is War  
+Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits)  
 Kami Nomi zo Shiru Sekai (The World God Only Knows)  
 Kami-tachi ni Hirowareta Otoko (By the Grace of the Gods)  
 Kamichu! (The Goddess is a Middle School Student)  
@@ -188,11 +190,13 @@ Kazemakase Tsukikage Ran (Carried by the Wind: Tsukikage Ran)
 Kemono no Sou-ja Erin (The Beast Player Erin)  
 Kenja no Mago (Wise Man's Grandchild)  
 Kenran Butosai Za Mazu Deibureiku (Mars Daybreak)  
+Keppeki Danshi! Aoyama-kun (Clean Freak! Aoyama kun)  
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)  
 Kimi ni Todoke  
 Kimi to Boku  
 Knight's & Magic  
 Kobayashi-san Chi no Maid Dragon  
+Kodomo no Omocha (Kodocha 1996)  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate)  
 Kokuriko-Zaka Kara (From Up On Poppy Hill)  
 Komori-san wa Kotowarenai!  
@@ -238,6 +242,7 @@ Masamune-kun no Revenge
 Maoyuu Maou Yuusha (Maoyu)  
 Maojo de Oyasumi (Sleepy Princess in the Demon Castle)  
 Majo no Takkyuubin (Kiki's Delivery Service)  
+Meari to Majo no Hana (Mary and the Witch's Flower)  
 Michiko to Hatchin  
 Mimi wo Sumaseba  
 Minami-ke  
@@ -245,10 +250,12 @@ Mirai Shounen Conan (Future Boy Conan)
 Mitsuboshi Colors  
 Mob Psycho 100  
 Mobile Police Patlabor  
+Momo e no Tegami (A Letter to Momo)  
 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (Problem Children Are Coming From Another World, Aren't They?)  
 Monster Musume no Iru Nichijou  
 Monster Musume no Oisha-san (Monster Girl Doctor)  
 Mouretsu Pirates  
+Moyashimon  
 Musaigen no Phantom World (Myriad Colors Phantom World)  
 Mushibugyou  
 Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World)  
@@ -284,6 +291,7 @@ Prizun Skuru (Prison School)
 Purasutikku Memorizu (Plastic Memories)  
 
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight)  
+Rizu to Aoi Tori (Liz and the Blue Bird)  
 Rokujouma no Shinryakusha!? (Invaders of the Rokujouma!?)  
 Rosario to Vampire  
 Rozen Maiden  
@@ -292,6 +300,7 @@ Sabanto x Sabisu (Servant x Service)
 Saber Marionette J  
 Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend)  
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.)  
+Saiunkoku Monogatari (The Story of Saiunkoku)  
 Sakigake!! Otokojuku  
 Sakura Quest  
 Sakura Trick  
@@ -343,7 +352,8 @@ Tenchi Universe
 Tenisu no Ojisama (The Prince of Tennis)  
 Tenki no Ko (Weathering with you)  
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime)  
-The Kabocha Wine  
+Terra e... (Toward the Terra)  
+The Kabocha Wine   
 Tokyo ESP  
 Tokyo Godfathers  
 Tokyo Ravens  
@@ -365,6 +375,7 @@ Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirena
 Uchouten Kazoku (The Eccentric Family)  
 Uchu no Suteruvia (Stellvia of the Universe)  
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199)  
+Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves)  
 Uninhabited Planet Survive  
 UQ Holder!  
 Urusei Yatsura  
@@ -383,6 +394,7 @@ Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNA
 Yakitate!! Japan  
 Yamada-kun to 7-nin no Majo  
 Yawara!  
+Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl)  
 Youjo Senki (Saga of Tanya the Evil)  
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life)  
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)  
