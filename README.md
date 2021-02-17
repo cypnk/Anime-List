@@ -219,6 +219,7 @@ Love Live! Sunshine!!
 Lovely★Complex  
 Lupin III  
 
+Mach GoGoGo (Speed Racer 1967)  
 Machikado Mazoku (The Demon Girl Next Door)  
 Madan no O to Vanadis (Lord Marksman and Vanadis)  
 Magi (Magi: The Labyrinth of Magic)  
@@ -326,7 +327,6 @@ Somari to Mori no Kamisama (Somali and the Forest Spirit)
 Sora yori mo Tooi Basho (A Place Further Than the Universe)  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
 Space☆Dandy  
-Speed Racer (1967)  
 Stella no Mahou  
 Stop!! Hibari-kun!  
 Strange+e  
