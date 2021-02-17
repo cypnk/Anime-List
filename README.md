@@ -322,10 +322,11 @@ Shoujo Shuumatsu Ryokou (Girl's Last Tour)
 Shuffle!  
 SKET Dance  
 Slam Dunk  
-Space☆Dandy  
 Somari to Mori no Kamisama (Somali and the Forest Spirit)  
 Sora yori mo Tooi Basho (A Place Further Than the Universe)  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
+Space☆Dandy  
+Speed Racer (1967)  
 Stella no Mahou  
 Stop!! Hibari-kun!  
 Strange+e  
