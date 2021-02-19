@@ -166,6 +166,7 @@ Itadaki! Seieki
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.)  
 
 Jashin-chan Dropkick (Dropkick On My Devil!!)  
+Jinrui wa Suitai Shimashita (Humanity Has Declined)  
 Joshiraku  
 Joshikousei no Mudazukai (Wasteful Days of High School Girls)  
 Joukamachi no Dandelion (Castle Town Dandelion)  
