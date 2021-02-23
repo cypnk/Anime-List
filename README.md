@@ -333,6 +333,7 @@ Shoujo Shuumatsu Ryokou (Girl's Last Tour)
 Shuffle!  
 SKET Dance  
 Slam Dunk  
+Slow Start  
 Somari to Mori no Kamisama (Somali and the Forest Spirit)  
 Sora yori mo Tooi Basho (A Place Further Than the Universe)  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
