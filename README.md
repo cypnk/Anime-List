@@ -64,6 +64,7 @@ Comic Girls
 Cooking Master  
 
 D.Gray-man  
+Dagashi Kashi  
 Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?)  
 Danshi Koukousei no Nichijou  
 Dantalian no Shoka (The Mystic Archives of Dantalian)  
@@ -85,9 +86,11 @@ Druaga No Tou The Aegis Of Uruk
 Durarara!!  
 
 Enen no Shouboutai (Fire Force)  
+Esper Mami (Mami the Psychic)  
 Excel Saga  
 
 Fairy Tail  
+Flying Witch  
 Free!  
 Fruits Basket (2019)  
 Fune wo Amu (The Great Passage)  
@@ -102,6 +105,7 @@ Gensoumaden Saiyuuki (Saiyuki)
 GetBackers  
 Gin No Saji  
 Gintama  
+Girls Bravo  
 Girls und Panzer  
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?)  
 God Eater  
@@ -153,7 +157,7 @@ Hyakka Ryouran: Samurai Girls
 Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives)  
 Hyouka  
 
-I My Me! Strawberry Eggs anime  
+I My Me! Strawberry Eggs (Strawberry Eggs)  
 Ichiban Ushiro no Dai Mao (Demon King Daimao)  
 Idol Densetsu Eriko  
 Imoto Sae Ireba Ii (A Sister's All You Need)  
@@ -188,10 +192,13 @@ Karigurashi no Arrietty (Arrietty)
 Karin  
 Kaze ga Tsuyoku Fuiteiru (Run with the Wind)  
 Kazemakase Tsukikage Ran (Carried by the Wind: Tsukikage Ran)  
+Kekkaishi  
 Kemono no Sou-ja Erin (The Beast Player Erin)  
 Kenja no Mago (Wise Man's Grandchild)  
 Kenran Butosai Za Mazu Deibureiku (Mars Daybreak)  
 Keppeki Danshi! Aoyama-kun (Clean Freak! Aoyama kun)  
+Kidou Senkan Nadeshiko (Martian Successor Nadesico)  
+Kishuku Gakko no Juliet (Boarding School Juliet)  
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)  
 Kimi ni Todoke  
 Kimi to Boku  
@@ -288,6 +295,7 @@ Panchi Rain (Punch Line)
 Peter Grill to Kenja no Jikan  
 Plunderer  
 Princess Connect! Re:Dive  
+Princess Principal  
 Prizun Skuru (Prison School)  
 Purasutikku Memorizu (Plastic Memories)  
 
@@ -295,6 +303,7 @@ Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight)
 Rizu to Aoi Tori (Liz and the Blue Bird)  
 Rokujouma no Shinryakusha!? (Invaders of the Rokujouma!?)  
 Rosario to Vampire  
+Roujin Z (Old Man Z)  
 Rozen Maiden  
 
 Sabanto x Sabisu (Servant x Service)  
@@ -338,9 +347,10 @@ Somari to Mori no Kamisama (Somali and the Forest Spirit)
 Sora yori mo Tooi Basho (A Place Further Than the Universe)  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
 Space☆Dandy  
+Stella Jo-Gakuin C3-Bu (Stella Women's Academy, High School Division Class C3)  
 Stella no Mahou  
 Stop!! Hibari-kun!  
-Strange+e  
+Strange+  
 Strike the Blood  
 Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)  
 
@@ -355,6 +365,7 @@ Tenisu no Ojisama (The Prince of Tennis)
 Tenki no Ko (Weathering with you)  
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime)  
 Terra e... (Toward the Terra)  
+Texhnolyze  
 The Kabocha Wine   
 Tokyo ESP  
 Tokyo Godfathers  
@@ -388,6 +399,8 @@ Vampire Knight
 
 Wagaya no Oinari-sama (Our Home's Fox Deity)  
 Wagnaria! (Working!)  
+Wake Up, Girls!  
+Wangan Midnight  
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!)  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!)  
 Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku)  
