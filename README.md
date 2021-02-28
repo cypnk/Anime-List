@@ -202,6 +202,7 @@ Kishuku Gakko no Juliet (Boarding School Juliet)
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)  
 Kimi ni Todoke  
 Kimi to Boku  
+Kinnikuman (1983)  
 Knight's & Magic  
 Kobayashi-san Chi no Maid Dragon  
 Kodomo no Omocha (Kodocha 1996)  
