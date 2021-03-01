@@ -18,6 +18,7 @@ Amagi Buririanto Paku (Amagi Brilliant Park)
 Ao Haru Ride (Blue Spring Ride)  
 Ao no Exorcist  
 Aoharu x Kikanjuu (Youth x Machine gun)  
+Appleseed (1988)  
 Arakawa Under the Bridge  
 Aria The Animation  
 Ashita no Joe (Tomorrow's Joe)  
@@ -97,6 +98,7 @@ Fune wo Amu (The Great Passage)
 Fushigi Yuugi (Mysterious Play)  
 
 Gakuen Babysitters  
+Gall Force  
 Garasu no Kamen (Glass Mask)  
 GATE  
 Gavuriru Droppuauto (Gabriel DropOut)  
@@ -117,6 +119,7 @@ Gosick
 Gotoubun no Hanayome (The Quintessential Quintuplets)  
 Grand Blue (Grand Blue Dreaming)  
 Great Teacher Onizuka  
+Gunsmith Cats  
 
 Hachimitsu to Kuroba (Honey and Clover)  
 Hachinantte Sore wa Nai Desho! (The 8th son? Are you kidding me?)  
@@ -304,6 +307,7 @@ Prizun Skuru (Prison School)
 Purasutikku Memorizu (Plastic Memories)  
 
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight)  
+Riding Bean  
 Rizu to Aoi Tori (Liz and the Blue Bird)  
 Rokujouma no Shinryakusha!? (Invaders of the Rokujouma!?)  
 Rosario to Vampire  
@@ -348,6 +352,7 @@ Shuffle!
 SKET Dance  
 Slam Dunk  
 Slow Start  
+SoltyRei  
 Somari to Mori no Kamisama (Somali and the Forest Spirit)  
 Sora yori mo Tooi Basho (A Place Further Than the Universe)  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
