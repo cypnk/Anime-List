@@ -110,6 +110,7 @@ Girls und Panzer
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?)  
 God Eater  
 Gokujo  
+Gokushufudo (The Way of the Househusband)  
 Golden Kamuy  
 Golgo 13  
 Gosick  
@@ -147,6 +148,7 @@ Hinomaru Sumo
 Hitori Bocchi no Marumaru Seikatsu  
 Hitsugi no Chaika (Chaika - The Coffin Princess)  
 Hokago Saikoro Club (After School Dice Club)  
+Hori-san to Miyamura-kun (Hori and Miyamura)  
 Hourou Musuko (Wandering Son)  
 Houseki no Kuni (Land of the Lustrous)  
 Howl no Ugoku Shiro (Howl's Moving Castle)  
@@ -244,6 +246,7 @@ Mahoutsukai no Yome (The Ancient Magus' Bride)
 Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun)  
 Maison Ikkoku  
 Majo no Tabitabi (Wandering Witch: The Journey of Elaina)  
+Mao Gakuin No Futekigosha (The Misfit of Demon King Academy)  
 Maou-sama, Retry!  
 Manyuu Hikenchou  
 Maria Holic  
@@ -330,6 +333,7 @@ Seikai no Monshou
 Seikai no Senki  
 Sekirei  
 Sen to Chihiro no Kamikakushi (Spirited Away)  
+Senjushi (The Thousand Noble Musketeers)  
 Senryuu Shoujo  
 Servamp  
 Seto no Hanayome  
