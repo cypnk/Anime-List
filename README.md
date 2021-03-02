@@ -221,6 +221,7 @@ Kono Subarashii Sekai ni Shukufuku wo! (KonoSuba: God's Blessing on this Wonderf
 Kore wa Zombie Desu ka?  
 Kotonoha no Niwa (The Garden of Words)  
 Kotoura-san  
+Kujira no Kora wa Sajo ni Utau (Children of the Whales)  
 Kuma Kuma Kuma Bear  
 Kuroshitsuji  
 Kyokai no Kanata (Beyond the Boundary)  
