@@ -13,6 +13,7 @@ Akatsuki no Yona (Yona of the Dawn)
 Akira  
 Akudama Drive  
 Angel Heart  
+Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai (Anohana: The Flower We Saw That Day)  
 Ansatsu Kyoushitsu (Assassination Classroom)  
 Amagi Buririanto Paku (Amagi Brilliant Park)  
 Ao Haru Ride (Blue Spring Ride)  
@@ -86,6 +87,7 @@ Drifters
 Druaga No Tou The Aegis Of Uruk  
 Durarara!!  
 
+Ef: A Tale of Memories  
 Enen no Shouboutai (Fire Force)  
 Esper Mami (Mami the Psychic)  
 Excel Saga  
@@ -94,6 +96,7 @@ Fairy Tail
 Flying Witch  
 Free!  
 Fruits Basket (2019)  
+Full Moon o Sagashite  
 Fune wo Amu (The Great Passage)  
 Fushigi Yuugi (Mysterious Play)  
 
@@ -175,6 +178,7 @@ Itadaki! Seieki
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.)  
 
 Jashin-chan Dropkick (Dropkick On My Devil!!)  
+Jibaku Shonen Hanako-kun (Toilet-Bound Hanako-kun)  
 Jinrui wa Suitai Shimashita (Humanity Has Declined)  
 Joshiraku  
 Joshikousei no Mudazukai (Wasteful Days of High School Girls)  
