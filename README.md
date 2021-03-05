@@ -212,6 +212,7 @@ Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)
 Kimi ni Todoke  
 Kimi to Boku  
 Kinnikuman (1983)  
+Kino no Tabi - the Beautiful World (2003)  
 Knight's & Magic  
 Kobayashi-san Chi no Maid Dragon  
 Kodomo no Omocha (Kodocha 1996)  
