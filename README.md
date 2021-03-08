@@ -116,6 +116,7 @@ Girls und Panzer
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?)  
 God Eater  
 Gokujo  
+Gokukoku no Brynhildr (Brynhildr in the Darkness)  
 Gokushufudo (The Way of the Househusband)  
 Golden Kamuy  
 Golgo 13  
@@ -178,6 +179,7 @@ Isekai wa Smartphone to Tomo ni
 Itadaki! Seieki  
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.)  
 
+Jaku Chara Tomozaki-kun (Bottom-tier Character Tomozaki)  
 Jashin-chan Dropkick (Dropkick On My Devil!!)  
 Jibaku Shonen Hanako-kun (Toilet-Bound Hanako-kun)  
 Jinrui wa Suitai Shimashita (Humanity Has Declined)  
