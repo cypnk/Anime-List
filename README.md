@@ -75,6 +75,7 @@ DearS
 Death March kara Hajimaru Isekai Kyousoukyoku  
 Denpa Kyoushi (Ultimate Otaku Teacher)  
 Denpa Onna to Seishun Otoko (Ground Control to Psychoelectric Girl)  
+Densetsu no Yusha no Densetsu (The Legend of the Legendary Heroes)  
 Detective Conan (Case Closed)  
 Detroit Metal City  
 Demi-chan wa Kataritai (Interviews With Monster Girls)  
