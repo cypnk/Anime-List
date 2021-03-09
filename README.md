@@ -85,7 +85,7 @@ Domestic na Kanojo
 Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat)  
 Dragon Drive  
 Drifters  
-Druaga No Tou The Aegis Of Uruk  
+Druaga No Tou (The Tower of Druaga) The Aegis Of Uruk, The Sword of Uruk  
 Durarara!!  
 
 Ef: A Tale of Memories  
@@ -318,6 +318,7 @@ Purasutikku Memorizu (Plastic Memories)
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight)  
 Riding Bean  
 Rizu to Aoi Tori (Liz and the Blue Bird)  
+Rokka no Yusha (Rokka: Braves of the Six Flowers)  
 Rokujouma no Shinryakusha!? (Invaders of the Rokujouma!?)  
 Rosario to Vampire  
 Roujin Z (Old Man Z)  
