@@ -9,6 +9,7 @@ Aguresshibu Retsuko (Aggressive Retsuko)
 Ai Yori Aoshi  
 Aishiteruze Baby  
 Akagami no Shirayuki-hime (Snow White with the Red Hair)  
+Akanesasu Shoujo (The Girl in Twilight)  
 Akatsuki no Yona (Yona of the Dawn)  
 Akira  
 Akudama Drive  
@@ -58,6 +59,7 @@ Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou
 Cat's Eye  
 Charlotte  
 Chio-chan no Tsuugakuro (Chio's School Road)  
+Chojin-Kokoseitachi wa Isekai demo Yoyu de Ikinuku Yodesu! (Choyoyu: High School Prodigies Have It Easy Even In Another World)  
 Chrome Shelled Regios  
 Chuuka Ichiban! (Cooking Master Boy)  
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions)  
@@ -97,6 +99,7 @@ Fairy Tail
 Flying Witch  
 Free!  
 Fruits Basket (2019)  
+Fukigen na Mononokean (The Morose Mononokean)  
 Full Moon o Sagashite  
 Fune wo Amu (The Great Passage)  
 Fushigi Yuugi (Mysterious Play)  
@@ -124,6 +127,7 @@ Gosick
 Gotoubun no Hanayome (The Quintessential Quintuplets)  
 Grand Blue (Grand Blue Dreaming)  
 Great Teacher Onizuka  
+Gugure! Kokkuri-san (Repeat! Kokkuri-san)  
 Gunsmith Cats  
 
 Hachimitsu to Kuroba (Honey and Clover)  
@@ -133,6 +137,7 @@ Haikyuu!!
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!)  
 Hajime no Ippo  
 Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods)  
+Hana Yori Dango (Boys Over Flowers: 1996)  
 Hanasaku Iroha  
 Hanayamata  
 Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon)  
@@ -171,6 +176,7 @@ I My Me! Strawberry Eggs (Strawberry Eggs)
 Ichiban Ushiro no Dai Mao (Demon King Daimao)  
 Idol Densetsu Eriko  
 Imoto Sae Ireba Ii (A Sister's All You Need)  
+Inari, Konkon, Koi Iroha  
 Infinite Dendrogram  
 Initial D  
 Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace)  
@@ -199,6 +205,7 @@ Kamisama ni Natta Hi (The Day I Became a God)
 Kamisama no Memochou (Heaven's Memo Pad)  
 Kanojo Okarishimasu (Rent-a-Girlfriend)  
 Kanon (2006)  
+Karakai Jozu no Takagi-san (Teasing Master Takagi-san)  
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances)  
 Karigurashi no Arrietty (Arrietty)  
 Karin  
@@ -217,9 +224,11 @@ Kimi to Boku
 Kinnikuman (1983)  
 Kino no Tabi - the Beautiful World (2003)  
 Knight's & Magic  
-Kobayashi-san Chi no Maid Dragon  
+Kobato  
+Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid)  
 Kodomo no Omocha (Kodocha 1996)  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate)  
+Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn)  
 Kokuriko-Zaka Kara (From Up On Poppy Hill)  
 Komori-san wa Kotowarenai!  
 Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!)  
@@ -258,6 +267,7 @@ Mahoutsukai no Yome (The Ancient Magus' Bride)
 Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun)  
 Maison Ikkoku  
 Majo no Tabitabi (Wandering Witch: The Journey of Elaina)  
+Majokko Tickle (1978)  
 Mao Gakuin No Futekigosha (The Misfit of Demon King Academy)  
 Maou-sama, Retry!  
 Manyuu Hikenchou  
@@ -268,6 +278,7 @@ Maojo de Oyasumi (Sleepy Princess in the Demon Castle)
 Majo no Takkyuubin (Kiki's Delivery Service)  
 Meari to Majo no Hana (Mary and the Witch's Flower)  
 Michiko to Hatchin  
+Mikakunin de Shinkokei (Engaged to the Unidentified)  
 Mimi wo Sumaseba  
 Minami-ke  
 Mirai Shounen Conan (Future Boy Conan)  
@@ -288,6 +299,7 @@ Nagi no Asukara (A Lull in the Sea)
 Nana  
 Nanatsu no Taizai (The Seven Deadly Sins)  
 Natsu no Arashi! (Summer Storm!)  
+Natsume Yujin-Cho (Natsume's Book of Friends)  
 Net-juu no Susume (Recovery of an MMO Junkie)  
 Nichijou  
 Nisekoi  
@@ -309,6 +321,7 @@ Ouran Koukou Host Club
 Pan De Peace  
 Panchi Rain (Punch Line)  
 Peter Grill to Kenja no Jikan  
+Piano no Mori (Forest of Piano)  
 Plunderer  
 Princess Connect! Re:Dive  
 Princess Principal  
@@ -334,6 +347,7 @@ Sakura Quest
 Sakura Trick  
 Sakurasou no Pet na Kanojo (The Pet Girl of Sakurasou)  
 Sakamoto desu ga?  
+Samurai Flamenco  
 Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion)  
 Sasami-san@Ganbaranai  
 Sayonara Zetsubou Sensei  
@@ -348,6 +362,7 @@ Seikai no Senki
 Sekirei  
 Sen to Chihiro no Kamikakushi (Spirited Away)  
 Senjushi (The Thousand Noble Musketeers)  
+Senkuu Ishigami (Dr. Stone)  
 Senryuu Shoujo  
 Servamp  
 Seto no Hanayome  
@@ -364,6 +379,7 @@ Slam Dunk
 Slow Start  
 SoltyRei  
 Somari to Mori no Kamisama (Somali and the Forest Spirit)  
+Sora no Woto (Sound of the Sky)  
 Sora yori mo Tooi Basho (A Place Further Than the Universe)  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
 Space☆Dandy  
@@ -377,6 +393,7 @@ Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)
 Taiho Shichauzo! (You're Under Arrest)  
 Tanaka-kun wa Itsumo Kedaruge  
 Tamako Market  
+Tamayura  
 Tegami Bachi  
 Tejina-senpai (Magical Sempai)  
 Tenchi Muyou! Ryououki  
