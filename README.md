@@ -20,7 +20,7 @@ Amagi Buririanto Paku (Amagi Brilliant Park)
 Ao Haru Ride (Blue Spring Ride)  
 Ao no Exorcist  
 Aoharu x Kikanjuu (Youth x Machine gun)  
-Appleseed (1988)  
+Appleseed *1988*  
 Arakawa Under the Bridge  
 Aria The Animation  
 Ashita no Joe (Tomorrow's Joe)  
@@ -39,6 +39,7 @@ Barakamon
 Beast King GoLion  
 Beatless  
 Beck  
+Beelzebub-jo no Okinimesu Mama (As Miss Beelzebub Likes)  
 Berserk  
 Binbo Shimai Monogatari (Flat Broke Sisters)  
 Bishoujo Senshi Sailor Moon  
@@ -52,6 +53,7 @@ Bokura wa Minna Kawaisou (The Kawai Complex Guide to Manors and Hostel Behavior)
 Bokutachi wa Benkyou ga Dekinai (We Never Learn: BOKUBEN)  
 Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan)  
 Bungou Stray Dogs  
+Buso Renkin (Arms Alchemist)  
 Busou Shoujo Machiavellianism  
 Bounen no Xamdou (Xam'd: Lost Memories)  
 
@@ -98,7 +100,7 @@ Excel Saga
 Fairy Tail  
 Flying Witch  
 Free!  
-Fruits Basket (2019)  
+Fruits Basket *2019*  
 Fukigen na Mononokean (The Morose Mononokean)  
 Full Moon o Sagashite  
 Fune wo Amu (The Great Passage)  
@@ -137,7 +139,7 @@ Haikyuu!!
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!)  
 Hajime no Ippo  
 Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods)  
-Hana Yori Dango (Boys Over Flowers: 1996)  
+Hana Yori Dango (Boys Over Flowers) *1996*  
 Hanasaku Iroha  
 Hanayamata  
 Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon)  
@@ -180,6 +182,7 @@ Inari, Konkon, Koi Iroha
 Infinite Dendrogram  
 Initial D  
 Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace)  
+Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World)  
 Isekai Shokudou (Restaurant to Another World)  
 Isekai wa Smartphone to Tomo ni  
 Itadaki! Seieki  
@@ -204,7 +207,7 @@ Kamisama Hajimemashita
 Kamisama ni Natta Hi (The Day I Became a God)  
 Kamisama no Memochou (Heaven's Memo Pad)  
 Kanojo Okarishimasu (Rent-a-Girlfriend)  
-Kanon (2006)  
+Kanon *2006*  
 Karakai Jozu no Takagi-san (Teasing Master Takagi-san)  
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances)  
 Karigurashi no Arrietty (Arrietty)  
@@ -221,12 +224,12 @@ Kishuku Gakko no Juliet (Boarding School Juliet)
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)  
 Kimi ni Todoke  
 Kimi to Boku  
-Kinnikuman (1983)  
-Kino no Tabi - the Beautiful World (2003)  
+Kinnikuman *1983*  
+Kino no Tabi - the Beautiful World *2003*  
 Knight's & Magic  
 Kobato  
 Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid)  
-Kodomo no Omocha (Kodocha 1996)  
+Kodomo no Omocha (Kodocha) *1996*  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate)  
 Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn)  
 Kokuriko-Zaka Kara (From Up On Poppy Hill)  
@@ -255,10 +258,12 @@ Love Live! Sunshine!!
 Lovely★Complex  
 Lupin III  
 
-Mach GoGoGo (Speed Racer 1967)  
+Mach GoGoGo (Speed Racer) *1967*  
 Machikado Mazoku (The Demon Girl Next Door)  
 Madan no O to Vanadis (Lord Marksman and Vanadis)  
 Magi (Magi: The Labyrinth of Magic)  
+Maho Senshi Riui (Rune Soldier)  
+Mahojin Guru Guru (Magic Circle Guruguru)  *1994*  
 Mahoraba: Heartful days  
 Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica)  
 Mahou Shoujo Ore  
@@ -267,7 +272,7 @@ Mahoutsukai no Yome (The Ancient Magus' Bride)
 Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun)  
 Maison Ikkoku  
 Majo no Tabitabi (Wandering Witch: The Journey of Elaina)  
-Majokko Tickle (1978)  
+Majokko Tickle *1978*  
 Mao Gakuin No Futekigosha (The Misfit of Demon King Academy)  
 Maou-sama, Retry!  
 Manyuu Hikenchou  
