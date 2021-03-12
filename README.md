@@ -7,6 +7,7 @@ Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019*  
 Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
 Ai Yori Aoshi *2002*  
+Ace o Nerae! (Aim for the Ace!) *1973, 1978, 1979, 1988*  
 Aishiteruze Baby *2004*  
 Akagami no Shirayuki-hime (Snow White with the Red Hair) *2015*  
 Akanesasu Shoujo (The Girl in Twilight) *2018*  
@@ -63,6 +64,7 @@ Charlotte
 Chio-chan no Tsuugakuro (Chio's School Road)  
 Chojin-Kokoseitachi wa Isekai demo Yoyu de Ikinuku Yodesu! (Choyoyu: High School Prodigies Have It Easy Even In Another World)  
 Chrome Shelled Regios *2009*  
+Chukan Kanriroku Tonegawa (Mr. Tonegawa: Middle Management Blues) *2018*  
 Chuuka Ichiban! (Cooking Master Boy) *1997, 2019*  
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions)  
 City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*  
