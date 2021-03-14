@@ -3,17 +3,18 @@ Watched, Watching, To-Watch
 
 Absolute Duo *2015*  
 Accel World *2012*  
-Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*  
-Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019*  
-Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
-Ai Yori Aoshi *2002*  
 Ace o Nerae! (Aim for the Ace!) *1973, 1978, 1979, 1988*  
+Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*  
+Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
+Agatha Christie no Meitantei Poirot to Marple (Agatha Christie's Great Detectives Poirot and Marple) *2004*  
+Ai Yori Aoshi *2002*    
 Aishiteruze Baby *2004*  
 Akagami no Shirayuki-hime (Snow White with the Red Hair) *2015*  
 Akanesasu Shoujo (The Girl in Twilight) *2018*  
 Akatsuki no Yona (Yona of the Dawn) *2014*  
 Akira *1988*  
 Akudama Drive *2020*  
+Akuma-kun (Devil Boy) *1989*  
 Angel Heart *2005*  
 Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai (Anohana: The Flower We Saw That Day) *2011, 2013*  
 Ansatsu Kyoushitsu (Assassination Classroom)  
@@ -24,6 +25,7 @@ Aoharu x Kikanjuu (Youth x Machine gun)
 Appleseed *1988*  
 Arakawa Under the Bridge *2010*  
 Aria The Animation *2005*  
+Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019*  
 Ashita no Joe (Tomorrow's Joe) *1970*  
 Asobi Asobase *2018*  
 Azumanga Daioh *2002*  
