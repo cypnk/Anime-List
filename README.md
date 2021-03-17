@@ -272,6 +272,7 @@ Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica) *2011*
 Mahou Shoujo Ore  
 Mahouka Koukou no Rettousei (The Irregular at Magic High School)  
 Mahoutsukai no Yome (The Ancient Magus' Bride)  
+Maiko-san chi no Makanai-san (Kiyo in Kyoto: From the Maiko House) *2021*  
 Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun)  
 Maison Ikkoku *1986*  
 Majo no Tabitabi (Wandering Witch: The Journey of Elaina) *2020*  
