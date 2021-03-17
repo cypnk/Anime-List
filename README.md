@@ -208,6 +208,7 @@ Kamikaze Kaitou Jeanne (Phantom Thief Jeanne) *1999*
 Kamisama Hajimemashita  
 Kamisama ni Natta Hi (The Day I Became a God)  
 Kamisama no Memochou (Heaven's Memo Pad)  
+Kannagi (Kannagi: Crazy Shrine Maidens) *2008*  
 Kanojo Okarishimasu (Rent-a-Girlfriend)  
 Kanon *2006*  
 Karakai Jozu no Takagi-san (Teasing Master Takagi-san)  
