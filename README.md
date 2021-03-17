@@ -265,6 +265,7 @@ Mach GoGoGo (Speed Racer) *1967*
 Machikado Mazoku (The Demon Girl Next Door)  
 Madan no O to Vanadis (Lord Marksman and Vanadis)  
 Magi (Magi: The Labyrinth of Magic)  
+Maho no Tenshi Kurīmī Mami (Creamy Mami, the Magic Angel) *1983*  
 Maho Senshi Riui (Rune Soldier)  
 Mahojin Guru Guru (Magic Circle Guruguru)  *1994*  
 Mahoraba: Heartful days *2005*  
@@ -359,6 +360,8 @@ Sakamoto desu ga?
 Samurai Flamenco  
 Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion)  
 Sasami-san@Ganbaranai  
+Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
+Sasurai no Taiyo (Nozomi in the Sun) *1971*  
 Sayonara Zetsubou Sensei  
 School Rumble  
 Seihou Bukyou Outlaw Star *1998*  
@@ -388,6 +391,7 @@ Slam Dunk *1993, 1994, 1995*
 Slow Start  
 SoltyRei  
 Somari to Mori no Kamisama (Somali and the Forest Spirit) *2020*  
+Sora no Manimani *2009*  
 Sora no Woto (Sound of the Sky)  
 Sora yori mo Tooi Basho (A Place Further Than the Universe)  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
