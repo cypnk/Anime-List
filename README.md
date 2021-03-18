@@ -97,6 +97,8 @@ Durarara!!
 
 Ef: A Tale of Memories  
 Enen no Shouboutai (Fire Force)  
+Eru Kazado (El Cazador de la Bruja) *2007*  
+Erufu wo Karu Mono-tachi (Those Who Hunt Elves) *1996*  
 Esper Mami (Mami the Psychic) *1987, 1988*  
 Excel Saga *1999*  
 
@@ -107,6 +109,7 @@ Fruits Basket *2001, 2019*
 Fukigen na Mononokean (The Morose Mononokean)  
 Full Moon o Sagashite  
 Fune wo Amu (The Great Passage)  
+Fushigi no Umi no Nadia (Nadia: The Secret of Blue Water) *1990*  
 Fushigi Yuugi (Mysterious Play) *1995*  
 
 Gakuen Babysitters  
@@ -142,6 +145,7 @@ Haikyuu!!
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!)  
 Hajime no Ippo *2000, 2003, 2009, 2013*  
 Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods)  
+Hana no Mahotsukai Marī Beru (Flower Witch Mary Bell) *1992*  
 Hana Yori Dango (Boys Over Flowers) *1996*  
 Hanasaku Iroha  
 Hanayamata *2014*  
@@ -151,6 +155,7 @@ Happy Cooking Graffiti (Gourmet Girl Graffiti)
 Hataage! Kemono Michi (Kemono Michi: Rise Up)  
 Hataraki Man  
 Hataraku Mao-sama (The Devil is a Part-Timer!)  
+Haunted Junction *1997*  
 Hayate no Gotoku!  
 Hensuki  
 Hibike! Euphonium (Sound! Euphonium)  
@@ -228,6 +233,7 @@ Kishuku Gakko no Juliet (Boarding School Juliet)
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)  
 Kimi ni Todoke *2009*  
 Kimi to Boku *2011*  
+Kingyo Chuiho! (Goldfish Warning!) *1991*  
 Kinnikuman *1983*  
 Kino no Tabi - the Beautiful World *2003*  
 Knight's & Magic  
@@ -266,6 +272,7 @@ Mach GoGoGo (Speed Racer) *1967*
 Machikado Mazoku (The Demon Girl Next Door)  
 Madan no O to Vanadis (Lord Marksman and Vanadis)  
 Magi (Magi: The Labyrinth of Magic)  
+Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
 Maho no Tenshi Kurīmī Mami (Creamy Mami, the Magic Angel) *1983*  
 Maho Senshi Riui (Rune Soldier)  
 Mahojin Guru Guru (Magic Circle Guruguru)  *1994*  
@@ -306,10 +313,11 @@ Musaigen no Phantom World (Myriad Colors Phantom World)
 Mushibugyou  
 Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World)  
 
-Nagi no Asukara (A Lull in the Sea)  
-Nana  
-Nanatsu no Taizai (The Seven Deadly Sins)  
-Natsu no Arashi! (Summer Storm!)  
+Nagi no Asukara (A Lull in the Sea) *2013*  
+Nana *2006*  
+Nanatsu no Taizai (The Seven Deadly Sins) *2014*  
+Nanatsu no Umi no Tiko (Tico of the Seven Seas) *1994*  
+Natsu no Arashi! (Summer Storm!) *2009*  
 Natsume Yujin-Cho (Natsume's Book of Friends)  
 Net-juu no Susume (Recovery of an MMO Junkie)  
 Nichijou  
@@ -410,6 +418,7 @@ Tamako Market
 Tamayura  
 Tegami Bachi  
 Tejina-senpai (Magical Sempai)  
+Tekkaman Blade *1992*  
 Tenchi Muyou! Ryououki  
 Tenchi Universe  
 Tenisu no Ojisama (The Prince of Tennis)  
@@ -418,13 +427,14 @@ Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime)
 Terra e... (Toward the Terra) *1980, 2007*  
 Texhnolyze  
 The Kabocha Wine   
+Time Travel Tondekeman (Time Quest!) *1989*  
 Tokyo ESP *2014*  
 Tokyo Godfathers *2003*  
 Tokyo Ravens *2013*  
 Tonari no Kyuuketsuki-san (Ms. Vampire Who Lives in My Neighborhood)  
 Tonari no Totoro (My Neighbor Totoro) *1988*  
 Tonari no Yamada-kun  
-Tonikaku Kawaii (TONIKAWA: Over the Moon For You)  
+Tonikaku Kawaii (TONIKAWA: Over the Moon For You) *2020*  
 Toriko *2011*  
 Toshokan Sensou (Library War)  
 Touch *1985*  
@@ -447,6 +457,7 @@ Ushio to Tora *1992, 2015*
 Uzaki-chan wa Asobitai!  
 
 Vampire Knight *2008*  
+Virus (Virus Buster Serge) *1997*  
 
 Wagaya no Oinari-sama (Our Home's Fox Deity)  
 Wagnaria! (Working!)  
