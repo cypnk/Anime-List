@@ -295,6 +295,7 @@ Maoyuu Maou Yuusha (Maoyu)
 Maojo de Oyasumi (Sleepy Princess in the Demon Castle)  
 Majo no Takkyuubin (Kiki's Delivery Service)  
 Meari to Majo no Hana (Mary and the Witch's Flower)  
+Metal Skin Panic MADOX-01 *1987*  
 Michiko to Hatchin  
 Mikakunin de Shinkokei (Engaged to the Unidentified)  
 Mimi wo Sumaseba  
