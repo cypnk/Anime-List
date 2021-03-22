@@ -253,6 +253,7 @@ Kotonoha no Niwa (The Garden of Words)
 Kotoura-san  
 Kujira no Kora wa Sajo ni Utau (Children of the Whales)  
 Kuma Kuma Kuma Bear  
+Kumo desu ga, Nani ka? (So I'm a Spider, So What?) *2021*  
 Kuroshitsuji  
 Kyokai no Kanata (Beyond the Boundary)  
 Kyoko Suiri (In/Spectre)  
