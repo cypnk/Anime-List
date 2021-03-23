@@ -325,10 +325,11 @@ Net-juu no Susume (Recovery of an MMO Junkie)
 Nichijou  
 Nisekoi  
 Negima!  
-New Game!  
+New Game! *2016*  
 No Game No Life  
 No-Rin *2014*  
 Nobunaga no Shinobi *2016, 2018*  
+Nodame Cantabile *2007, 2008, 2010*  
 Non Non Biyori *2013, 2015, 2018, 2021*  
 Nurarihyon no Mago (Nura: Rise of the Yokai Clan) *2010, 2011*  
 Nyan Koi! *2009*  
