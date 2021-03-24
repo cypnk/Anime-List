@@ -230,13 +230,14 @@ Kenja no Mago (Wise Man's Grandchild)
 Kenran Butosai Za Mazu Deibureiku (Mars Daybreak) *2004*  
 Keppeki Danshi! Aoyama-kun (Clean Freak! Aoyama kun)  
 Kidou Senkan Nadeshiko (Martian Successor Nadesico) *1996*  
-Kishuku Gakko no Juliet (Boarding School Juliet)  
+Kikaider *1972*  
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)  
 Kimi ni Todoke *2009*  
 Kimi to Boku *2011*  
 Kingyo Chuiho! (Goldfish Warning!) *1991*  
 Kinnikuman *1983*  
 Kino no Tabi - the Beautiful World *2003*  
+Kishuku Gakko no Juliet (Boarding School Juliet) *2018*  
 Knight's & Magic  
 Kobato *2009*  
 Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid)  
@@ -347,6 +348,7 @@ Panchi Rain (Punch Line) *2015*
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
 Piano no Mori (Forest of Piano) *2007, 2018*  
 Plunderer *2020*  
+Popolocrois Monogatari *1998*  
 Princess Connect! Re:Dive  
 Princess Principal *2017, 2021*  
 Prizun Skuru (Prison School) *2015*  
@@ -471,6 +473,7 @@ Wake Up, Girls!
 Wangan Midnight *2007*  
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!)  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!)  
+Wonder Egg Priority *2021*  
 Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku)  
 
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU)  
