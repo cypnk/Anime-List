@@ -95,7 +95,8 @@ Di Gi Charat *1999*
 Dog Days  
 Domestic na Kanojo  
 Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat)  
-Dragon Drive  
+Dragon Drive *2002*  
+Dragon Quest: The Adventure of Dai *1991, 2020*  
 Drifters  
 Druaga No Tou (The Tower of Druaga) The Aegis Of Uruk, The Sword of Uruk  
 Durarara!!  
@@ -126,6 +127,7 @@ Gavuriru Droppuauto (Gabriel DropOut)
 Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun)  
 Gensoumaden Saiyuuki (Saiyuki) *1999, 2000, 2001, 2003, 2004, 2007, 2011, 2017*  
 GetBackers *2002*  
+Ghost Sweeper Mikami *1993, 1994*  
 Gin No Saji  
 Gintama  
 Girls Bravo *2004*  
@@ -213,6 +215,7 @@ Joukamachi no Dandelion (Castle Town Dandelion)
 K-On!  
 Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
 Kaguya-sama: Love is War  
+Kaiketsu Zoro (The Legend of Zorro) *1995*  
 Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits)  
 Kami Nomi zo Shiru Sekai (The World God Only Knows)  
 Kami-tachi ni Hirowareta Otoko (By the Grace of the Gods)  
@@ -228,9 +231,10 @@ Karakai Jozu no Takagi-san (Teasing Master Takagi-san)
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances) *1998*  
 Karigurashi no Arrietty (Arrietty) *2010*  
 Karin (Chibi Vampire) *2005*  
-Kaze ga Tsuyoku Fuiteiru (Run with the Wind)  
+Kaze ga Tsuyoku Fuiteiru (Run with the Wind) *2018*  
+Kaze no Na wa Amunejia (A Wind Named Amnesia) *1990*  
 Kaze no Tani no Naushika (Nausicaä of the Valley of the Wind) *1984*  
-Kazemakase Tsukikage Ran (Carried by the Wind: Tsukikage Ran)  
+Kazemakase Tsukikage Ran (Carried by the Wind: Tsukikage Ran) *2000*  
 Kekkaishi *2006*  
 Kemono no Sou-ja Erin (The Beast Player Erin) *2009*  
 Kenja no Mago (Wise Man's Grandchild)  
@@ -238,12 +242,14 @@ Kenran Butosai Za Mazu Deibureiku (Mars Daybreak) *2004*
 Keppeki Danshi! Aoyama-kun (Clean Freak! Aoyama kun)  
 Kidou Senkan Nadeshiko (Martian Successor Nadesico) *1996*  
 Kikaider *1972*  
-Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba)  
+Kimagure Orange Road *1985, 1987, 1988, 1989, 1996*  
+Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba) *2019*  
 Kimi ni Todoke *2009*  
 Kimi to Boku *2011*  
 Kingyo Chuiho! (Goldfish Warning!) *1991*  
 Kinnikuman *1983*  
 Kino no Tabi - the Beautiful World *2003*  
+Kishin Doji Zenki (Demon Prince Zenki) *1995*  
 Kishuku Gakko no Juliet (Boarding School Juliet) *2018*  
 Knight's & Magic  
 Kobato *2009*  
@@ -265,6 +271,7 @@ Kuma Kuma Kuma Bear *2020*
 Kumamiko - Girl meets Bear *2016*  
 Kumo desu ga, Nani ka? (So I'm a Spider, So What?) *2021*  
 Kuroshitsuji  
+Kyandi Kyandi (Candy Candy) *1976*  
 Kyokai no Kanata (Beyond the Boundary)  
 Kyoko Suiri (In/Spectre)  
 Kyoukai no Rinne (RIN-NE)  
@@ -372,6 +379,7 @@ Riding Bean *1989*
 Rizu to Aoi Tori (Liz and the Blue Bird)  
 Rokka no Yusha (Rokka: Braves of the Six Flowers)  
 Rokujouma no Shinryakusha!? (Invaders of the Rokujouma!?)  
+Romeo no Aoi Sora (Romeo and the Black Brothers | Romeo's Blue Skies) *1995*  
 Rosario to Vampire  
 Roujin Z (Old Man Z) *1991*  
 Rozen Maiden *2004, 2005, 2006, 2013*  
@@ -452,6 +460,7 @@ Tenshi no Tamago (Angel's Egg) *1985*
 Terra e... (Toward the Terra) *1980, 2007*  
 Texhnolyze  
 The Kabocha Wine   
+Tiger Mask *1969, 1970, 1981, 2013*  
 Time Travel Tondekeman (Time Quest!) *1989*  
 Tokyo ESP *2014*  
 Tokyo Godfathers *2003*  
