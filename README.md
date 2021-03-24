@@ -95,8 +95,9 @@ Drifters
 Druaga No Tou (The Tower of Druaga) The Aegis Of Uruk, The Sword of Uruk  
 Durarara!!  
 
-Ef: A Tale of Memories  
-Enen no Shouboutai (Fire Force)  
+Ef: A Tale of Memories *2007*  
+Endro~! *2019*  
+Enen no Shouboutai (Fire Force) *2019*  
 Eru Kazado (El Cazador de la Bruja) *2007*  
 Erufu wo Karu Mono-tachi (Those Who Hunt Elves) *1996*  
 Esper Mami (Mami the Psychic) *1987, 1988*  
@@ -252,7 +253,8 @@ Kore wa Zombie Desu ka?
 Kotonoha no Niwa (The Garden of Words)  
 Kotoura-san  
 Kujira no Kora wa Sajo ni Utau (Children of the Whales)  
-Kuma Kuma Kuma Bear  
+Kuma Kuma Kuma Bear *2020*  
+Kumamiko - Girl meets Bear *2016*  
 Kumo desu ga, Nani ka? (So I'm a Spider, So What?) *2021*  
 Kuroshitsuji  
 Kyokai no Kanata (Beyond the Boundary)  
@@ -375,7 +377,8 @@ Sasami-san@Ganbaranai
 Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
 Sasurai no Taiyo (Nozomi in the Sun) *1971*  
 Sayonara Zetsubou Sensei  
-School Rumble  
+School Rumble *2004, 2005, 2006*  
+Scrapped Princess *2003*  
 Seihou Bukyou Outlaw Star *1998*  
 Seiken no Blacksmith  
 Seirei Tsukai no Blade Dance (Bladedance of Elementalers)  
