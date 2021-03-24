@@ -17,17 +17,19 @@ Akudama Drive *2020*
 Akuma-kun (Devil Boy) *1989*  
 Angel Heart *2005*  
 Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai (Anohana: The Flower We Saw That Day) *2011, 2013*  
-Ansatsu Kyoushitsu (Assassination Classroom)  
-Amagi Buririanto Paku (Amagi Brilliant Park)  
-Ao Haru Ride (Blue Spring Ride)  
-Ao no Exorcist  
-Aoharu x Kikanjuu (Youth x Machine gun)  
+Ansatsu Kyoushitsu (Assassination Classroom) *2015*  
+Amagi Buririanto Paku (Amagi Brilliant Park) *2014*  
+Ao Haru Ride (Blue Spring Ride) *2014*  
+Ao no Exorcist (Blue Exorcist) *2011, 2017*  
+Aoharu x Kikanjuu (Youth x Machine gun) *2015*  
 Appleseed *1988*  
 Arakawa Under the Bridge *2010*  
 Aria The Animation *2005*  
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019*  
+Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*  
 Ashita no Joe (Tomorrow's Joe) *1970*  
 Asobi Asobase *2018*  
+Attacker You! *1984, 2008*  
 Azumanga Daioh *2002*  
 
 Baby Steps  
@@ -44,6 +46,7 @@ Beatless
 Beck  
 Beelzebub-jo no Okinimesu Mama (As Miss Beelzebub Likes)  
 Berserk  
+Berusaiyu no Bara (The Rose of Versailles) *1979*  
 Binbo Shimai Monogatari (Flat Broke Sisters)  
 Bishoujo Senshi Sailor Moon *1992*  
 Black Bullet *2014*  
@@ -61,6 +64,7 @@ Busou Shoujo Machiavellianism
 Bounen no Xamdou (Xam'd: Lost Memories)  
 
 Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou  
+Captain Tsubasa *1988*  
 Cat's Eye *1983, 1984*  
 Charlotte  
 Chio-chan no Tsuugakuro (Chio's School Road)  
@@ -70,7 +74,8 @@ Chukan Kanriroku Tonegawa (Mr. Tonegawa: Middle Management Blues) *2018*
 Chuuka Ichiban! (Cooking Master Boy) *1997, 2019*  
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions)  
 City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*  
-Comic Girls  
+Comic Girls *2018*  
+Crusher Joe *1983, 1989*  
 
 D.Gray-man  
 Dagashi Kashi  
@@ -108,7 +113,7 @@ Flying Witch
 Free!  
 Fruits Basket *2001, 2019*  
 Fukigen na Mononokean (The Morose Mononokean)  
-Full Moon o Sagashite  
+Full Moon o Sagashite *2002*  
 Fune wo Amu (The Great Passage)  
 Fushigi no Umi no Nadia (Nadia: The Secret of Blue Water) *1990*  
 Fushigi Yuugi (Mysterious Play) *1995*  
@@ -178,6 +183,7 @@ Houseki no Kuni (Land of the Lustrous) *2017*
 Howl no Ugoku Shiro (Howl's Moving Castle) *2004*  
 Honzuki no Gekokujo (Ascendance of a Bookworm)  
 Hozuki no Reitetsu (Hozuki's Coolheadedness)  
+Hungry Heart: Wild Striker *2002*  
 Hunter x Hunter  
 Hyakka Ryouran: Samurai Girls  
 Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives)  
@@ -205,6 +211,7 @@ Joshikousei no Mudazukai (Wasteful Days of High School Girls)
 Joukamachi no Dandelion (Castle Town Dandelion)  
 
 K-On!  
+Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
 Kaguya-sama: Love is War  
 Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits)  
 Kami Nomi zo Shiru Sekai (The World God Only Knows)  
@@ -309,7 +316,7 @@ Minami-ke
 Mirai Shounen Conan (Future Boy Conan) *1978, 1984, 1999*  
 Mitsuboshi Colors *2018*  
 Mob Psycho 100  
-Mobile Police Patlabor  
+Mobile Police Patlabor *1989*  
 Momo e no Tegami (A Letter to Momo)  
 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (Problem Children Are Coming From Another World, Aren't They?)  
 Monster Musume no Iru Nichijou  
@@ -317,6 +324,7 @@ Monster Musume no Oisha-san (Monster Girl Doctor)
 Mouretsu Pirates  
 Moyashimon  
 Musaigen no Phantom World (Myriad Colors Phantom World)  
+Musekinin Kanchō Tairo (The Irresponsible Captain Tylor) *1993*  
 Mushibugyou  
 Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World)  
 
@@ -341,7 +349,8 @@ Nyan Koi! *2009*
 
 Okami to Koshinryo (Spice and Wolf)  
 One Punch Man  
-Ore Monogatari!! (My Love Story!!)  
+Ore Monogatari!! (My Love Story!!) *2015*  
+Oritsu Uchugun: Oneamisu no Tsubasa (Royal Space Force: The Wings of Honnêamise) *1987*  
 Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) *2017*  
 Osomatsu-kun *1966, 1988, 1989*  
 Osomatsu-san (Mr. Osomatsu) *2015*  
@@ -371,7 +380,8 @@ Sabanto x Sabisu (Servant x Service)
 Saber Marionette J *1996*  
 Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend)  
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.)  
-Saiunkoku Monogatari (The Story of Saiunkoku)  
+Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
+Saiunkoku Monogatari (The Story of Saiunkoku) *2006, 2007*  
 Sakigake!! Otokojuku *1988*  
 Sakura Quest  
 Sakura Trick  
@@ -404,6 +414,7 @@ Shakugan no Shana
 Shigatsu wa Kimi no Uso  
 Shingeki no Bahamuto (Rage of Bahamut)  
 Shirobako  
+Shokojo Sera (Princess Sarah) *1985*  
 Shokugeki no Souma (Food Wars!)  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour)  
 Shuffle!  
@@ -425,6 +436,7 @@ Strike the Blood
 Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)  
 
 Taiho Shichauzo! (You're Under Arrest)  
+Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold) *1982*  
 Tanaka-kun wa Itsumo Kedaruge  
 Tamako Market  
 Tamayura  
@@ -433,9 +445,10 @@ Tejina-senpai (Magical Sempai)
 Tekkaman Blade *1992*  
 Tenchi Muyou! Ryououki  
 Tenchi Universe  
-Tenisu no Ojisama (The Prince of Tennis)  
+Tenisu no Ojisama (The Prince of Tennis) *2001*  
 Tenki no Ko (Weathering with you)  
-Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime)  
+Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime) *2018*  
+Tenshi no Tamago (Angel's Egg) *1985*  
 Terra e... (Toward the Terra) *1980, 2007*  
 Texhnolyze  
 The Kabocha Wine   
