@@ -146,7 +146,7 @@ Haikyuu!!
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!)  
 Hajime no Ippo *2000, 2003, 2009, 2013*  
 Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods)  
-Hana no Mahotsukai Marī Beru (Flower Witch Mary Bell) *1992*  
+Hana no Mahotsukai Mari Beru (Flower Witch Mary Bell) *1992*  
 Hana Yori Dango (Boys Over Flowers) *1996*  
 Hanasaku Iroha  
 Hanayamata *2014*  
@@ -285,6 +285,7 @@ Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica) *2011*
 Mahou Shoujo Ore  
 Mahouka Koukou no Rettousei (The Irregular at Magic High School)  
 Mahoutsukai no Yome (The Ancient Magus' Bride)  
+Mahotsukai Sari (Sally the Witch) *1966, 1989, 1990*  
 Maiko-san chi no Makanai-san (Kiyo in Kyoto: From the Maiko House) *2021*  
 Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun)  
 Maison Ikkoku *1986*  
@@ -295,6 +296,7 @@ Maou-sama, Retry!
 Manyuu Hikenchou  
 Maria Holic  
 Masamune-kun no Revenge  
+Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
 Maoyuu Maou Yuusha (Maoyu)  
 Maojo de Oyasumi (Sleepy Princess in the Demon Castle)  
 Majo no Takkyuubin (Kiki's Delivery Service)  
@@ -341,7 +343,9 @@ Okami to Koshinryo (Spice and Wolf)
 One Punch Man  
 Ore Monogatari!! (My Love Story!!)  
 Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) *2017*  
-Ouran Koukou Host Club *2006*  
+Osomatsu-kun *1966, 1988, 1989*  
+Osomatsu-san (Mr. Osomatsu) *2015*  
+Ouran Koukou Host Club (Ouran High School Host Club) *2006*  
 
 Pan De Peace *2016*  
 Panchi Rain (Punch Line) *2015*  
