@@ -3,6 +3,7 @@ Watched, Watching, To-Watch
 
 Absolute Duo *2015*  
 Accel World *2012*  
+Acchi Kocchi (Place to Place) *2012*  
 Ace o Nerae! (Aim for the Ace!) *1973, 1978, 1979, 1988*  
 Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*  
 Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
@@ -15,8 +16,11 @@ Akatsuki no Yona (Yona of the Dawn) *2014*
 Akira *1988*  
 Akudama Drive *2020*  
 Akuma-kun (Devil Boy) *1989*  
+Amaama to Inazuma (Sweetness & Lightning) *2016*  
+Amanchu! *2016*  
 Angel Heart *2005*  
 Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai (Anohana: The Flower We Saw That Day) *2011, 2013*  
+Ano Natsu de Matteru (Waiting in the Summer) *2012*  
 Ansatsu Kyoushitsu (Assassination Classroom) *2015*  
 Amagi Buririanto Paku (Amagi Brilliant Park) *2014*  
 Ao Haru Ride (Blue Spring Ride) *2014*  
@@ -32,22 +36,24 @@ Asobi Asobase *2018*
 Attacker You! *1984, 2008*  
 Azumanga Daioh *2002*  
 
-Baby Steps  
-Baccano!  
+Baby Steps *2014*  
+Baccano! *2007*  
 Back Street Girls: Gokudolls  
 Baka to Test to Shoukanjuu  
 Bakemonogatari  
-Bakuman  
+Bakuman *2010*  
 Ballroom e Youkoso (Welcome to the Ballroom)  
 BanG Dream!  
-Barakamon  
+Barakamon *2014, 2016*  
+Basara *1998*  
 Beast King GoLion *1981*  
 Beatless  
 Beck  
 Beelzebub-jo no Okinimesu Mama (As Miss Beelzebub Likes)  
-Berserk  
+Berserk *1997, 2016*  
 Berusaiyu no Bara (The Rose of Versailles) *1979*  
-Binbo Shimai Monogatari (Flat Broke Sisters)  
+Binbo Shimai Monogatari (Flat Broke Sisters) *2996*  
+Birthday Wonderland *2019*  
 Bishoujo Senshi Sailor Moon *1992*  
 Black Bullet *2014*  
 Black Cat *2005*  
@@ -65,6 +71,7 @@ Bounen no Xamdou (Xam'd: Lost Memories)
 
 Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou  
 Captain Tsubasa *1988*  
+Carole & Tuesday *2019*  
 Cat's Eye *1983, 1984*  
 Charlotte  
 Chio-chan no Tsuugakuro (Chio's School Road)  
@@ -199,8 +206,9 @@ Inari, Konkon, Koi Iroha *2014*
 Infinite Dendrogram  
 Initial D *1998, 1999, 2001, 2004, 2012, 2014*  
 Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace)  
-Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World)  
-Isekai Shokudou (Restaurant to Another World)  
+Iroduku Sekai no Ashita kara (IRODUKU: The World in Colors) *2018*  
+Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World) *2018*  
+Isekai Shokudou (Restaurant to Another World) *2017*  
 Isekai wa Smartphone to Tomo ni  
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.)  
 
@@ -263,6 +271,7 @@ Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!)
 Kono Naka ni Hitori, Imouto ga Iru!  
 Kono Oto Tomare!  
 Kono Subarashii Sekai ni Shukufuku wo! (KonoSuba: God's Blessing on this Wonderful World!)  
+Konohana Kitan *2017*  
 Kore wa Zombie Desu ka?  
 Kotonoha no Niwa (The Garden of Words)  
 Kotoura-san  
@@ -317,6 +326,7 @@ Majo no Takkyuubin (Kiki's Delivery Service)
 Meari to Majo no Hana (Mary and the Witch's Flower)  
 Metal Skin Panic MADOX-01 *1987*  
 Michiko to Hatchin  
+Miira no Kaikata (How to keep a mummy) *2018*  
 Mikakunin de Shinkokei (Engaged to the Unidentified)  
 Mimi wo Sumaseba  
 Minami-ke  
@@ -324,6 +334,7 @@ Mirai Shounen Conan (Future Boy Conan) *1978, 1984, 1999*
 Mitsuboshi Colors *2018*  
 Mob Psycho 100  
 Mobile Police Patlabor *1989*  
+Mokke *2007*  
 Momo e no Tegami (A Letter to Momo)  
 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (Problem Children Are Coming From Another World, Aren't They?)  
 Monster Musume no Iru Nichijou  
@@ -368,6 +379,7 @@ Panchi Rain (Punch Line) *2015*
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
 Piano no Mori (Forest of Piano) *2007, 2018*  
 Plunderer *2020*  
+Poco's Udon World *2016*  
 Popolocrois Monogatari *1998*  
 Princess Connect! Re:Dive  
 Princess Principal *2017, 2021*  
@@ -441,14 +453,15 @@ Stella no Mahou (Magic of Stella) *2016*
 Stop!! Hibari-kun! *1983*  
 Strange+  
 Strike the Blood  
+Sutamyu (Star-Myu) *2016*  
 Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)  
 
 Taiho Shichauzo! (You're Under Arrest)  
 Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold) *1982*  
 Tanaka-kun wa Itsumo Kedaruge  
 Tamako Market  
-Tamayura  
-Tegami Bachi  
+Tamayura *2010*  
+Tegami Bachi *2009*  
 Tejina-senpai (Magical Sempai)  
 Tekkaman Blade *1992*  
 Tenchi Muyou! Ryououki  
@@ -474,6 +487,7 @@ Toshokan Sensou (Library War)
 Touch *1985*  
 Trinity Seven  
 Tsubasa: Reservoir Chronicle *2005*  
+Tsukai ni Taisetsu na Koto (Someday's Dreamers) *2003*  
 Tsuki ga Kirei (As the Moon, So Beautiful)  
 Tsukuyomi: Moon Phase  
 Tsurezure Children  
@@ -506,6 +520,7 @@ Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNA
 Yakitate!! Japan *2004*  
 Yamada-kun to 7-nin no Majo  
 Yawara! *1989, 1992, 1996*  
+Yokohama Kaidashi Kikou *1998*  
 Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*  
 Youjo Senki (Saga of Tanya the Evil)  
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life)  
