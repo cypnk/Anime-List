@@ -36,6 +36,7 @@ Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Str
 Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*  
 Ashita no Joe (Tomorrow's Joe) *1970*  
 Asobi Asobase *2018*  
+Attack No. 1 *1969*  
 Attacker You! *1984, 2008*  
 Azumanga Daioh *2002*  
 
