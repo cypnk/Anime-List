@@ -91,29 +91,30 @@ Comic Girls *2018*
 Crusher Joe *1983, 1989*  
 Cutie Honey Flash *1997*  
 
-D.Gray-man  
-Dagashi Kashi  
-Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?)  
-Danshi Koukousei no Nichijou  
-Dantalian no Shoka (The Mystic Archives of Dantalian)  
-Darling in the FranXX  
+D.Gray-man *2006, 2016*  
+Dagashi Kashi *2016, 2018*  
+Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?) *2015, 2019*  
+Danshi Koukousei no Nichijou *2012*  
+Dantalian no Shoka (The Mystic Archives of Dantalian) *2011*  
+Darling in the FranXX *2018*  
+Date A Live *2013*  
 DearS *2004*  
-Death March kara Hajimaru Isekai Kyousoukyoku  
-Denpa Kyoushi (Ultimate Otaku Teacher)  
-Denpa Onna to Seishun Otoko (Ground Control to Psychoelectric Girl)  
-Densetsu no Yusha no Densetsu (The Legend of the Legendary Heroes)  
+Death March kara Hajimaru Isekai Kyousoukyoku (Death March to The Parallel World Rhapsody) *2018*  
+Denpa Kyoushi (Ultimate Otaku Teacher) *2015*  
+Denpa Onna to Seishun Otoko (Ground Control to Psychoelectric Girl) *2011*  
+Densetsu no Yusha no Densetsu (The Legend of the Legendary Heroes) *2010*  
 Detective Conan (Case Closed) *1996*  
-Detroit Metal City  
-Demi-chan wa Kataritai (Interviews With Monster Girls)  
+Detroit Metal City *2008*  
+Demi-chan wa Kataritai (Interviews With Monster Girls) *2017*  
 Di Gi Charat *1999*  
-Dog Days  
-Domestic na Kanojo  
-Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat)  
+Dog Days *2011, 2012, 2015*  
+Domestic na Kanojo *2019*  
+Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat) *2019*  
 Dragon Drive *2002*  
 Dragon Quest: The Adventure of Dai *1991, 2020*  
-Drifters  
-Druaga No Tou (The Tower of Druaga) The Aegis Of Uruk, The Sword of Uruk  
-Durarara!!  
+Drifters *2016*  
+Druaga No Tou (The Tower of Druaga) *2008, 2009*  
+Durarara!! *2010, 2015*  
 
 Ef: A Tale of Memories *2007*  
 Endro~! *2019*  
@@ -156,6 +157,7 @@ Golgo 13 *1998, 2008*
 Gosick  
 Gotoubun no Hanayome (The Quintessential Quintuplets)  
 Grand Blue (Grand Blue Dreaming)  
+Great Pretender *2020*  
 Great Teacher Onizuka *1999*  
 Gugure! Kokkuri-san (Repeat! Kokkuri-san)  
 Gunsmith Cats *1995*  
@@ -177,6 +179,7 @@ Happy Cooking Graffiti (Gourmet Girl Graffiti)
 Hataage! Kemono Michi (Kemono Michi: Rise Up)  
 Hataraki Man  
 Hataraku Mao-sama (The Devil is a Part-Timer!)  
+Hataraku Saibou (Cells at Work) *2018, 2020*  
 Haunted Junction *1997*  
 Hayate no Gotoku!  
 Hensuki  
@@ -480,9 +483,10 @@ Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold)
 Tanaka-kun wa Itsumo Kedaruge  
 Tamako Market  
 Tamayura *2010*  
+Tasogare Otome x Amunejia (Dusk Maiden of Amnesia) *2012*  
 Tattoon Master *1996*  
 Tegami Bachi *2009*  
-Tejina-senpai (Magical Sempai)  
+Tejina-senpai (Magical Sempai) *2019*  
 Tekkaman Blade *1992*  
 Tenchi Muyou! Ryououki  
 Tenchi Universe  
