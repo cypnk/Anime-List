@@ -41,19 +41,19 @@ Azumanga Daioh *2002*
 
 Baby Steps *2014*  
 Baccano! *2007*  
-Back Street Girls: Gokudolls  
-Baka to Test to Shoukanjuu  
-Bakemonogatari  
+Back Street Girls: Gokudolls *2018*  
+Baka to Test to Shoukanjuu *2010, 2011*  
+Bakemonogatari *2009, 2013, 2014*  
 Bakuman *2010*  
 Bakuso Kyodai Let's & Go!! *1996, 1997*  
-Ballroom e Youkoso (Welcome to the Ballroom)  
-BanG Dream!  
+Ballroom e Youkoso (Welcome to the Ballroom) *2017*  
+BanG Dream! *2017, 2018, 2019, 2020*  
 Barakamon *2014, 2016*  
 Basara *1998*  
 Beast King GoLion *1981*  
-Beatless  
-Beck  
-Beelzebub-jo no Okinimesu Mama (As Miss Beelzebub Likes)  
+Beatless *2018*  
+Beck *2004*  
+Beelzebub-jo no Okinimesu Mama (As Miss Beelzebub Likes) *2018*  
 Berserk *1997, 2016*  
 Berusaiyu no Bara (The Rose of Versailles) *1979*  
 Binbo Shimai Monogatari (Flat Broke Sisters) *2996*  
@@ -61,18 +61,18 @@ Birthday Wonderland *2019*
 Bishoujo Senshi Sailor Moon *1992*  
 Black Bullet *2014*  
 Black Cat *2005*  
-Black Clover  
-Bobobo-bo Bo-bobo  
+Black Clover *2017*  
+Bobobo-bo Bo-bobo *2003*  
 Boogiepop Phantom *2000*  
-Boku no Hero Academia  
-Boku wa Tomodachi ga Sukunai (Haganai: I Don't Have Many Friends)  
-Bokura wa Minna Kawaisou (The Kawai Complex Guide to Manors and Hostel Behavior)  
-Bokutachi wa Benkyou ga Dekinai (We Never Learn: BOKUBEN)  
-Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan)  
-Bungou Stray Dogs  
-Buso Renkin (Arms Alchemist)  
-Busou Shoujo Machiavellianism  
-Bounen no Xamdou (Xam'd: Lost Memories)  
+Boku no Hero Academia *2016*  
+Boku wa Tomodachi ga Sukunai (Haganai: I Don't Have Many Friends) *2011, 2013*  
+Bokura wa Minna Kawaisou (The Kawai Complex Guide to Manors and Hostel Behavior) *2014*  
+Bokutachi wa Benkyou ga Dekinai (We Never Learn: BOKUBEN) *2019*  
+Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan) *2005, 2007*  
+Bungou Stray Dogs *2016, 2021*  
+Buso Renkin (Arms Alchemist) *2006*  
+Busou Shoujo Machiavellianism *2017*  
+Bounen no Xamdou (Xam'd: Lost Memories) *2008*  
 
 Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou *2012*  
 Captain Tsubasa *1988*  
@@ -81,6 +81,7 @@ Cat's Eye *1983, 1984*
 Charlotte *2015*  
 Chio-chan no Tsuugakuro (Chio's School Road) *2018*  
 Chojin-Kokoseitachi wa Isekai demo Yoyu de Ikinuku Yodesu! (Choyoyu: High School Prodigies Have It Easy Even In Another World) *2019*  
+Choyaku Hyakunin Isshu: Uta Koi *2012*  
 Chrome Shelled Regios *2009*  
 Chukan Kanriroku Tonegawa (Mr. Tonegawa: Middle Management Blues) *2018*  
 Chuuka Ichiban! (Cooking Master Boy) *1997, 2019*  
@@ -403,7 +404,7 @@ Princess Principal *2017, 2021*
 Prizun Skuru (Prison School) *2015*  
 Purasutikku Memorizu (Plastic Memories) *2015*  
 
-Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight)  
+Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
 Rokka no Yusha (Rokka: Braves of the Six Flowers) *2015*  
@@ -528,14 +529,14 @@ Uzaki-chan wa Asobitai!
 Vampire Knight *2008*  
 Virus (Virus Buster Serge) *1997*  
 
-Wagaya no Oinari-sama (Our Home's Fox Deity)  
-Wagnaria! (Working!)  
-Wake Up, Girls!  
+Wagaya no Oinari-sama (Our Home's Fox Deity) *2008*  
+Wagnaria! (Working!) *2010, 2011, 2015, 2016*  
+Wake Up, Girls! *2014, 2015, 2017*  
 Wangan Midnight *2007*  
-Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!)  
-Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!)  
+Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!) *2013*  
+Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!) *2019*  
 Wonder Egg Priority *2021*  
-Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku)  
+Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku) *2018, 2019*  
 
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU)  
 Yakitate!! Japan *2004*  
