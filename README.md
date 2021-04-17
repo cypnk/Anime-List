@@ -426,10 +426,11 @@ Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.)
 Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
 Saiunkoku Monogatari (The Story of Saiunkoku) *2006, 2007*  
 Sakigake!! Otokojuku *1988*  
-Sakura Quest  
-Sakura Trick  
+Sakura Quest *2017*  
+Sakura Trick *2014*  
 Sakurasou no Pet na Kanojo (The Pet Girl of Sakurasou)  
 Sakamoto desu ga?  
+Salaryman Kintaro *2001*  
 Samurai Flamenco  
 Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion)  
 Sasami-san@Ganbaranai  
@@ -451,26 +452,26 @@ Senjushi (The Thousand Noble Musketeers)
 Senkuu Ishigami (Dr. Stone)  
 Senryuu Shoujo  
 Servamp  
-Seto no Hanayome  
+Seto no Hanayome (My Bride is a Mermaid) *2007*  
 Sewayaki Kitsune no Senko-san (The Helpful Fox Senko-san)  
 Shakugan no Shana  
-Shigatsu wa Kimi no Uso  
+Shigatsu wa Kimi no Uso (Your Lie in April) *2014*  
 Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*   
-Shingeki no Bahamuto (Rage of Bahamut)  
-Shirobako  
+Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
+Shirobako *2014, 2015, 2020*  
 Shokojo Sera (Princess Sarah) *1985*  
 Shokugeki no Souma (Food Wars!)  
-Shoujo Shuumatsu Ryokou (Girl's Last Tour)  
+Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
 Shuffle!  
-SKET Dance  
+SKET Dance *2011*  
 Slam Dunk *1993, 1994, 1995*  
-Slow Start  
-SoltyRei  
+Slow Start *2018*  
+SoltyRei *2005*  
 Somari to Mori no Kamisama (Somali and the Forest Spirit) *2020*  
 Sora no Manimani *2009*  
-Sora no Woto (Sound of the Sky)  
-Sora yori mo Tooi Basho (A Place Further Than the Universe)  
-Soredemo Sekai wa Utsukushii (The World is Still Beautiful)  
+Sora no Woto (Sound of the Sky) *2010*  
+Sora yori mo Tooi Basho (A Place Further Than the Universe) *2018*  
+Soredemo Sekai wa Utsukushii (The World is Still Beautiful) *2014*  
 Space☆Dandy  
 Stella Jo-Gakuin C3-Bu (Stella Women's Academy, High School Division Class C3)  
 Stella no Mahou (Magic of Stella) *2016*  
