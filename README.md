@@ -440,6 +440,7 @@ Sayonara Zetsubou Sensei
 School Rumble *2004, 2005, 2006*  
 Scrapped Princess *2003*  
 Seihou Bukyou Outlaw Star *1998*  
+Seijo no Maryoku wa Bannou Desu (The Saint's Magic Power Is Omnipotent) *2021*  
 Seiken no Blacksmith  
 Seirei Tsukai no Blade Dance (Bladedance of Elementalers)  
 Seitokai no Ichizon (Student Council's Discretion)  
