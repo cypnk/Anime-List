@@ -5,6 +5,7 @@ Absolute Duo *2015*
 Accel World *2012*  
 Acchi Kocchi (Place to Place) *2012*  
 Ace o Nerae! (Aim for the Ace!) *1973, 1978, 1979, 1988*  
+Akane-chan *1968*  
 Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*  
 Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
 Agatha Christie no Meitantei Poirot to Marple (Agatha Christie's Great Detectives Poirot and Marple) *2004*  
@@ -111,6 +112,7 @@ Di Gi Charat *1999*
 Dog Days *2011, 2012, 2015*  
 Domestic na Kanojo *2019*  
 Doraemon *1973, 1979, 2005*  
+Dororo *1969, 2019*  
 Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat) *2019*  
 Dragon Drive *2002*  
 Dragon Quest: The Adventure of Dai *1991, 2020*  
@@ -164,27 +166,28 @@ Great Teacher Onizuka *1999*
 Gugure! Kokkuri-san (Repeat! Kokkuri-san) *2014*  
 Gunsmith Cats *1995*  
 
-Hachimitsu to Kuroba (Honey and Clover)  
-Hachinantte Sore wa Nai Desho! (The 8th son? Are you kidding me?)  
+Hachimitsu to Kuroba (Honey and Clover) *2005, 2006*  
+Hachinantte Sore wa Nai Desho! (The 8th son? Are you kidding me?) *2020*  
 Haibane Renmei *2002*  
-Haikyuu!!  
-Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!)  
+Haikyuu!! *2014*  
+Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!) *2009, 2010, 2012, 2013*  
 Hajime no Ippo *2000, 2003, 2009, 2013*  
-Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods)  
+Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods) *2018*  
 Hana no Mahotsukai Mari Beru (Flower Witch Mary Bell) *1992*  
 Hana Yori Dango (Boys Over Flowers) *1996*  
 Hanasaku Iroha *2011, 2013*  
 Hanayamata *2014*  
 Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon) *2006*  
-Handa-kun  
-Happy Cooking Graffiti (Gourmet Girl Graffiti)  
-Hataage! Kemono Michi (Kemono Michi: Rise Up)  
-Hataraki Man  
-Hataraku Mao-sama (The Devil is a Part-Timer!)  
+Handa-kun (related: Barakamon) *2014, 2016*  
+Happy Cooking Graffiti (Gourmet Girl Graffiti) *2015*  
+Hataage! Kemono Michi (Kemono Michi: Rise Up) *2019*  
+Hataraki Man *2006*  
+Hataraku Mao-sama (The Devil is a Part-Timer!) *2013*  
 Hataraku Saibou (Cells at Work) *2018, 2020*  
 Haunted Junction *1997*  
-Hayate no Gotoku!  
-Hensuki  
+Hayate no Gotoku! *2007, 2009, 2012, 2013, 2014*  
+Hello! Sandybell *1981*  
+Hensuki *2019*  
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
 Hibike! Euphonium (Sound! Euphonium)  
 Hidamari Sketch  
@@ -498,6 +501,7 @@ Tenisu no Ojisama (The Prince of Tennis) *2001*
 Tenki no Ko (Weathering with you)  
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime) *2018*  
 Tenshi no Tamago (Angel's Egg) *1985*  
+Tentomushi no Uta (The Song of Tentomushi) *1974*  
 Terra e... (Toward the Terra) *1980, 2007*  
 Texhnolyze  
 The Kabocha Wine   
