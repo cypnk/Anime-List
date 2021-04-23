@@ -189,33 +189,33 @@ Hayate no Gotoku! *2007, 2009, 2012, 2013, 2014*
 Hello! Sandybell *1981*  
 Hensuki *2019*  
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
-Hibike! Euphonium (Sound! Euphonium)  
-Hidamari Sketch  
-Hidan no Aria  
-High School Dxd Ova  
-High School Fleet  
-High Score Girl  
+Hibike! Euphonium (Sound! Euphonium) *2015, 2016, 2017, 2018*  
+Hidamari Sketch *2007, 2008, 2010, 2011, 2012, 2013*  
+Hidan no Aria *2011, 2015*  
+High School DxD *2012, 2013, 2015, 2018*  
+High School Fleet *2016, 2020*  
+High Score Girl *2018*  
 High School! Kimengumi *1985*  
-Himouto! Umaru-chan  
-Hinako Note  
-Hinamatsuri  
-Hinomaru Sumo  
+Himouto! Umaru-chan *2015, 2017*  
+Hinako Note *2017*  
+Hinamatsuri *2018*  
+Hinomaru Sumo *2018*  
 Hiatari Ryoko! *1987*  
-Hitori Bocchi no Marumaru Seikatsu  
-Hitsugi no Chaika (Chaika - The Coffin Princess)  
-Hokago Saikoro Club (After School Dice Club)  
+Hitori Bocchi no Marumaru Seikatsu *2019*  
+Hitsugi no Chaika (Chaika - The Coffin Princess) *2014*  
+Hokago Saikoro Club (After School Dice Club) *2019*  
 Hono no Tokyuji Dodge Danpei (Fighting Dodgeball Boy Dodge Danpei) *1991*  
-Honzuki no Gekokujo (Ascendance of a Bookworm)  
-Hori-san to Miyamura-kun (Hori and Miyamura)  
+Honzuki no Gekokujo (Ascendance of a Bookworm) *2019*  
+Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021*  
 Hourou Musuko (Wandering Son) *2011*  
 Houseki no Kuni (Land of the Lustrous) *2017*  
-Hozuki no Reitetsu (Hozuki's Coolheadedness)  
+Hozuki no Reitetsu (Hozuki's Coolheadedness) *2014, 2015*  
 Howl no Ugoku Shiro (Howl's Moving Castle) *2004*  
 Hungry Heart: Wild Striker *2002*  
-Hunter x Hunter  
-Hyakka Ryouran: Samurai Girls  
-Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives)  
-Hyouka  
+Hunter x Hunter *1998, 1999, 2002, 2011*  
+Hyakka Ryouran: Samurai Girls *2010, 2013, 2015*  
+Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives) *2020*  
+Hyouka *2012*  
 
 I My Me! Strawberry Eggs (Strawberry Eggs) *2001*  
 Ichiban Ushiro no Dai Mao (Demon King Daimao) *2010*  
@@ -375,13 +375,13 @@ Nana *2006*
 Nanatsu no Taizai (The Seven Deadly Sins) *2014*  
 Nanatsu no Umi no Tiko (Tico of the Seven Seas) *1994*  
 Natsu no Arashi! (Summer Storm!) *2009*  
-Natsume Yujin-Cho (Natsume's Book of Friends)  
-Net-juu no Susume (Recovery of an MMO Junkie)  
-Nichijou  
-Nisekoi  
-Negima!  
+Natsume Yujin-Cho (Natsume's Book of Friends) *2008, 2013, 2017*  
+Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
+Nichijou *2011*  
+Nisekoi *2014, 2015*  
+Negima! *2004, 2005, 2006, 2008, 2009, 2011*  
 New Game! *2016*  
-No Game No Life  
+No Game No Life *2014, 2015*  
 No-Rin *2014*  
 Nobunaga no Shinobi *2016, 2018*  
 Nodame Cantabile *2007, 2008, 2010*  
