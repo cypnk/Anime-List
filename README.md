@@ -422,51 +422,52 @@ Rosario to Vampire *2008*
 Roujin Z (Old Man Z) *1991*  
 Rozen Maiden *2004, 2005, 2006, 2013*  
 
-Sabanto x Sabisu (Servant x Service)  
+Sabanto x Sabisu (Servant x Service) *2013*  
 Saber Marionette J *1996*  
-Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend)  
-Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.)  
+Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend) *2015*  
+Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.) *2016, 2019*  
 Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
 Saiunkoku Monogatari (The Story of Saiunkoku) *2006, 2007*  
 Sakigake!! Otokojuku *1988*  
 Sakura Quest *2017*  
 Sakura Trick *2014*  
-Sakurasou no Pet na Kanojo (The Pet Girl of Sakurasou)  
-Sakamoto desu ga?  
+Sakurasou no Pet na Kanojo (The Pet Girl of Sakurasou) *2012*  
+Sakamoto desu ga? (Haven't You Heard? I'm Sakamoto) *2016*  
 Salaryman Kintaro *2001*  
-Samurai Flamenco  
-Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion)  
-Sasami-san@Ganbaranai  
+Samurai Flamenco *2013*  
+Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion) *2016*  
+Sasami-san@Ganbaranai *2013*  
 Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
 Sasurai no Taiyo (Nozomi in the Sun) *1971*  
-Sayonara Zetsubou Sensei  
+Sayonara Zetsubou Sensei *2007, 2008, 2009, 2012*  
 School Rumble *2004, 2005, 2006*  
 Scrapped Princess *2003*  
 Seihou Bukyou Outlaw Star *1998*  
 Seijo no Maryoku wa Bannou Desu (The Saint's Magic Power Is Omnipotent) *2021*  
-Seiken no Blacksmith  
-Seirei Tsukai no Blade Dance (Bladedance of Elementalers)  
-Seitokai no Ichizon (Student Council's Discretion)  
-Seitokai Yakindomo  
-Seikai no Monshou  
-Seikai no Senki *2000, 2001, 2005*  
-Sekirei  
+Seiken no Blacksmith *2009*  
+Seirei Tsukai no Blade Dance (Bladedance of Elementalers) *2014*  
+Seitokai no Ichizon (Student Council's Discretion) *2009, 2012*  
+Seitokai Yakindomo *2010, 2011, 2014, 2017, 2021*  
+Seikai no Monshou (Crest of the Stars) *1999*  
+Seikai no Senki (Banner of the Stars|related:Crest of the Stars) *2000, 2001, 2005*  
+Sekirei *2008, 2010*  
 Sen to Chihiro no Kamikakushi (Spirited Away) *2001*  
-Senjushi (The Thousand Noble Musketeers)  
-Senkuu Ishigami (Dr. Stone)  
-Senryuu Shoujo  
-Servamp  
+Senjushi (The Thousand Noble Musketeers) *2018*  
+Senkuu Ishigami (Dr. Stone) *2019, 2021*  
+Senryuu Shoujo *2019*  
+Servamp *2016*  
 Seto no Hanayome (My Bride is a Mermaid) *2007*  
-Sewayaki Kitsune no Senko-san (The Helpful Fox Senko-san)  
-Shakugan no Shana  
+Sewayaki Kitsune no Senko-san (The Helpful Fox Senko-san) *2019*  
+Shakugan no Shana *2005, 2007, 2011*  
+Shaman King *2001, 2021*  
 Shigatsu wa Kimi no Uso (Your Lie in April) *2014*  
 Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*   
 Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
 Shirobako *2014, 2015, 2020*  
 Shokojo Sera (Princess Sarah) *1985*  
-Shokugeki no Souma (Food Wars!)  
+Shokugeki no Souma (Food Wars!) *2015*  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
-Shuffle!  
+Shuffle! *2005, 2007*  
 SKET Dance *2011*  
 Slam Dunk *1993, 1994, 1995*  
 Slow Start *2018*  
@@ -476,14 +477,14 @@ Sora no Manimani *2009*
 Sora no Woto (Sound of the Sky) *2010*  
 Sora yori mo Tooi Basho (A Place Further Than the Universe) *2018*  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful) *2014*  
-Space☆Dandy  
-Stella Jo-Gakuin C3-Bu (Stella Women's Academy, High School Division Class C3)  
+Space☆Dandy *2014*  
+Stella Jo-Gakuin C3-Bu (Stella Women's Academy, High School Division Class C3) *2013*  
 Stella no Mahou (Magic of Stella) *2016*  
 Stop!! Hibari-kun! *1983*  
-Strange+  
-Strike the Blood  
+Strange+ *2014*  
+Strike the Blood *2013, 2015, 2016, 2018, 2020*  
 Sutamyu (Star-Myu) *2016*  
-Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)  
+Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya) *2006, 2009*  
 
 Taiho Shichauzo! (You're Under Arrest)  
 Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold) *1982*  
