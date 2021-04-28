@@ -72,6 +72,7 @@ Bokura wa Minna Kawaisou (The Kawai Complex Guide to Manors and Hostel Behavior)
 Bokutachi wa Benkyou ga Dekinai (We Never Learn: BOKUBEN) *2019*  
 Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan) *2005, 2007*  
 Bungou Stray Dogs *2016, 2021*  
+Burn Up! *1991, 1996, 1997, 2004*  
 Buso Renkin (Arms Alchemist) *2006*  
 Busou Shoujo Machiavellianism *2017*  
 Bounen no Xamdou (Xam'd: Lost Memories) *2008*  
@@ -158,6 +159,7 @@ Gokukoku no Brynhildr (Brynhildr in the Darkness) *2014*
 Gokushufudo (The Way of the Househusband) *2021*  
 Golden Kamuy *2018*  
 Golgo 13 *1998, 2008*  
+Gosenzo-sama Banbanzai! *1989*  
 Gosick *2011*  
 Gotoubun no Hanayome (The Quintessential Quintuplets) *2019, 2021*  
 Grand Blue (Grand Blue Dreaming) *2018*  
@@ -196,6 +198,8 @@ High School DxD *2012, 2013, 2015, 2018*
 High School Fleet *2016, 2020*  
 High Score Girl *2018*  
 High School! Kimengumi *1985*  
+Hime-chan no Ribon (Hime-chan's Ribbon) *1992*  
+Himitsu no Akko-chan (The Secrets of Akko-chan) *1969, 1988, 1989, 1998*  
 Himouto! Umaru-chan *2015, 2017*  
 Hinako Note *2017*  
 Hinamatsuri *2018*  
