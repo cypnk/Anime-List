@@ -5,6 +5,7 @@ Absolute Duo *2015*
 Accel World *2012*  
 Acchi Kocchi (Place to Place) *2012*  
 Ace o Nerae! (Aim for the Ace!) *1973, 1978, 1979, 1988*  
+Aka-chan to Boku (Baby & Me) *1996*  
 Akane-chan *1968*  
 Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*  
 Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
@@ -35,6 +36,7 @@ Arakawa Under the Bridge *2010*
 Aria The Animation *2005*  
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019*  
 Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*  
+Arusuran Senki (The Heroic Legend of Arslan) *1991*  
 Ashita no Joe (Tomorrow's Joe) *1970*  
 Asobi Asobase *2018*  
 Attack No. 1 *1969*  
@@ -71,6 +73,7 @@ Boku wa Tomodachi ga Sukunai (Haganai: I Don't Have Many Friends) *2011, 2013*
 Bokura wa Minna Kawaisou (The Kawai Complex Guide to Manors and Hostel Behavior) *2014*  
 Bokutachi wa Benkyou ga Dekinai (We Never Learn: BOKUBEN) *2019*  
 Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan) *2005, 2007*  
+Bakuretsu Hanta (Sorcerer Hunters) *1995*  
 Bungou Stray Dogs *2016, 2021*  
 Burn Up! *1991, 1996, 1997, 2004*  
 Buso Renkin (Arms Alchemist) *2006*  
@@ -139,12 +142,14 @@ Fune wo Amu (The Great Passage) *2016*
 Fushigi no Umi no Nadia (Nadia: The Secret of Blue Water) *1990*  
 Fushigi Yuugi (Mysterious Play) *1995*  
 
+Gaisutazu Furakushonsu obu za Asu (Geisters) *2001*  
 Gakuen Babysitters *2018*  
 Gall Force *1986*  
 Garasu no Kamen (Glass Mask) *1984, 1998, 2005*  
 Gate *2015, 2016*  
 Gavuriru Droppuauto (Gabriel DropOut) *2017*  
 Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun) *2014*  
+Genjitsushugi Yusha no Okoku Saikenki (How a Realist Hero Rebuilt the Kingdom) *2021*  
 Gensoumaden Saiyuuki (Saiyuki) *1999, 2000, 2001, 2003, 2004, 2007, 2011, 2017*  
 GetBackers *2002*  
 Ghost Sweeper Mikami *1993, 1994*  
@@ -220,6 +225,7 @@ Hunter x Hunter *1998, 1999, 2002, 2011*
 Hyakka Ryouran: Samurai Girls *2010, 2013, 2015*  
 Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives) *2020*  
 Hyouka *2012*  
+Hyper Police *1997*  
 
 I My Me! Strawberry Eggs (Strawberry Eggs) *2001*  
 Ichiban Ushiro no Dai Mao (Demon King Daimao) *2010*  
@@ -289,6 +295,7 @@ Kobato *2009*
 Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid) *2017, 2021*  
 Kodomo no Omocha (Kodocha) *1996*  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate) *2012*  
+Koi to Uso (Love and Lies) *2017*  
 Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn) *2015, 2016*  
 Kokuriko-Zaka Kara (From Up On Poppy Hill) *2011*  
 Komori-san wa Kotowarenai! *2015*  
@@ -323,56 +330,58 @@ Lupin III *1971, 1977, 1984*
 
 Mach GoGoGo (Speed Racer) *1967*  
 Machikado Mazoku (The Demon Girl Next Door)  
-Madan no O to Vanadis (Lord Marksman and Vanadis)  
-Magi (Magi: The Labyrinth of Magic)  
+Madan no O to Vanadis (Lord Marksman and Vanadis) *2014*  
+Magi (Magi: The Labyrinth of Magic) *2012, 2013*  
 Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
 Maho no Tenshi Kurīmī Mami (Creamy Mami, the Magic Angel) *1983*  
-Maho Senshi Riui (Rune Soldier)  
+Maho Senshi Riui (Rune Soldier) *2001*  
 Mahojin Guru Guru (Magic Circle Guruguru)  *1994*  
 Mahoraba: Heartful days *2005*  
 Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica) *2011*  
-Mahou Shoujo Ore  
-Mahouka Koukou no Rettousei (The Irregular at Magic High School)  
-Mahoutsukai no Yome (The Ancient Magus' Bride)  
+Mahou Shoujo Ore *2018*  
+Mahouka Koukou no Rettousei (The Irregular at Magic High School) *2014, 2021*  
+Mahoutsukai no Yome (The Ancient Magus' Bride) *2016, 2017, 2021*  
 Mahotsukai Sari (Sally the Witch) *1966, 1989, 1990*  
 Maiko-san chi no Makanai-san (Kiyo in Kyoto: From the Maiko House) *2021*  
-Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun)  
+Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun) *2019*  
 Maison Ikkoku *1986*  
 Majo no Tabitabi (Wandering Witch: The Journey of Elaina) *2020*  
 Majokko Megu-chan *1974*  
 Majokko Tickle *1978*  
+Majutsushi Ofen (Sorcerous Stabber Orphen) *1998, 1999, 2020, 2021*  
 Mao Gakuin No Futekigosha (The Misfit of Demon King Academy)  
-Maou-sama, Retry!  
-Manyuu Hikenchou  
-Maria Holic  
-Masamune-kun no Revenge  
+Maou-sama, Retry! *2019*  
+Manyuu Hikenchou *2011*  
+Maria Holic *2009, 2011*  
+Masamune-kun no Revenge *2017*  
 Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
-Maoyuu Maou Yuusha (Maoyu)  
-Maojo de Oyasumi (Sleepy Princess in the Demon Castle)  
-Majo no Takkyuubin (Kiki's Delivery Service)  
-Meari to Majo no Hana (Mary and the Witch's Flower)  
+Maoyuu Maou Yuusha (Maoyu) *2013*  
+Maojo de Oyasumi (Sleepy Princess in the Demon Castle) *2020*  
+Majo no Takkyuubin (Kiki's Delivery Service) *1989*  
+Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
 Metal Skin Panic MADOX-01 *1987*  
-Michiko to Hatchin  
+Michiko to Hatchin (Michiko & Hatchin) *2008*  
 Miira no Kaikata (How to keep a mummy) *2018*  
-Mikakunin de Shinkokei (Engaged to the Unidentified)  
-Mimi wo Sumaseba  
-Minami-ke  
+Mikakunin de Shinkokei (Engaged to the Unidentified) *2014*  
+Mimi wo Sumaseba (Whisper of the Heart) *1995*  
+Minami-ke *2007, 2008, 2009, 2012, 2013*  
 Mirai Shounen Conan (Future Boy Conan) *1978, 1984, 1999*  
 Mitsuboshi Colors *2018*  
 Miyuki *1983*  
 Mob Psycho 100  
 Mobile Police Patlabor *1989*  
 Mokke *2007*  
-Momo e no Tegami (A Letter to Momo)  
-Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (Problem Children Are Coming From Another World, Aren't They?)  
-Monster Musume no Iru Nichijou  
-Monster Musume no Oisha-san (Monster Girl Doctor)  
-Mouretsu Pirates  
-Moyashimon  
-Musaigen no Phantom World (Myriad Colors Phantom World)  
+Momo e no Tegami (A Letter to Momo) *2011*  
+Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (Problem Children Are Coming From Another World, Aren't They?) *2013*  
+Monster Musume no Iru Nichijou *2015, 2016*  
+Monster Musume no Oisha-san (Monster Girl Doctor) *2020*  
+Mouretsu Pirates (Bodacious Space Pirates) *2012, 2014*  
+Moyashimon *2007, 2012*  
+Musaigen no Phantom World (Myriad Colors Phantom World) *2016*  
 Musekinin Kanchō Tairo (The Irresponsible Captain Tylor) *1993*  
-Mushibugyou  
-Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World)  
+Mushibugyou *2013, 2014*  
+Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World) *2021*  
+Muhyo to Roji no Mahoritsu Sodan Jimusho (Muhyo & Roji's Bureau of Supernatural Investigation) *2018*  
 
 Nagi no Asukara (A Lull in the Sea) *2013*  
 Nana *2006*  
@@ -386,6 +395,7 @@ Nisekoi *2014, 2015*
 Negima! *2004, 2005, 2006, 2008, 2009, 2011*  
 New Game! *2016*  
 No Game No Life *2014, 2015*  
+No Guns Life *2019*  
 No-Rin *2014*  
 Nobunaga no Shinobi *2016, 2018*  
 Nodame Cantabile *2007, 2008, 2010*  
@@ -416,6 +426,7 @@ Princess Principal *2017, 2021*
 Prizun Skuru (Prison School) *2015*  
 Purasutikku Memorizu (Plastic Memories) *2015*  
 
+Rave Master *2001*  
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
@@ -429,6 +440,7 @@ Rozen Maiden *2004, 2005, 2006, 2013*
 Sabanto x Sabisu (Servant x Service) *2013*  
 Saber Marionette J *1996*  
 Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend) *2015*  
+Sagrada Reset (Sakurada Reset) *2017*  
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.) *2016, 2019*  
 Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
 Saiunkoku Monogatari (The Story of Saiunkoku) *2006, 2007*  
@@ -443,12 +455,14 @@ Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion) *2016*
 Sasami-san@Ganbaranai *2013*  
 Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
 Sasurai no Taiyo (Nozomi in the Sun) *1971*  
+Sayonara Watashi no Kurama (Farewell, My Dear Cramer) *2021*  
 Sayonara Zetsubou Sensei *2007, 2008, 2009, 2012*  
 School Rumble *2004, 2005, 2006*  
 Scrapped Princess *2003*  
 Seihou Bukyou Outlaw Star *1998*  
 Seijo no Maryoku wa Bannou Desu (The Saint's Magic Power Is Omnipotent) *2021*  
 Seiken no Blacksmith *2009*  
+Seirei no Moribito (Moribito: Guardian of the Spirit) *2007*  
 Seirei Tsukai no Blade Dance (Bladedance of Elementalers) *2014*  
 Seitokai no Ichizon (Student Council's Discretion) *2009, 2012*  
 Seitokai Yakindomo *2010, 2011, 2014, 2017, 2021*  
@@ -471,6 +485,7 @@ Shirobako *2014, 2015, 2020*
 Shokojo Sera (Princess Sarah) *1985*  
 Shokugeki no Souma (Food Wars!) *2015*  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
+Show by Rock!! *2015, 2016, 2020, 2021*  
 Shuffle! *2005, 2007*  
 SKET Dance *2011*  
 Slam Dunk *1993, 1994, 1995*  
@@ -487,36 +502,39 @@ Stella no Mahou (Magic of Stella) *2016*
 Stop!! Hibari-kun! *1983*  
 Strange+ *2014*  
 Strike the Blood *2013, 2015, 2016, 2018, 2020*  
+Subete ga F ni Naru (The Perfect Insider) *2015*  
 Sutamyu (Star-Myu) *2016*  
+Suzuka *2005*  
 Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya) *2006, 2009*  
 
-Taiho Shichauzo! (You're Under Arrest)  
+Taiho Shichauzo (You're Under Arrest) *1994, 1996, 1999, 2001, 2002, 2007*  
+Taisho Otome Otogi Banashi *2021*  
 Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold) *1982*  
 Tanaka-kun wa Itsumo Kedaruge  
-Tamako Market  
+Tamako Market *2013, 2014*  
 Tamayura *2010*  
 Tasogare Otome x Amunejia (Dusk Maiden of Amnesia) *2012*  
 Tattoon Master *1996*  
 Tegami Bachi *2009*  
 Tejina-senpai (Magical Sempai) *2019*  
 Tekkaman Blade *1992*  
-Tenchi Muyou! Ryououki  
-Tenchi Universe  
+Tenchi Muyou! Ryououki *1992*  
+Tenchi Universe *1995*  
 Tenisu no Ojisama (The Prince of Tennis) *2001*  
-Tenki no Ko (Weathering with you)  
+Tenki no Ko (Weathering with you) *2019*  
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime) *2018*  
 Tenshi no Tamago (Angel's Egg) *1985*  
 Tentomushi no Uta (The Song of Tentomushi) *1974*  
 Terra e... (Toward the Terra) *1980, 2007*  
-Texhnolyze  
-The Kabocha Wine   
+Texhnolyze *2003*  
+The Kabocha Wine *1982, 1984*   
 Tiger Mask *1969, 1970, 1981, 2013*  
 Time Travel Tondekeman (Time Quest!) *1989*  
 Tokimeki Tonight *1982*  
 Tokyo ESP *2014*  
 Tokyo Godfathers *2003*  
 Tokyo Ravens *2013*  
-Tonari no Kyuuketsuki-san (Ms. Vampire Who Lives in My Neighborhood)  
+Tonari no Kyuuketsuki-san (Ms. Vampire Who Lives in My Neighborhood) *2018*  
 Tonari no Totoro (My Neighbor Totoro) *1988*  
 Tonari no Yamada-kun *1999*  
 Tonikaku Kawaii (TONIKAWA: Over the Moon For You) *2020*  
@@ -525,7 +543,7 @@ Tosho Daimos *1978*
 Toshokan Sensou (Library War) *2008, 2012*  
 Touch *1985*  
 Trinity Seven *2014, 2017, 2019*  
-Tsubasa: Reservoir Chronicle *2005*  
+Tsubasa: Reservoir Chronicle *2005, 2007, 2009*  
 Tsukai ni Taisetsu na Koto (Someday's Dreamers) *2003*  
 Tsuki ga Kirei (As the Moon, So Beautiful) *2017*  
 Tsukuyomi: Moon Phase *2004*  
@@ -544,15 +562,18 @@ Ushio to Tora *1992, 2015*
 Uzaki-chan wa Asobitai!  
 
 Vampire Knight *2008*  
+Vampire Princess Miyu *1988, 1997*  
 Virus (Virus Buster Serge) *1997*  
 
 Wagaya no Oinari-sama (Our Home's Fox Deity) *2008*  
 Wagnaria! (Working!) *2010, 2011, 2015, 2016*  
+Wakaba Girl *2015*  
 Wake Up, Girls! *2014, 2015, 2017*  
 Wangan Midnight *2007*  
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!) *2013*  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!) *2019*  
 Wonder Egg Priority *2021*  
+World Trigger *2014*  
 Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku) *2018, 2019*  
 
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU)  
