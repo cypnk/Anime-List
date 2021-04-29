@@ -106,6 +106,7 @@ Darling in the FranXX *2018*
 Date A Live *2013*  
 DearS *2004*  
 Death March kara Hajimaru Isekai Kyousoukyoku (Death March to The Parallel World Rhapsody) *2018*  
+Denkigai no Honya-san *2014*  
 Denpa Kyoushi (Ultimate Otaku Teacher) *2015*  
 Denpa Onna to Seishun Otoko (Ground Control to Psychoelectric Girl) *2011*  
 Densetsu no Yusha no Densetsu (The Legend of the Legendary Heroes) *2010*  
@@ -199,6 +200,7 @@ Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*
 Hibike! Euphonium (Sound! Euphonium) *2015, 2016, 2017, 2018*  
 Hidamari Sketch *2007, 2008, 2010, 2011, 2012, 2013*  
 Hidan no Aria *2011, 2015*  
+Higashi no Eden (Eden of the East) *2009, 2010*  
 High School DxD *2012, 2013, 2015, 2018*  
 High School Fleet *2016, 2020*  
 High Score Girl *2018*  
@@ -309,7 +311,7 @@ Kotonoha no Niwa (The Garden of Words) *2013*
 Kotoura-san *2013*  
 Kujira no Kora wa Sajo ni Utau (Children of the Whales) *2017*  
 Kuma Kuma Kuma Bear *2020*  
-Kumamiko - Girl meets Bear *2016*  
+Kumamiko: Girl meets Bear *2016*  
 Kumo desu ga, Nani ka? (So I'm a Spider, So What?) *2021*  
 Kuroshitsuji (Black Butler) *2008, 2014*  
 Kyandi Kyandi (Candy Candy) *1976*  
@@ -329,13 +331,13 @@ Lovely★Complex (Love★Com) *2007*
 Lupin III *1971, 1977, 1984*  
 
 Mach GoGoGo (Speed Racer) *1967*  
-Machikado Mazoku (The Demon Girl Next Door)  
+Machikado Mazoku (The Demon Girl Next Door) *2019*  
 Madan no O to Vanadis (Lord Marksman and Vanadis) *2014*  
 Magi (Magi: The Labyrinth of Magic) *2012, 2013*  
 Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
 Maho no Tenshi Kurīmī Mami (Creamy Mami, the Magic Angel) *1983*  
 Maho Senshi Riui (Rune Soldier) *2001*  
-Mahojin Guru Guru (Magic Circle Guruguru)  *1994*  
+Mahojin Guru Guru (Magic Circle Guruguru) *1994*  
 Mahoraba: Heartful days *2005*  
 Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica) *2011*  
 Mahou Shoujo Ore *2018*  
@@ -349,7 +351,7 @@ Majo no Tabitabi (Wandering Witch: The Journey of Elaina) *2020*
 Majokko Megu-chan *1974*  
 Majokko Tickle *1978*  
 Majutsushi Ofen (Sorcerous Stabber Orphen) *1998, 1999, 2020, 2021*  
-Mao Gakuin No Futekigosha (The Misfit of Demon King Academy)  
+Mao Gakuin No Futekigosha (The Misfit of Demon King Academy) *2020*  
 Maou-sama, Retry! *2019*  
 Manyuu Hikenchou *2011*  
 Maria Holic *2009, 2011*  
@@ -368,8 +370,8 @@ Minami-ke *2007, 2008, 2009, 2012, 2013*
 Mirai Shounen Conan (Future Boy Conan) *1978, 1984, 1999*  
 Mitsuboshi Colors *2018*  
 Miyuki *1983*  
-Mob Psycho 100  
-Mobile Police Patlabor *1989*  
+Mob Psycho 100 *2016, 2018, 2019*  
+Mobile Police Patlabor (Patlabor) *1988, 1989, 1990, 1993, 2002, 2014, 2016*  
 Mokke *2007*  
 Momo e no Tegami (A Letter to Momo) *2011*  
 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (Problem Children Are Coming From Another World, Aren't They?) *2013*  
@@ -510,7 +512,7 @@ Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya) *2006, 2009*
 Taiho Shichauzo (You're Under Arrest) *1994, 1996, 1999, 2001, 2002, 2007*  
 Taisho Otome Otogi Banashi *2021*  
 Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold) *1982*  
-Tanaka-kun wa Itsumo Kedaruge  
+Tanaka-kun wa Itsumo Kedaruge (Tanaka-kun is Always Listless) *2016*  
 Tamako Market *2013, 2014*  
 Tamayura *2010*  
 Tasogare Otome x Amunejia (Dusk Maiden of Amnesia) *2012*  
@@ -549,17 +551,17 @@ Tsuki ga Kirei (As the Moon, So Beautiful) *2017*
 Tsukuyomi: Moon Phase *2004*  
 Tsurezure Children *2017*  
 
-Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!)  
-Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord)  
-Uchouten Kazoku (The Eccentric Family)  
-Uchu no Suteruvia (Stellvia of the Universe)  
-Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199)  
-Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves)  
+Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!) *2018*  
+Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord) *2019*  
+Uchouten Kazoku (The Eccentric Family) *2013, 2017*  
+Uchu no Suteruvia (Stellvia of the Universe) *2003*  
+Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199) *2012, 2014*  
+Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
 Uninhabited Planet Survive *2003*  
-UQ Holder!  
+UQ Holder! *2017*  
 Urusei Yatsura *1981*  
 Ushio to Tora *1992, 2015*  
-Uzaki-chan wa Asobitai!  
+Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020*  
 
 Vampire Knight *2008*  
 Vampire Princess Miyu *1988, 1997*  
@@ -576,21 +578,22 @@ Wonder Egg Priority *2021*
 World Trigger *2014*  
 Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku) *2018, 2019*  
 
-Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU)  
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU) *2013, 2015, 2020*  
 Yakitate!! Japan *2004*  
-Yamada-kun to 7-nin no Majo  
+Yamada-kun to 7-nin no Majo *2013, 2014, 2015*  
 Yawara! *1989, 1992, 1996*  
 Yokohama Kaidashi Kikou *1998*  
 Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*  
-Youjo Senki (Saga of Tanya the Evil)  
-Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life)  
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)  
-Yowamushi Pedal  
-Yumeiro Patissiere  
-Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs)  
-Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero)  
-Yuru Camp△ (Laid-Back Camp)  
-Yuru Yuri  
+Youjo Senki (Saga of Tanya the Evil) *2017, 2019*  
+Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life) *2017*  
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite) *2017*  
+Yowamushi Pedal *2013, 2014, 2015, 2016, 2017, 2018*  
+Yumeiro Patissiere *2009, 2010*  
+Yumekui Merry (Dream Eater Merry) *2011*  
+Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs) *2018*  
+Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero) *2014, 2017, 2021*  
+Yuru Camp△ (Laid-Back Camp) *2018, 2020*  
+YuruYuri *2011, 2012, 2014, 2015, 2019*  
 
 Zan Sayonara Zetsubou Sensei *2007, 2008, 2009*  
 Zero no Tsukaima *2006, 2007, 2008, 2012*  
