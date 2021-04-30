@@ -11,14 +11,14 @@ Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*
 Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
 Agatha Christie no Meitantei Poirot to Marple (Agatha Christie's Great Detectives Poirot and Marple) *2004*  
 Ai Shite Knight (Love Me, My Knight) *1983*  
-Ai Yori Aoshi *2002*    
-Aishiteruze Baby *2004*  
+Ai Yori Aoshi (Bluer Than Indigo) *2002*    
+Aishiteruze Baby (I Love You, Baby) *2004*  
 Akagami no Shirayuki-hime (Snow White with the Red Hair) *2015*  
 Akage no An (Anne of Green Gables) *1979*  
 Akanesasu Shoujo (The Girl in Twilight) *2018*  
 Akatsuki no Yona (Yona of the Dawn) *2014*  
 Akira *1988*  
-Akudama Drive *2020*  
+Akudama Doraibu (Akudama Drive) *2020*  
 Akuma-kun (Devil Boy) *1989*  
 Alpen Rose *1985*  
 Amaama to Inazuma (Sweetness & Lightning) *2016*  
@@ -64,7 +64,7 @@ Berserk *1997, 2016*
 Berusaiyu no Bara (The Rose of Versailles) *1979*  
 Binbo Shimai Monogatari (Flat Broke Sisters) *2006*  
 Birthday Wonderland *2019*  
-Bishoujo Senshi Sailor Moon *1992*  
+Bishoujo Senshi Sailor Moon (Sailor Moon) *1992*  
 Black Bullet *2014*  
 Black Cat *2005*  
 Black Clover *2017*  
@@ -72,6 +72,7 @@ Bobobo-bo Bo-bobo *2003*
 Boogiepop Phantom *2000*  
 Boku no Hero Academia *2016*  
 Boku wa Tomodachi ga Sukunai (Haganai: I Don't Have Many Friends) *2011, 2013*  
+Bokura ga Ita (We Were There) *2006*  
 Bokura wa Minna Kawaisou (The Kawai Complex Guide to Manors and Hostel Behavior) *2014*  
 Bokutachi wa Benkyou ga Dekinai (We Never Learn: BOKUBEN) *2019*  
 Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan) *2005, 2007*  
@@ -98,17 +99,18 @@ City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*
 Comic Girls *2018*  
 Crusher Joe *1983, 1989*  
 Cutie Honey Flash *1997*  
+Cowboy Bebop *1998*  
 
 D.Gray-man *2006, 2016*  
 Dagashi Kashi *2016, 2018*  
 Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?) *2015, 2019*  
-Danshi Koukousei no Nichijou *2012*  
+Danshi Koukousei no Nichijou (Daily Lives of High School Boys) *2012*  
 Dantalian no Shoka (The Mystic Archives of Dantalian) *2011*  
 Darling in the FranXX *2018*  
 Date A Live *2013*  
 DearS *2004*  
 Death March kara Hajimaru Isekai Kyousoukyoku (Death March to The Parallel World Rhapsody) *2018*  
-Denkigai no Honya-san *2014*  
+Denkigai no Honya-san (Denki-gai) *2014*  
 Denpa Kyoushi (Ultimate Otaku Teacher) *2015*  
 Denpa Onna to Seishun Otoko (Ground Control to Psychoelectric Girl) *2011*  
 Densetsu no Yusha no Densetsu (The Legend of the Legendary Heroes) *2010*  
@@ -117,7 +119,7 @@ Detroit Metal City *2008*
 Demi-chan wa Kataritai (Interviews With Monster Girls) *2017*  
 Di Gi Charat *1999*  
 Dog Days *2011, 2012, 2015*  
-Domestic na Kanojo *2019*  
+Domestic na Kanojo (Domestic Girlfriend) *2019*  
 Doraemon *1973, 1979, 2005*  
 Dororo *1969, 2019*  
 Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat) *2019*  
@@ -223,6 +225,7 @@ Hokago Saikoro Club (After School Dice Club) *2019*
 Hono no Tokyuji Dodge Danpei (Fighting Dodgeball Boy Dodge Danpei) *1991*  
 Honzuki no Gekokujo (Ascendance of a Bookworm) *2019*  
 Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021*  
+Hotarubi no Mori e *2011*  
 Hourou Musuko (Wandering Son) *2011*  
 Houseki no Kuni (Land of the Lustrous) *2017*  
 Hozuki no Reitetsu (Hozuki's Coolheadedness) *2014, 2015*  
@@ -248,6 +251,7 @@ Iroduku Sekai no Ashita kara (IRODUKU: The World in Colors) *2018*
 Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World) *2018*  
 Isekai Shokudou (Restaurant to Another World) *2017*  
 Isekai wa Smartphone to Tomo ni *2017*  
+Isshukan Friends (One Week Friends) *2014*  
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.) *2020*  
 
 Jaku Chara Tomozaki-kun (Bottom-tier Character Tomozaki) *2021*  
@@ -418,6 +422,7 @@ Nyan Koi! *2009*
 Okami to Koshinryo (Spice and Wolf) *2008, 2009*  
 One Punch Man *2015*  
 Oniisama e... (Dear Brother) *1991*  
+Orange *2016*  
 Ore Monogatari!! (My Love Story!!) *2015*  
 Oritsu Uchugun: Oneamisu no Tsubasa (Royal Space Force: The Wings of Honnêamise) *1987*  
 Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) *2017*  
@@ -462,6 +467,7 @@ Sakura Trick *2014*
 Sakurasou no Pet na Kanojo (The Pet Girl of Sakurasou) *2012*  
 Sakamoto desu ga? (Haven't You Heard? I'm Sakamoto) *2016*  
 Salaryman Kintaro *2001*  
+Samurai Champloo *2004*  
 Samurai Flamenco *2013*  
 Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion) *2016*  
 Sasami-san@Ganbaranai *2013*  
