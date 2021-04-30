@@ -39,10 +39,12 @@ Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*
 Arusuran Senki (The Heroic Legend of Arslan) *1991*  
 Ashita no Joe (Tomorrow's Joe) *1970*  
 Asobi Asobase *2018*  
+Astroganger *1972*  
 Attack No. 1 *1969*  
 Attacker You! *1984, 2008*  
 Azumanga Daioh *2002*  
 
+Babel II *1973, 1992, 2001*  
 Baby Steps *2014*  
 Baccano! *2007*  
 Back Street Girls: Gokudolls *2018*  
@@ -153,6 +155,7 @@ Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun) *2014*
 Genjitsushugi Yusha no Okoku Saikenki (How a Realist Hero Rebuilt the Kingdom) *2021*  
 Gensoumaden Saiyuuki (Saiyuki) *1999, 2000, 2001, 2003, 2004, 2007, 2011, 2017*  
 GetBackers *2002*  
+Getter Robo *1974*  
 Ghost Sweeper Mikami *1993, 1994*  
 Gin No Saji *2013*  
 Gin Tama *2006, 2011, 2015, 2017*  
@@ -171,6 +174,7 @@ Gotoubun no Hanayome (The Quintessential Quintuplets) *2019, 2021*
 Grand Blue (Grand Blue Dreaming) *2018*  
 Great Pretender *2020*  
 Great Teacher Onizuka *1999*  
+Grendizer (UFO Robot Grendizer) *1975, 1976*  
 Gugure! Kokkuri-san (Repeat! Kokkuri-san) *2014*  
 Gunsmith Cats *1995*  
 
@@ -182,6 +186,7 @@ Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!) *2009, 2010, 2012, 2013*
 Hajime no Ippo *2000, 2003, 2009, 2013*  
 Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods) *2018*  
 Hana no Mahotsukai Mari Beru (Flower Witch Mary Bell) *1992*  
+Haha o Tazunete Sanzen Ri *1976, 1980, 1999*  
 Hana Yori Dango (Boys Over Flowers) *1996*  
 Hanasaku Iroha *2011, 2013*  
 Hanayamata *2014*  
@@ -232,6 +237,7 @@ Hyper Police *1997*
 I My Me! Strawberry Eggs (Strawberry Eggs) *2001*  
 Ichiban Ushiro no Dai Mao (Demon King Daimao) *2010*  
 Idol Densetsu Eriko *1989*  
+Ie Naki Ko (Nobody's Boy: Remi) *1977, 1980*  
 Igano Kabamaru *1983*  
 Imoto Sae Ireba Ii (A Sister's All You Need) *2017*  
 Inari, Konkon, Koi Iroha *2014*  
@@ -315,6 +321,7 @@ Kumamiko: Girl meets Bear *2016*
 Kumo desu ga, Nani ka? (So I'm a Spider, So What?) *2021*  
 Kuroshitsuji (Black Butler) *2008, 2014*  
 Kyandi Kyandi (Candy Candy) *1976*  
+Kyaputen Fyucha (Captain Future) *1978*  
 Kyokai no Kanata (Beyond the Boundary) *2013, 2014, 2015*  
 Kyoko Suiri (In/Spectre) *2020*  
 Kyou Kara Ore Wa!! *1993*  
@@ -348,18 +355,20 @@ Maiko-san chi no Makanai-san (Kiyo in Kyoto: From the Maiko House) *2021*
 Mairimashita! Iruma-kun (Welcome to Demon School, Iruma-kun) *2019*  
 Maison Ikkoku *1986*  
 Majo no Tabitabi (Wandering Witch: The Journey of Elaina) *2020*  
+Majo no Takkyuubin (Kiki's Delivery Service) *1989*  
 Majokko Megu-chan *1974*  
 Majokko Tickle *1978*  
 Majutsushi Ofen (Sorcerous Stabber Orphen) *1998, 1999, 2020, 2021*  
+Manga Sarutobi Sasuke *1979*  
+Manyuu Hikenchou *2011*  
 Mao Gakuin No Futekigosha (The Misfit of Demon King Academy) *2020*  
 Maou-sama, Retry! *2019*  
-Manyuu Hikenchou *2011*  
+Maoyuu Maou Yuusha (Maoyu) *2013*  
+Maojo de Oyasumi (Sleepy Princess in the Demon Castle) *2020*  
 Maria Holic *2009, 2011*  
 Masamune-kun no Revenge *2017*  
 Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
-Maoyuu Maou Yuusha (Maoyu) *2013*  
-Maojo de Oyasumi (Sleepy Princess in the Demon Castle) *2020*  
-Majo no Takkyuubin (Kiki's Delivery Service) *1989*  
+Mazinger Z *1972*  
 Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
 Metal Skin Panic MADOX-01 *1987*  
 Michiko to Hatchin (Michiko & Hatchin) *2008*  
@@ -379,6 +388,7 @@ Monster Musume no Iru Nichijou *2015, 2016*
 Monster Musume no Oisha-san (Monster Girl Doctor) *2020*  
 Mouretsu Pirates (Bodacious Space Pirates) *2012, 2014*  
 Moyashimon *2007, 2012*  
+Mujin Wakusei Savaivu (Uninhabited Planet Survive) *2003*  
 Musaigen no Phantom World (Myriad Colors Phantom World) *2016*  
 Musekinin Kanchō Tairo (The Irresponsible Captain Tylor) *1993*  
 Mushibugyou *2013, 2014*  
@@ -423,7 +433,7 @@ Piano no Mori (Forest of Piano) *2007, 2018*
 Plunderer *2020*  
 Poco's Udon World *2016*  
 Popolocrois Monogatari *1998*  
-Princess Connect! Re:Dive  
+Princess Connect! Re:Dive *2020*  
 Princess Principal *2017, 2021*  
 Prizun Skuru (Prison School) *2015*  
 Purasutikku Memorizu (Plastic Memories) *2015*  
@@ -499,6 +509,7 @@ Sora no Woto (Sound of the Sky) *2010*
 Sora yori mo Tooi Basho (A Place Further Than the Universe) *2018*  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful) *2014*  
 Space☆Dandy *2014*  
+Starzinger (Sci-Fi West Saga Starzinger) *1978, 1979*  
 Stella Jo-Gakuin C3-Bu (Stella Women's Academy, High School Division Class C3) *2013*  
 Stella no Mahou (Magic of Stella) *2016*  
 Stop!! Hibari-kun! *1983*  
@@ -557,7 +568,6 @@ Uchouten Kazoku (The Eccentric Family) *2013, 2017*
 Uchu no Suteruvia (Stellvia of the Universe) *2003*  
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199) *2012, 2014*  
 Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
-Uninhabited Planet Survive *2003*  
 UQ Holder! *2017*  
 Urusei Yatsura *1981*  
 Ushio to Tora *1992, 2015*  
@@ -581,6 +591,7 @@ Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku) *2018, 2019*
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU) *2013, 2015, 2020*  
 Yakitate!! Japan *2004*  
 Yamada-kun to 7-nin no Majo *2013, 2014, 2015*  
+Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
 Yokohama Kaidashi Kikou *1998*  
 Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*  
