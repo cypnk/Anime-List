@@ -62,7 +62,7 @@ Beck *2004*
 Beelzebub-jo no Okinimesu Mama (As Miss Beelzebub Likes) *2018*  
 Berserk *1997, 2016*  
 Berusaiyu no Bara (The Rose of Versailles) *1979*  
-Binbo Shimai Monogatari (Flat Broke Sisters) *2996*  
+Binbo Shimai Monogatari (Flat Broke Sisters) *2006*  
 Birthday Wonderland *2019*  
 Bishoujo Senshi Sailor Moon *1992*  
 Black Bullet *2014*  
