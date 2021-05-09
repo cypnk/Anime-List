@@ -20,6 +20,7 @@ Akatsuki no Yona (Yona of the Dawn) *2014*
 Akira *1988*  
 Akudama Doraibu (Akudama Drive) *2020*  
 Akuma-kun (Devil Boy) *1989*  
+Allison to Lillia (Allison and Lillia) *2008*  
 Alpen Rose *1985*  
 Amaama to Inazuma (Sweetness & Lightning) *2016*  
 Amanchu! *2016*  
