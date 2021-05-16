@@ -457,6 +457,7 @@ Rozen Maiden *2004, 2005, 2006, 2013*
 
 Sabanto x Sabisu (Servant x Service) *2013*  
 Saber Marionette J *1996*  
+Shacho, Battle no Jikan Desu! (Shachibato! President, It's Time for Battle!) *2020*  
 Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend) *2015*  
 Sagrada Reset (Sakurada Reset) *2017*  
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.) *2016, 2019*  
