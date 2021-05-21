@@ -243,6 +243,7 @@ Ichiban Ushiro no Dai Mao (Demon King Daimao) *2010*
 Idol Densetsu Eriko *1989*  
 Ie Naki Ko (Nobody's Boy: Remi) *1977, 1980*  
 Igano Kabamaru *1983*  
+Ikoku Meiro no Kurowaze (Croisée in a Foreign Labyrinth) *2011*  
 Imoto Sae Ireba Ii (A Sister's All You Need) *2017*  
 Inari, Konkon, Koi Iroha *2014*  
 Infinite Dendrogram *2020*  
