@@ -15,6 +15,7 @@ Ai Yori Aoshi (Bluer Than Indigo) *2002*
 Aishiteruze Baby (I Love You, Baby) *2004*  
 Akagami no Shirayuki-hime (Snow White with the Red Hair) *2015*  
 Akage no An (Anne of Green Gables) *1979*  
+Akai Kodan Jirion (Red Photon Zillion) *1987, 1988*  
 Akanesasu Shoujo (The Girl in Twilight) *2018*  
 Akatsuki no Yona (Yona of the Dawn) *2014*  
 Akira *1988*  
@@ -97,6 +98,7 @@ Chukan Kanriroku Tonegawa (Mr. Tonegawa: Middle Management Blues) *2018*
 Chuuka Ichiban! (Cooking Master Boy) *1997, 2019*  
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions) *2012, 2013, 2014*  
 City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*  
+Cleopatra DC *1989*  
 Comic Girls *2018*  
 Crusher Joe *1983, 1989*  
 Cutie Honey Flash *1997*  
@@ -126,6 +128,7 @@ Dororo *1969, 2019*
 Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat) *2019*  
 Dragon Drive *2002*  
 Dragon Quest: The Adventure of Dai *1991, 2020*  
+Dragon's Heaven *1988*  
 Drifters *2016*  
 Druaga No Tou (The Tower of Druaga) *2008, 2009*  
 Durarara!! *2010, 2015*  
@@ -213,6 +216,7 @@ High School DxD *2012, 2013, 2015, 2018*
 High School Fleet *2016, 2020*  
 High Score Girl *2018*  
 High School! Kimengumi *1985*  
+Hikari no Densetsu *1986*  
 Hime-chan no Ribon (Hime-chan's Ribbon) *1992*  
 Himitsu no Akko-chan (The Secrets of Akko-chan) *1969, 1988, 1989, 1998*  
 Himouto! Umaru-chan *2015, 2017*  
@@ -347,6 +351,7 @@ Mach GoGoGo (Speed Racer) *1967*
 Machikado Mazoku (The Demon Girl Next Door) *2019*  
 Madan no O to Vanadis (Lord Marksman and Vanadis) *2014*  
 Magi (Magi: The Labyrinth of Magic) *2012, 2013*  
+Magical Taluluto *1990, 1991*  
 Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
 Maho no Tenshi Kurīmī Mami (Creamy Mami, the Magic Angel) *1983*  
 Maho Senshi Riui (Rune Soldier) *2001*  
@@ -505,6 +510,7 @@ Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*
 Shirobako *2014, 2015, 2020*  
 Shokojo Sera (Princess Sarah) *1985*  
 Shokugeki no Souma (Food Wars!) *2015*  
+Shonan Bakusozoku (Bomber Bikers of Shonan) *1986*  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
 Show by Rock!! *2015, 2016, 2020, 2021*  
 Shuffle! *2005, 2007*  
@@ -591,6 +597,7 @@ Wagnaria! (Working!) *2010, 2011, 2015, 2016*
 Wakaba Girl *2015*  
 Wake Up, Girls! *2014, 2015, 2017*  
 Wangan Midnight *2007*  
+Wata no Kunihoshi (Star of Cottonland) *1984*  
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!) *2013*  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!) *2019*  
 Wonder Egg Priority *2021*  
