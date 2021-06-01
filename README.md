@@ -12,6 +12,7 @@ Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*
 Agatha Christie no Meitantei Poirot to Marple (Agatha Christie's Great Detectives Poirot and Marple) *2004*  
 Ai Shite Knight (Love Me, My Knight) *1983*  
 Ai Yori Aoshi (Bluer Than Indigo) *2002*    
+Aidorumasuta Shinderera Garuzu (The Idolmaster Cinderella Girls) *2015, 2017*  
 Aishiteruze Baby (I Love You, Baby) *2004*  
 Akagami no Shirayuki-hime (Snow White with the Red Hair) *2015*  
 Akage no An (Anne of Green Gables) *1979*  
@@ -131,6 +132,7 @@ Dragon Quest: The Adventure of Dai *1991, 2020*
 Dragon's Heaven *1988*  
 Drifters *2016*  
 Druaga No Tou (The Tower of Druaga) *2008, 2009*  
+Dumbbell Nan-Kilo Moteru? (How Heavy Are the Dumbbells You Lift?) *2019*  
 Durarara!! *2010, 2015*  
 
 Ef: A Tale of Memories *2007*  
@@ -142,11 +144,14 @@ Esper Mami (Mami the Psychic) *1987, 1988*
 Excel Saga *1999*  
 
 Fairy Tail *2009*  
+Faibu Suta Monogatari (The Five Star Stories) *1989*  
+Flip Flappers *2016*  
 Flying Witch *2016*  
 Free! *2013, 2014, 2018*  
 Fruits Basket *2001, 2019*  
 Fukigen na Mononokean (The Morose Mononokean) *2016*  
 Full Moon o Sagashite *2002*  
+Fumetsu no Anata e (To Your Eternity) *2021*  
 Fune wo Amu (The Great Passage) *2016*  
 Fushigi no Umi no Nadia (Nadia: The Secret of Blue Water) *1990*  
 Fushigi Yuugi (Mysterious Play) *1995*  
@@ -169,6 +174,7 @@ Girls Bravo *2004*
 Girls und Panzer *2012*  
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?) *2014, 2017, 2019*  
 God Eater *2015*  
+Gojira Shingyura Pointo (Godzilla Singular Point) *2021*  
 Gokujo Seitokai (Best Student Council) *2005*  
 Gokukoku no Brynhildr (Brynhildr in the Darkness) *2014*  
 Gokushufudo (The Way of the Househusband) *2021*  
@@ -267,6 +273,7 @@ Jinrui wa Suitai Shimashita (Humanity Has Declined) *2012*
 Joshiraku *2012, 2013*  
 Joshikousei no Mudazukai (Wasteful Days of High School Girls) *2019*  
 Joukamachi no Dandelion (Castle Town Dandelion) *2015*  
+Junketsu no Maria (Maria the Virgin Witch) *2015*  
 
 K-On! *2009, 2011*  
 Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
@@ -312,6 +319,7 @@ Knight's & Magic *2017*
 Kobato *2009*  
 Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid) *2017, 2021*  
 Kodomo no Omocha (Kodocha) *1996*  
+Koe no Katachi (A Silent Voice) *2016*  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate) *2012*  
 Koi to Uso (Love and Lies) *2017*  
 Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn) *2015, 2016*  
@@ -370,6 +378,7 @@ Majo no Takkyuubin (Kiki's Delivery Service) *1989*
 Majokko Megu-chan *1974*  
 Majokko Tickle *1978*  
 Majutsushi Ofen (Sorcerous Stabber Orphen) *1998, 1999, 2020, 2021*  
+Malice@Doll *2001*  
 Manga Sarutobi Sasuke *1979*  
 Manyuu Hikenchou *2011*  
 Mao Gakuin No Futekigosha (The Misfit of Demon King Academy) *2020*  
@@ -399,6 +408,7 @@ Monster Musume no Iru Nichijou *2015, 2016*
 Monster Musume no Oisha-san (Monster Girl Doctor) *2020*  
 Mouretsu Pirates (Bodacious Space Pirates) *2012, 2014*  
 Moyashimon *2007, 2012*  
+Muggu Cuppu *2021*  
 Mujin Wakusei Savaivu (Uninhabited Planet Survive) *2003*  
 Musaigen no Phantom World (Myriad Colors Phantom World) *2016*  
 Musekinin Kanchō Tairo (The Irresponsible Captain Tylor) *1993*  
@@ -424,8 +434,10 @@ Nobunaga no Shinobi *2016, 2018*
 Nodame Cantabile *2007, 2008, 2010*  
 Non Non Biyori *2013, 2015, 2018, 2021*  
 Nurarihyon no Mago (Nura: Rise of the Yokai Clan) *2010, 2011*  
+Nurse Angel Ririka SOS *1995*  
 Nyan Koi! *2009*  
 
+Odd Taxi *2021*  
 Okami to Koshinryo (Spice and Wolf) *2008, 2009*  
 One Punch Man *2015*  
 Oniisama e... (Dear Brother) *1991*  
@@ -441,6 +453,7 @@ Patalliro! *1982, 2005*
 Pan De Peace *2016*  
 Panchi Rain (Punch Line) *2015*  
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
+Planetarian: Chiisana Hoshi no Yume (Planetarian: The Reverie of a Little Planet) *2016, 2021*  
 Piano no Mori (Forest of Piano) *2007, 2018*  
 Plunderer *2020*  
 Poco's Udon World *2016*  
@@ -500,8 +513,10 @@ Senjushi (The Thousand Noble Musketeers) *2018*
 Senkuu Ishigami (Dr. Stone) *2019, 2021*  
 Senryuu Shoujo *2019*  
 Servamp *2016*  
+Sentoin, Hakenshimasu! (Combatants Will Be Dispatched!) *2021*  
 Seto no Hanayome (My Bride is a Mermaid) *2007*  
 Sewayaki Kitsune no Senko-san (The Helpful Fox Senko-san) *2019*  
+Shadows House *2021*  
 Shakugan no Shana *2005, 2007, 2011*  
 Shaman King *2001, 2021*  
 Shigatsu wa Kimi no Uso (Your Lie in April) *2014*  
@@ -514,6 +529,7 @@ Shonan Bakusozoku (Bomber Bikers of Shonan) *1986*
 Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
 Show by Rock!! *2015, 2016, 2020, 2021*  
 Shuffle! *2005, 2007*  
+Shumatsu no Izetta (Izetta: The Last Witch) *2016*  
 SKET Dance *2011*  
 Slam Dunk *1993, 1994, 1995*  
 Slow Start *2018*  
@@ -521,6 +537,7 @@ SoltyRei *2005*
 Somari to Mori no Kamisama (Somali and the Forest Spirit) *2020*  
 Sora no Manimani *2009*  
 Sora no Woto (Sound of the Sky) *2010*  
+Sora to Umi (Between the Sky and Sea) *2018*  
 Sora yori mo Tooi Basho (A Place Further Than the Universe) *2018*  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful) *2014*  
 Space☆Dandy *2014*  
@@ -531,6 +548,8 @@ Stop!! Hibari-kun! *1983*
 Strange+ *2014*  
 Strike the Blood *2013, 2015, 2016, 2018, 2020*  
 Subete ga F ni Naru (The Perfect Insider) *2015*  
+Sugar Sugar Rune *2005*  
+Super Cub *2021*  
 Sutamyu (Star-Myu) *2016*  
 Suzuka *2005*  
 Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya) *2006, 2009*  
@@ -562,6 +581,7 @@ Tokimeki Tonight *1982*
 Tokyo ESP *2014*  
 Tokyo Godfathers *2003*  
 Tokyo Ravens *2013*  
+Tokyo Revengers *2021*  
 Tonari no Kyuuketsuki-san (Ms. Vampire Who Lives in My Neighborhood) *2018*  
 Tonari no Totoro (My Neighbor Totoro) *1988*  
 Tonari no Yamada-kun *1999*  
@@ -591,6 +611,7 @@ Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020*
 Vampire Knight *2008*  
 Vampire Princess Miyu *1988, 1997*  
 Virus (Virus Buster Serge) *1997*  
+Vivy: Fluorite Eye's Song *2021*  
 
 Wagaya no Oinari-sama (Our Home's Fox Deity) *2008*  
 Wagnaria! (Working!) *2010, 2011, 2015, 2016*  
