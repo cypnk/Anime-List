@@ -91,6 +91,7 @@ Captain Tsubasa *1988*
 Carole & Tuesday *2019*  
 Cat's Eye *1983, 1984*  
 Charlotte *2015*  
+Chito Kusushi no Suro Raifu: Isekai ni Tsukuro Doraggusutoa (Drugstore in Another World: The Slow Life of a Cheat Pharmacist) *2021*  
 Chio-chan no Tsuugakuro (Chio's School Road) *2018*  
 Chojin-Kokoseitachi wa Isekai demo Yoyu de Ikinuku Yodesu! (Choyoyu: High School Prodigies Have It Easy Even In Another World) *2019*  
 Choyaku Hyakunin Isshu: Uta Koi *2012*  
@@ -254,6 +255,7 @@ Idol Densetsu Eriko *1989*
 Ie Naki Ko (Nobody's Boy: Remi) *1977, 1980*  
 Igano Kabamaru *1983*  
 Ikoku Meiro no Kurowaze (Croisée in a Foreign Labyrinth) *2011*  
+Ima, Soko ni Iru Boku (Now and Then, Here and There) *1999*  
 Imoto Sae Ireba Ii (A Sister's All You Need) *2017*  
 Inari, Konkon, Koi Iroha *2014*  
 Infinite Dendrogram *2020*  
@@ -558,6 +560,7 @@ Taiho Shichauzo (You're Under Arrest) *1994, 1996, 1999, 2001, 2002, 2007*
 Taisho Otome Otogi Banashi *2021*  
 Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold) *1982*  
 Tanaka-kun wa Itsumo Kedaruge (Tanaka-kun is Always Listless) *2016*  
+Tantei wa Mo, Shindeiru (The Detective Is Already Dead) *2021*  
 Tamako Market *2013, 2014*  
 Tamayura *2010*  
 Tasogare Otome x Amunejia (Dusk Maiden of Amnesia) *2012*  
