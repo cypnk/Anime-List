@@ -6,6 +6,7 @@ Accel World *2012*
 Acchi Kocchi (Place to Place) *2012*  
 Ace o Nerae! (Aim for the Ace!) *1973, 1978, 1979, 1988*  
 Aka-chan to Boku (Baby & Me) *1996*  
+Aka-zukin Cha-Cha (Lil' Red Riding Hood Cha-Cha) *1994*  
 Akane-chan *1968*  
 Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*  
 Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
@@ -103,7 +104,7 @@ City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*
 Cleopatra DC *1989*  
 Comic Girls *2018*  
 Crusher Joe *1983, 1989*  
-Cutie Honey Flash *1997*  
+Cutey Honey *1973, 1994, 1997, 2004*  
 Cowboy Bebop *1998*  
 
 D.Gray-man *2006, 2016*  
@@ -469,6 +470,7 @@ Rave Master *2001*
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
+Roringu Garuzu (The Rolling Girls) *2015*  
 Rokka no Yusha (Rokka: Braves of the Six Flowers) *2015*  
 Rokujouma no Shinryakusha!? (Invaders of the Rokujouma!?) *2014*  
 Romeo no Aoi Sora (Romeo and the Black Brothers | Romeo's Blue Skies) *1995*  
