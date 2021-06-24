@@ -94,6 +94,7 @@ Cat's Eye *1983, 1984*
 Charlotte *2015*  
 Chito Kusushi no Suro Raifu: Isekai ni Tsukuro Doraggusutoa (Drugstore in Another World: The Slow Life of a Cheat Pharmacist) *2021*  
 Chio-chan no Tsuugakuro (Chio's School Road) *2018*  
+Chojiku Seiki Ogasu (Super Dimension Century Orguss) *1983, 1993*  
 Chojin-Kokoseitachi wa Isekai demo Yoyu de Ikinuku Yodesu! (Choyoyu: High School Prodigies Have It Easy Even In Another World) *2019*  
 Choyaku Hyakunin Isshu: Uta Koi *2012*  
 Chrome Shelled Regios *2009*  
