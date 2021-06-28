@@ -102,6 +102,7 @@ Chukan Kanriroku Tonegawa (Mr. Tonegawa: Middle Management Blues) *2018*
 Chuuka Ichiban! (Cooking Master Boy) *1997, 2019*  
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions) *2012, 2013, 2014*  
 City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*  
+Classroom Crisis *2015*  
 Cleopatra DC *1989*  
 Comic Girls *2018*  
 Crusher Joe *1983, 1989*  
