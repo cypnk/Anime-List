@@ -168,6 +168,7 @@ Gate *2015, 2016*
 Gavuriru Droppuauto (Gabriel DropOut) *2017*  
 Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun) *2014*  
 Genjitsushugi Yusha no Okoku Saikenki (How a Realist Hero Rebuilt the Kingdom) *2021*  
+Genmu Senki Leda (Leda: The Fantastic Adventure of Yohko) *1985*  
 Gensoumaden Saiyuuki (Saiyuki) *1999, 2000, 2001, 2003, 2004, 2007, 2011, 2017*  
 GetBackers *2002*  
 Getter Robo *1974*  
@@ -270,6 +271,7 @@ Isekai Shokudou (Restaurant to Another World) *2017*
 Isekai wa Smartphone to Tomo ni *2017*  
 Isshukan Friends (One Week Friends) *2014*  
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.) *2020*  
+Ixion Saga DT *2012*
 
 Jaku Chara Tomozaki-kun (Bottom-tier Character Tomozaki) *2021*  
 Jashin-chan Dropkick (Dropkick On My Devil!!) *2018, 2020*  
@@ -311,6 +313,7 @@ Kenran Butosai Za Mazu Deibureiku (Mars Daybreak) *2004*
 Keppeki Danshi! Aoyama-kun (Clean Freak! Aoyama kun) *2017*  
 Kidou Senkan Nadeshiko (Martian Successor Nadesico) *1996*  
 Kikaider *1972*  
+Kikokai Garian (Panzer World Galient) *1984, 1986*  
 Kimagure Orange Road *1985, 1987, 1988, 1989, 1996*  
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba) *2019*  
 Kimi ni Todoke *2009*  
@@ -348,6 +351,7 @@ Kyaputen Fyucha (Captain Future) *1978*
 Kyokai no Kanata (Beyond the Boundary) *2013, 2014, 2015*  
 Kyoko Suiri (In/Spectre) *2020*  
 Kyou Kara Ore Wa!! *1993*  
+Kyoryu Bokenki Jura Torippa (Jura Tripper | Dino Adventure Jurassic Tripper) *1995*  
 Kyoukai no Rinne (RIN-NE) *2015*  
 Kyouran Kazoku Nikki *2008*  
 Kyousogiga *2011, 2012, 2013*  
@@ -513,6 +517,7 @@ Seitokai no Ichizon (Student Council's Discretion) *2009, 2012*
 Seitokai Yakindomo *2010, 2011, 2014, 2017, 2021*  
 Seikai no Monshou (Crest of the Stars) *1999*  
 Seikai no Senki (Banner of the Stars|related:Crest of the Stars) *2000, 2001, 2005*  
+Seisenshi Dunbine (Aura Battler Dunbine) *1983, 1988*  
 Sekirei *2008, 2010*  
 Sen to Chihiro no Kamikakushi (Spirited Away) *2001*  
 Senjushi (The Thousand Noble Musketeers) *2018*  
@@ -552,6 +557,7 @@ Stella Jo-Gakuin C3-Bu (Stella Women's Academy, High School Division Class C3) *
 Stella no Mahou (Magic of Stella) *2016*  
 Stop!! Hibari-kun! *1983*  
 Strange+ *2014*  
+Strange Dawn *2000*  
 Strike the Blood *2013, 2015, 2016, 2018, 2020*  
 Subete ga F ni Naru (The Perfect Insider) *2015*  
 Sugar Sugar Rune *2005*  
@@ -611,6 +617,7 @@ Uchu no Suteruvia (Stellvia of the Universe) *2003*
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199) *2012, 2014*  
 Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
 UQ Holder! *2017*  
+Ura Sekai Pikunikku (Otherside Picnic) *2021*  
 Urusei Yatsura *1981*  
 Ushio to Tora *1992, 2015*  
 Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020*  
