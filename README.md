@@ -286,6 +286,7 @@ K-On! *2009, 2011*
 Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
 Kaguya-sama: Love is War *2019, 2002*  
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
+Kakegurui *2017, 2019*  
 Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits) *2018*  
 Kami Nomi zo Shiru Sekai (The World God Only Knows) *2010, 2013*  
 Kami-tachi ni Hirowareta Otoko (By the Grace of the Gods) *2020*  
