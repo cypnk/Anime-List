@@ -91,6 +91,7 @@ Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou *2012*
 Captain Tsubasa *1988*  
 Carole & Tuesday *2019*  
 Cat's Eye *1983, 1984*  
+Chainsaw Man *2021*  
 Charlotte *2015*  
 Chito Kusushi no Suro Raifu: Isekai ni Tsukuro Doraggusutoa (Drugstore in Another World: The Slow Life of a Cheat Pharmacist) *2021*  
 Chio-chan no Tsuugakuro (Chio's School Road) *2018*  
