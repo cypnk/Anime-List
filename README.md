@@ -217,6 +217,7 @@ Hataraku Mao-sama (The Devil is a Part-Timer!) *2013*
 Hataraku Saibou (Cells at Work) *2018, 2020*  
 Haunted Junction *1997*  
 Hayate no Gotoku! *2007, 2009, 2012, 2013, 2014*  
+Heavy Object *2015*  
 Hello! Sandybell *1981*  
 Hensuki *2019*  
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
@@ -617,6 +618,7 @@ Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirena
 Uchouten Kazoku (The Eccentric Family) *2013, 2017*  
 Uchu no Suteruvia (Stellvia of the Universe) *2003*  
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199) *2012, 2014*  
+UFO Princess Valkyrie (UFO Ultramaiden Valkyrie) *2002, 2006*  
 Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
 UQ Holder! *2017*  
 Ura Sekai Pikunikku (Otherside Picnic) *2021*  
