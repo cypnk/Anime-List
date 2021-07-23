@@ -536,6 +536,7 @@ Shaman King *2001, 2021*
 Shigatsu wa Kimi no Uso (Your Lie in April) *2014*  
 Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*   
 Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
+Shiroi Suna no Aquatope (The Aquatope on White Sand) *2021*  
 Shirobako *2014, 2015, 2020*  
 Shokojo Sera (Princess Sarah) *1985*  
 Shokugeki no Souma (Food Wars!) *2015*  
@@ -610,6 +611,7 @@ Trinity Seven *2014, 2017, 2019*
 Tsubasa: Reservoir Chronicle *2005, 2007, 2009*  
 Tsukai ni Taisetsu na Koto (Someday's Dreamers) *2003*  
 Tsuki ga Kirei (As the Moon, So Beautiful) *2017*  
+Tsuki ga Michibiku Isekai Douchuu (Tsukimichi: Moonlit Fantasy) *2021*  
 Tsukuyomi: Moon Phase *2004*  
 Tsurezure Children *2017*  
 
