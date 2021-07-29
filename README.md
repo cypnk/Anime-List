@@ -652,6 +652,7 @@ Yattaman (Yatterman) *1977, 2008, 2009*
 Yawara! *1989, 1992, 1996*  
 Yokohama Kaidashi Kikou *1998*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
+Yoroiden Samurai Troopers *1988, 1989, 1991*  
 Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*  
 Youjo Senki (Saga of Tanya the Evil) *2017, 2019*  
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life) *2017*  
