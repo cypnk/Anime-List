@@ -218,6 +218,7 @@ Hataraku Saibou (Cells at Work) *2018, 2020*
 Haunted Junction *1997*  
 Hayate no Gotoku! *2007, 2009, 2012, 2013, 2014*  
 Heavy Object *2015*  
+Heion Sedai no Idaten-tachi (The Idaten Deities Know Only Peace) *2021*  
 Hello! Sandybell *1981*  
 Hensuki *2019*  
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
