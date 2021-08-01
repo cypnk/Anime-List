@@ -505,6 +505,7 @@ Salaryman Kintaro *2001*
 Samurai Champloo *2004*  
 Samurai Flamenco *2013*  
 Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion) *2016*  
+Sarai-ya Goyo (House of Five Leaves) *2010*  
 Sasami-san@Ganbaranai *2013*  
 Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
 Sasurai no Taiyo (Nozomi in the Sun) *1971*  
@@ -544,6 +545,7 @@ Shokugeki no Souma (Food Wars!) *2015*
 Shonan Bakusozoku (Bomber Bikers of Shonan) *1986*  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
 Show by Rock!! *2015, 2016, 2020, 2021*  
+Showa Genroku Rakugo Shinju *2015, 2016*  
 Shuffle! *2005, 2007*  
 Shumatsu no Izetta (Izetta: The Last Witch) *2016*  
 SKET Dance *2011*  
