@@ -430,6 +430,7 @@ Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriousl
 Muhyo to Roji no Mahoritsu Sodan Jimusho (Muhyo & Roji's Bureau of Supernatural Investigation) *2018*  
 
 Nagi no Asukara (A Lull in the Sea) *2013*  
+Nakitai Watashi wa Neko o Kaburu (A Whisker Away) *2020*  
 Nana *2006*  
 Nanatsu no Taizai (The Seven Deadly Sins) *2014*  
 Nanatsu no Umi no Tiko (Tico of the Seven Seas) *1994*  
