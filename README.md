@@ -66,6 +66,7 @@ Beck *2004*
 Beelzebub-jo no Okinimesu Mama (As Miss Beelzebub Likes) *2018*  
 Berserk *1997, 2016*  
 Berusaiyu no Bara (The Rose of Versailles) *1979*  
+Binbo Gami-Ga! (Good Luck Girl!) *2012*  
 Binbo Shimai Monogatari (Flat Broke Sisters) *2006*  
 Birthday Wonderland *2019*  
 Bishoujo Senshi Sailor Moon (Sailor Moon) *1992*  
@@ -301,6 +302,7 @@ Kamisama no Memochou (Heaven's Memo Pad) *2011*
 Kannagi (Kannagi: Crazy Shrine Maidens) *2008*  
 Kanojo Okarishimasu (Rent-a-Girlfriend) *2020*  
 Kanon *2006*  
+Kara no Kyokai (The Garden of Sinners) *2007, 2009, 2011, 2013*  
 Karakai Jozu no Takagi-san (Teasing Master Takagi-san) *2018*  
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances) *1998*  
 Karigurashi no Arrietty (Arrietty) *2010*  
@@ -538,6 +540,7 @@ Shakugan no Shana *2005, 2007, 2011*
 Shaman King *2001, 2021*  
 Shigatsu wa Kimi no Uso (Your Lie in April) *2014*  
 Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*   
+Shin Sekai Yori (From the New World) *2012*  
 Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
 Shiroi Suna no Aquatope (The Aquatope on White Sand) *2021*  
 Shirobako *2014, 2015, 2020*  
