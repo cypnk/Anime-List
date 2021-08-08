@@ -289,6 +289,7 @@ Junketsu no Maria (Maria the Virgin Witch) *2015*
 K-On! *2009, 2011*  
 Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
 Kaguya-sama: Love is War *2019, 2002*  
+Kaibyoi Ramune (Dr. Ramune: Mysterious Disease Specialist) *2021*  
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
 Kakegurui *2017, 2019*  
 Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits) *2018*  
