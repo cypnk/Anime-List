@@ -362,6 +362,7 @@ Kyoryu Bokenki Jura Torippa (Jura Tripper | Dino Adventure Jurassic Tripper) *19
 Kyoukai no Rinne (RIN-NE) *2015*  
 Kyouran Kazoku Nikki *2008*  
 Kyousogiga *2011, 2012, 2013*  
+Kyuketsuki Sugu Shinu (The Vampire Dies in No Time) *2021*  
 
 Level E *2011*  
 Little Witch Academia *2013, 2015, 2017*  
