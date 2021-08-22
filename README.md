@@ -527,6 +527,7 @@ Seitokai no Ichizon (Student Council's Discretion) *2009, 2012*
 Seitokai Yakindomo *2010, 2011, 2014, 2017, 2021*  
 Seikai no Monshou (Crest of the Stars) *1999*  
 Seikai no Senki (Banner of the Stars|related:Crest of the Stars) *2000, 2001, 2005*  
+Sekai Seifuku: Boryaku no Zuvizuda (World Conquest Zvezda Plot) *2014*  
 Seisenshi Dunbine (Aura Battler Dunbine) *1983, 1988*  
 Sekirei *2008, 2010*  
 Sen to Chihiro no Kamikakushi (Spirited Away) *2001*  
