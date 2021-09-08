@@ -177,6 +177,7 @@ Getter Robo *1974*
 Ghost Sweeper Mikami *1993, 1994*  
 Gin No Saji *2013*  
 Gin Tama *2006, 2011, 2015, 2017*  
+Ginga Eiyu Densetsu (Legend of Galactic Heroes) *1988, 1992, 1998, 1999, 1993, 2018*  
 Girls Bravo *2004*  
 Girls und Panzer *2012*  
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?) *2014, 2017, 2019*  
@@ -205,13 +206,14 @@ Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!) *2009, 2010, 2012, 2013*
 Hajime no Ippo *2000, 2003, 2009, 2013*  
 Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods) *2018*  
 Hana no Mahotsukai Mari Beru (Flower Witch Mary Bell) *1992*  
-Haha o Tazunete Sanzen Ri *1976, 1980, 1999*  
+Haha o Tazunete Sanzen Ri (3000 Leagues in Search of Mother) *1976, 1980, 1999*  
 Hana Yori Dango (Boys Over Flowers) *1996*  
 Hanasaku Iroha *2011, 2013*  
 Hanayamata *2014*  
 Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon) *2006*  
 Handa-kun (related: Barakamon) *2014, 2016*  
 Happy Cooking Graffiti (Gourmet Girl Graffiti) *2015*  
+Hariken Porima (Hurricane Polymar) *1974*  
 Hataage! Kemono Michi (Kemono Michi: Rise Up) *2019*  
 Hataraki Man *2006*  
 Hataraku Mao-sama (The Devil is a Part-Timer!) *2013*  
@@ -333,6 +335,7 @@ Kishuku Gakko no Juliet (Boarding School Juliet) *2018*
 Knight's & Magic *2017*  
 Kobato *2009*  
 Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid) *2017, 2021*  
+Kobura (Cobra) *1982, 2008, 2010*  
 Kodomo no Omocha (Kodocha) *1996*  
 Koe no Katachi (A Silent Voice) *2016*  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate) *2012*  
@@ -470,6 +473,7 @@ Ouran Koukou Host Club (Ouran High School Host Club) *2006*
 Patalliro! *1982, 2005*  
 Pan De Peace *2016*  
 Panchi Rain (Punch Line) *2015*  
+Perrine Monogatari (The Story of Perrine) *1978, 1990*  
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
 Planetarian: Chiisana Hoshi no Yume (Planetarian: The Reverie of a Little Planet) *2016, 2021*  
 Piano no Mori (Forest of Piano) *2007, 2018*  
@@ -558,6 +562,7 @@ Shumatsu no Izetta (Izetta: The Last Witch) *2016*
 SKET Dance *2011*  
 Slam Dunk *1993, 1994, 1995*  
 Slow Start *2018*  
+Soko Kihei Botomuzu (Armored Trooper Votoms) *1983, 1985, 1986, 1988, 1994, 2010, 2011*  
 SoltyRei *2005*  
 Somari to Mori no Kamisama (Somali and the Forest Spirit) *2020*  
 Sora no Manimani *2009*  
@@ -583,6 +588,7 @@ Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya) *2006, 2009*
 Taiho Shichauzo (You're Under Arrest) *1994, 1996, 1999, 2001, 2002, 2007*  
 Taisho Otome Otogi Banashi *2021*  
 Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold) *1982*  
+Takarajima (Treasure Island) *1978*  
 Tanaka-kun wa Itsumo Kedaruge (Tanaka-kun is Always Listless) *2016*  
 Tantei wa Mo, Shindeiru (The Detective Is Already Dead) *2021*  
 Tamako Market *2013, 2014*  
@@ -661,6 +667,7 @@ Yamada-kun to 7-nin no Majo *2013, 2014, 2015*
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
 Yokohama Kaidashi Kikou *1998*  
+Yokoyama Mitsuteru Sangokushi *1991*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
 Yoroiden Samurai Troopers *1988, 1989, 1991*  
 Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*  
