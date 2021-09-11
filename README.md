@@ -445,6 +445,7 @@ Natsu no Arashi! (Summer Storm!) *2009*
 Natsume Yujin-Cho (Natsume's Book of Friends) *2008, 2013, 2017*  
 Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
 Nichijou *2011*  
+Nijuichi Emon (21 Emon) *1991, 1992*  
 Nisekoi *2014, 2015*  
 Negima! *2004, 2005, 2006, 2008, 2009, 2011*  
 New Game! *2016*  
