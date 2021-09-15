@@ -29,7 +29,7 @@ Amaama to Inazuma (Sweetness & Lightning) *2016*
 Amanchu! *2016*  
 Angel Heart *2005*  
 Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai (Anohana: The Flower We Saw That Day) *2011, 2013*  
-Ano Natsu de Matteru (Waiting in the Summer) *2012*  
+Ano Natsu de Matteru (Waiting in the Summer) *2012, 2014*  
 Ansatsu Kyoushitsu (Assassination Classroom) *2015*  
 Amagi Buririanto Paku (Amagi Brilliant Park) *2014*  
 Ao Haru Ride (Blue Spring Ride) *2014*  
@@ -73,6 +73,7 @@ Bishoujo Senshi Sailor Moon (Sailor Moon) *1992*
 Black Bullet *2014*  
 Black Cat *2005*  
 Black Clover *2017*  
+Black Jack *1993, 1996, 2000, 2004, 2005, 2006*  
 Bobobo-bo Bo-bobo *2003*  
 Boogiepop Phantom *2000*  
 Boku no Hero Academia *2016*  
@@ -107,9 +108,11 @@ City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*
 Classroom Crisis *2015*  
 Cleopatra DC *1989*  
 Comic Girls *2018*  
+Cop Craft: Dragnet Mirage Reloaded *2019*  
+Coppelion *2013*  
+Cowboy Bebop *1998*  
 Crusher Joe *1983, 1989*  
 Cutey Honey *1973, 1994, 1997, 2004*  
-Cowboy Bebop *1998*  
 
 D.Gray-man *2006, 2016*  
 Dagashi Kashi *2016, 2018*  
@@ -143,6 +146,7 @@ Dumbbell Nan-Kilo Moteru? (How Heavy Are the Dumbbells You Lift?) *2019*
 Durarara!! *2010, 2015*  
 
 Ef: A Tale of Memories *2007*  
+Eizoken ni wa Te o Dasu na! (Keep Your Hands Off Eizouken!) *2020*  
 Endro~! *2019*  
 Enen no Shouboutai (Fire Force) *2019*  
 Eru Kazado (El Cazador de la Bruja) *2007*  
@@ -170,6 +174,7 @@ Gall Force *1986*
 Garasu no Kamen (Glass Mask) *1984, 1998, 2005*  
 Gate *2015, 2016*  
 Gavuriru Droppuauto (Gabriel DropOut) *2017*  
+GeGeGe no Kitaro *1968, 1971, 1985, 1996, 2007, 2008, 2018*  
 Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun) *2014*  
 Genjitsushugi Yusha no Okoku Saikenki (How a Realist Hero Rebuilt the Kingdom) *2021*  
 Genmu Senki Leda (Leda: The Fantastic Adventure of Yohko) *1985*  
@@ -229,6 +234,7 @@ Heion Sedai no Idaten-tachi (The Idaten Deities Know Only Peace) *2021*
 Hello! Sandybell *1981*  
 Hensuki *2019*  
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
+Hiatari Ryoko! (Good Sunshine!) *1987, 1988*  
 Hibike! Euphonium (Sound! Euphonium) *2015, 2016, 2017, 2018*  
 Hidamari Sketch *2007, 2008, 2010, 2011, 2012, 2013*  
 Hidan no Aria *2011, 2015*  
@@ -300,6 +306,7 @@ Kaibyoi Ramune (Dr. Ramune: Mysterious Disease Specialist) *2021*
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
 Kakegurui *2017, 2019*  
 Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits) *2018*  
+Kaleido Star *2003, 2004, 2005, 2006, 2007*  
 Kami Nomi zo Shiru Sekai (The World God Only Knows) *2010, 2013*  
 Kami-tachi ni Hirowareta Otoko (By the Grace of the Gods) *2020*  
 Kamichu! (The Goddess is a Middle School Student) *2005*  
@@ -321,6 +328,7 @@ Kaze no Shojo Emily (Emily of New Moon) *2007*
 Kaze no Tani no Naushika (Nausicaä of the Valley of the Wind) *1984*  
 Kazemakase Tsukikage Ran (Carried by the Wind: Tsukikage Ran) *2000*  
 Kekkaishi *2006*  
+Kemono Friends *2017*  
 Kemono no Sou-ja Erin (The Beast Player Erin) *2009*  
 Kengan Ashura *2019*  
 Kenja no Mago (Wise Man's Grandchild) *2019*  
@@ -476,9 +484,11 @@ Orange *2016*
 Ore Monogatari!! (My Love Story!!) *2015*  
 Oritsu Uchugun: Oneamisu no Tsubasa (Royal Space Force: The Wings of Honnêamise) *1987*  
 Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) *2017*  
+Oshitsu Kyoshi Haine (The Royal Tutor) *2017, 2019*  
 Osomatsu-kun *1966, 1988, 1989*  
 Osomatsu-san (Mr. Osomatsu) *2015*  
 Ouran Koukou Host Club (Ouran High School Host Club) *2006*  
+Overman King Gainer *2002*  
 
 Patalliro! *1982, 2005*  
 Pan De Peace *2016*  
@@ -496,6 +506,7 @@ Prizun Skuru (Prison School) *2015*
 Purasutikku Memorizu (Plastic Memories) *2015*  
 
 Rave Master *2001*  
+Ray *2006*  
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
@@ -671,6 +682,7 @@ Wangan Midnight *2007*
 Wata no Kunihoshi (Star of Cottonland) *1984*  
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!) *2013*  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!) *2019*  
+Witchcraft Works *2014, 2015*  
 Wonder Egg Priority *2021*  
 World Trigger *2014*  
 Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku) *2018, 2019*  
@@ -690,6 +702,7 @@ Youjo Senki (Saga of Tanya the Evil) *2017, 2019*
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life) *2017*  
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite) *2017*  
 Yowamushi Pedal *2013, 2014, 2015, 2016, 2017, 2018*  
+Yukoku no Moriarty (Moriarty the Patriot) *2020, 2021*  
 Yumeiro Patissiere *2009, 2010*  
 Yumekui Merry (Dream Eater Merry) *2011*  
 Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs) *2018*  
