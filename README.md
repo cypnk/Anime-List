@@ -129,6 +129,7 @@ Detroit Metal City *2008*
 Demi-chan wa Kataritai (Interviews With Monster Girls) *2017*  
 Di Gi Charat *1999*  
 Dog Days *2011, 2012, 2015*  
+Dokaben *1976*  
 Domestic na Kanojo (Domestic Girlfriend) *2019*  
 Doraemon *1973, 1979, 2005*  
 Dororo *1969, 2019*  
@@ -147,6 +148,7 @@ Enen no Shouboutai (Fire Force) *2019*
 Eru Kazado (El Cazador de la Bruja) *2007*  
 Erufu wo Karu Mono-tachi (Those Who Hunt Elves) *1996*  
 Esper Mami (Mami the Psychic) *1987, 1988*  
+Etotama *2015, 2021*  
 Excel Saga *1999*  
 
 Fairy Tail *2009*  
@@ -180,6 +182,7 @@ Gin Tama *2006, 2011, 2015, 2017*
 Ginga Eiyu Densetsu (Legend of Galactic Heroes) *1988, 1992, 1998, 1999, 1993, 2018*  
 Girls Bravo *2004*  
 Girls und Panzer *2012*  
+GJ-bu (Good Job Club) *2013, 2014*  
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?) *2014, 2017, 2019*  
 God Eater *2015*  
 Gojira Shingyura Pointo (Godzilla Singular Point) *2021*  
@@ -214,6 +217,7 @@ Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon) *2006*
 Handa-kun (related: Barakamon) *2014, 2016*  
 Happy Cooking Graffiti (Gourmet Girl Graffiti) *2015*  
 Hariken Porima (Hurricane Polymar) *1974*  
+Harris no Kaze *1966, 1971*  
 Hataage! Kemono Michi (Kemono Michi: Rise Up) *2019*  
 Hataraki Man *2006*  
 Hataraku Mao-sama (The Devil is a Part-Timer!) *2013*  
@@ -283,6 +287,7 @@ Jaku Chara Tomozaki-kun (Bottom-tier Character Tomozaki) *2021*
 Jashin-chan Dropkick (Dropkick On My Devil!!) *2018, 2020*  
 Jibaku Shonen Hanako-kun (Toilet-Bound Hanako-kun) *2020*  
 Jinrui wa Suitai Shimashita (Humanity Has Declined) *2012*  
+Jitsu wa Watashi wa (My Monster Secret | Actually, I Am...) *2015*  
 Joshiraku *2012, 2013*  
 Joshikousei no Mudazukai (Wasteful Days of High School Girls) *2019*  
 Joukamachi no Dandelion (Castle Town Dandelion) *2015*  
@@ -317,6 +322,7 @@ Kaze no Tani no Naushika (Nausicaä of the Valley of the Wind) *1984*
 Kazemakase Tsukikage Ran (Carried by the Wind: Tsukikage Ran) *2000*  
 Kekkaishi *2006*  
 Kemono no Sou-ja Erin (The Beast Player Erin) *2009*  
+Kengan Ashura *2019*  
 Kenja no Mago (Wise Man's Grandchild) *2019*  
 Kenran Butosai Za Mazu Deibureiku (Mars Daybreak) *2004*  
 Keppeki Danshi! Aoyama-kun (Clean Freak! Aoyama kun) *2017*  
@@ -340,8 +346,10 @@ Kodomo no Omocha (Kodocha) *1996*
 Koe no Katachi (A Silent Voice) *2016*  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate) *2012*  
 Koi to Uso (Love and Lies) *2017*  
+Koikimo: Koi to Yobu ni wa Kimochi Warui (It's Disgusting to Call This Love) *2021*  
 Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn) *2015, 2016*  
 Kokuriko-Zaka Kara (From Up On Poppy Hill) *2011*  
+Komi-san wa Komyusho desu (Komi Can't Communicate) *2021*  
 Komori-san wa Kotowarenai! *2015*  
 Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!) *2016*  
 Kono Naka ni Hitori, Imouto ga Iru! (Nakaimo – My Sister Is Among Them!) *2012*  
@@ -459,6 +467,7 @@ Nurarihyon no Mago (Nura: Rise of the Yokai Clan) *2010, 2011*
 Nurse Angel Ririka SOS *1995*  
 Nyan Koi! *2009*  
 
+Ochamegami Monogatari Korokoro Poron (Little Pollon) *1982*  
 Odd Taxi *2021*  
 Okami to Koshinryo (Spice and Wolf) *2008, 2009*  
 One Punch Man *2015*  
@@ -552,6 +561,7 @@ Shin Sekai Yori (From the New World) *2012*
 Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
 Shiroi Suna no Aquatope (The Aquatope on White Sand) *2021*  
 Shirobako *2014, 2015, 2020*  
+Shobushi Densetsu Tetsuya (The Legend of the Gambler: Tetsuya) *2000*  
 Shokojo Sera (Princess Sarah) *1985*  
 Shokugeki no Souma (Food Wars!) *2015*  
 Shonan Bakusozoku (Bomber Bikers of Shonan) *1986*  
@@ -610,6 +620,7 @@ Terra e... (Toward the Terra) *1980, 2007*
 Texhnolyze *2003*  
 The Kabocha Wine *1982, 1984*   
 Tiger Mask *1969, 1970, 1981, 2013*  
+Time Bokan *1975*  
 Time Travel Tondekeman (Time Quest!) *1989*  
 Tokimeki Tonight *1982*  
 Tokyo ESP *2014*  
@@ -637,6 +648,7 @@ Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirena
 Uchouten Kazoku (The Eccentric Family) *2013, 2017*  
 Uchu no Suteruvia (Stellvia of the Universe) *2003*  
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199) *2012, 2014*  
+Udon no Kuni no Kiniro Kemari (Poco’s Udon World) *2016*  
 UFO Princess Valkyrie (UFO Ultramaiden Valkyrie) *2002, 2006*  
 Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
 UQ Holder! *2017*  
@@ -647,6 +659,7 @@ Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020*
 
 Vampire Knight *2008*  
 Vampire Princess Miyu *1988, 1997*  
+Vinland Saga *2019*  
 Virus (Virus Buster Serge) *1997*  
 Vivy: Fluorite Eye's Song *2021*  
 
@@ -664,6 +677,7 @@ Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku) *2018, 2019*
 
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU) *2013, 2015, 2020*  
 Yakitate!! Japan *2004*  
+Yakyu-kyo no Uta (Poetry of Baseball Enthusiasts) *1977, 1979*  
 Yamada-kun to 7-nin no Majo *2013, 2014, 2015*  
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
