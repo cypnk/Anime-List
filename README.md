@@ -689,6 +689,7 @@ Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku) *2018, 2019*
 
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU) *2013, 2015, 2020*  
 Yakitate!! Japan *2004*  
+Yaku nara Magu Kappu mo (Let's Make a Mug Too) *2021*  
 Yakyu-kyo no Uta (Poetry of Baseball Enthusiasts) *1977, 1979*  
 Yamada-kun to 7-nin no Majo *2013, 2014, 2015*  
 Yattaman (Yatterman) *1977, 2008, 2009*  
