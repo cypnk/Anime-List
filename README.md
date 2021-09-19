@@ -42,6 +42,7 @@ Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Str
 Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*  
 Arusuran Senki (The Heroic Legend of Arslan) *1991*  
 Ashita no Joe (Tomorrow's Joe) *1970*  
+Ashita no Nadja (Tomorrow's Nadja) *2003*  
 Asobi Asobase *2018*  
 Astroganger *1972*  
 Attack No. 1 *1969*  
@@ -97,6 +98,7 @@ Chainsaw Man *2021*
 Charlotte *2015*  
 Chito Kusushi no Suro Raifu: Isekai ni Tsukuro Doraggusutoa (Drugstore in Another World: The Slow Life of a Cheat Pharmacist) *2021*  
 Chio-chan no Tsuugakuro (Chio's School Road) *2018*  
+Chitose get You!! *2012*  
 Chojiku Seiki Ogasu (Super Dimension Century Orguss) *1983, 1993*  
 Chojin-Kokoseitachi wa Isekai demo Yoyu de Ikinuku Yodesu! (Choyoyu: High School Prodigies Have It Easy Even In Another World) *2019*  
 Choyaku Hyakunin Isshu: Uta Koi *2012*  
@@ -172,6 +174,7 @@ Gaisutazu Furakushonsu obu za Asu (Geisters) *2001*
 Gakuen Babysitters *2018*  
 Gall Force *1986*  
 Garasu no Kamen (Glass Mask) *1984, 1998, 2005*  
+Garasu no Kantai (Glass Fleet) *2006*  
 Gate *2015, 2016*  
 Gavuriru Droppuauto (Gabriel DropOut) *2017*  
 GeGeGe no Kitaro *1968, 1971, 1985, 1996, 2007, 2008, 2018*  
@@ -229,6 +232,7 @@ Hataraku Mao-sama (The Devil is a Part-Timer!) *2013*
 Hataraku Saibou (Cells at Work) *2018, 2020*  
 Haunted Junction *1997*  
 Hayate no Gotoku! *2007, 2009, 2012, 2013, 2014*  
+Heavy Metal L-Gaim *1984, 1986*  
 Heavy Object *2015*  
 Heion Sedai no Idaten-tachi (The Idaten Deities Know Only Peace) *2021*  
 Hello! Sandybell *1981*  
@@ -314,6 +318,7 @@ Kamikaze Kaitou Jeanne (Phantom Thief Jeanne) *1999*
 Kamisama Hajimemashita (Kamisama Kiss) *2012, 2015*  
 Kamisama ni Natta Hi (The Day I Became a God) *2020*  
 Kamisama no Memochou (Heaven's Memo Pad) *2011*  
+Kamizawa Wanda *2016*  
 Kannagi (Kannagi: Crazy Shrine Maidens) *2008*  
 Kanojo Okarishimasu (Rent-a-Girlfriend) *2020*  
 Kanon *2006*  
@@ -350,6 +355,7 @@ Knight's & Magic *2017*
 Kobato *2009*  
 Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid) *2017, 2021*  
 Kobura (Cobra) *1982, 2008, 2010*  
+Kochira Katsushika-ku Kameari Koen Mae Hashutsujo (KochiKame: Tokyo Beat Cops) *1985, 1996*  
 Kodomo no Omocha (Kodocha) *1996*  
 Koe no Katachi (A Silent Voice) *2016*  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate) *2012*  
@@ -424,6 +430,7 @@ Maojo de Oyasumi (Sleepy Princess in the Demon Castle) *2020*
 Maria Holic *2009, 2011*  
 Masamune-kun no Revenge *2017*  
 Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
+Mashiro no Oto (Those Snow White Notes) *2021*  
 Mazinger Z *1972*  
 Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
 Metal Skin Panic MADOX-01 *1987*  
@@ -541,6 +548,7 @@ Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*
 Sasurai no Taiyo (Nozomi in the Sun) *1971*  
 Sayonara Watashi no Kurama (Farewell, My Dear Cramer) *2021*  
 Sayonara Zetsubou Sensei *2007, 2008, 2009, 2012*  
+Sazae-san *1969*  
 School Rumble *2004, 2005, 2006*  
 Scrapped Princess *2003*  
 Seihou Bukyou Outlaw Star *1998*  
@@ -682,6 +690,7 @@ Wangan Midnight *2007*
 Wata no Kunihoshi (Star of Cottonland) *1984*  
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!) *2013*  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!) *2019*  
+Weruberu no Monogatari (Sisters of Wellber) *2007*  
 Witchcraft Works *2014, 2015*  
 Wonder Egg Priority *2021*  
 World Trigger *2014*  
