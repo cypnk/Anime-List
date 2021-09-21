@@ -703,6 +703,7 @@ Yakyu-kyo no Uta (Poetry of Baseball Enthusiasts) *1977, 1979*
 Yamada-kun to 7-nin no Majo *2013, 2014, 2015*  
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
+Yesterday o Utatte (Sing "Yesterday" for Me) *2020*  
 Yokohama Kaidashi Kikou *1998*  
 Yokoyama Mitsuteru Sangokushi *1991*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
