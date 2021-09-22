@@ -35,6 +35,7 @@ Amagi Buririanto Paku (Amagi Brilliant Park) *2014*
 Ao Haru Ride (Blue Spring Ride) *2014*  
 Ao no Exorcist (Blue Exorcist) *2011, 2017*  
 Aoharu x Kikanjuu (Youth x Machine gun) *2015*  
+Aozora Shojotai (801 T.T.S. Airbats) *1994*  
 Appleseed *1988*  
 Arakawa Under the Bridge *2010*  
 Aria The Animation *2005*  
@@ -110,6 +111,7 @@ City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*
 Classroom Crisis *2015*  
 Cleopatra DC *1989*  
 Comic Girls *2018*  
+Concrete Revolutio *2015*  
 Cop Craft: Dragnet Mirage Reloaded *2019*  
 Coppelion *2013*  
 Cowboy Bebop *1998*  
@@ -125,6 +127,7 @@ Darling in the FranXX *2018*
 Date A Live *2013*  
 DearS *2004*  
 Death March kara Hajimaru Isekai Kyousoukyoku (Death March to The Parallel World Rhapsody) *2018*  
+Deca Dence *2020*  
 Denkigai no Honya-san (Denki-gai) *2014*  
 Denpa Kyoushi (Ultimate Otaku Teacher) *2015*  
 Denpa Onna to Seishun Otoko (Ground Control to Psychoelectric Girl) *2011*  
@@ -159,6 +162,7 @@ Excel Saga *1999*
 
 Fairy Tail *2009*  
 Faibu Suta Monogatari (The Five Star Stories) *1989*  
+Fantastic Children *2004*  
 Flip Flappers *2016*  
 Flying Witch *2016*  
 Free! *2013, 2014, 2018*  
@@ -248,6 +252,7 @@ High School Fleet *2016, 2020*
 High Score Girl *2018*  
 High School! Kimengumi *1985*  
 Hikari no Densetsu *1986*  
+Hikari to Mizu no Dafune (Daphne in the Brilliant Blue) *2004*  
 Hime-chan no Ribon (Hime-chan's Ribbon) *1992*  
 Himitsu no Akko-chan (The Secrets of Akko-chan) *1969, 1988, 1989, 1998*  
 Himouto! Umaru-chan *2015, 2017*  
@@ -301,10 +306,12 @@ Jitsu wa Watashi wa (My Monster Secret | Actually, I Am...) *2015*
 Joshiraku *2012, 2013*  
 Joshikousei no Mudazukai (Wasteful Days of High School Girls) *2019*  
 Joukamachi no Dandelion (Castle Town Dandelion) *2015*  
+Jungle wa Itsumo Hare nochi Guu (Haré+Guu) *2001*  
 Junketsu no Maria (Maria the Virgin Witch) *2015*  
 
 K-On! *2009, 2011*  
 Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
+Kageki Shoujo *2021*  
 Kaguya-sama: Love is War *2019, 2002*  
 Kaibyoi Ramune (Dr. Ramune: Mysterious Disease Specialist) *2021*  
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
@@ -377,6 +384,7 @@ Kujira no Kora wa Sajo ni Utau (Children of the Whales) *2017*
 Kuma Kuma Kuma Bear *2020*  
 Kumamiko: Girl meets Bear *2016*  
 Kumo desu ga, Nani ka? (So I'm a Spider, So What?) *2021*  
+Kurogane Communication *1998*  
 Kuroshitsuji (Black Butler) *2008, 2014*  
 Kyandi Kyandi (Candy Candy) *1976*  
 Kyaputen Fyucha (Captain Future) *1978*  
@@ -466,6 +474,7 @@ Nanatsu no Taizai (The Seven Deadly Sins) *2014*
 Nanatsu no Umi no Tiko (Tico of the Seven Seas) *1994*  
 Natsu no Arashi! (Summer Storm!) *2009*  
 Natsume Yujin-Cho (Natsume's Book of Friends) *2008, 2013, 2017*  
+Nazo no Kanojo Ekkusu (Mysterious Girlfriend X) *2012*  
 Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
 Nichijou *2011*  
 Nijuichi Emon (21 Emon) *1991, 1992*  
@@ -501,6 +510,7 @@ Patalliro! *1982, 2005*
 Pan De Peace *2016*  
 Panchi Rain (Punch Line) *2015*  
 Perrine Monogatari (The Story of Perrine) *1978, 1990*  
+Pet *2020*  
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
 Planetarian: Chiisana Hoshi no Yume (Planetarian: The Reverie of a Little Planet) *2016, 2021*  
 Piano no Mori (Forest of Piano) *2007, 2018*  
@@ -512,11 +522,13 @@ Princess Principal *2017, 2021*
 Prizun Skuru (Prison School) *2015*  
 Purasutikku Memorizu (Plastic Memories) *2015*  
 
+Radiant *2018*  
 Rave Master *2001*  
 Ray *2006*  
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
+Rokuhoudou Yotsuiro Biyori *2018*  
 Roringu Garuzu (The Rolling Girls) *2015*  
 Rokka no Yusha (Rokka: Braves of the Six Flowers) *2015*  
 Rokujouma no Shinryakusha!? (Invaders of the Rokujouma!?) *2014*  
@@ -623,6 +635,7 @@ Tanaka-kun wa Itsumo Kedaruge (Tanaka-kun is Always Listless) *2016*
 Tantei wa Mo, Shindeiru (The Detective Is Already Dead) *2021*  
 Tamako Market *2013, 2014*  
 Tamayura *2010*  
+Tari Tari *2012*  
 Tasogare Otome x Amunejia (Dusk Maiden of Amnesia) *2012*  
 Tattoon Master *1996*  
 Tegami Bachi *2009*  
@@ -656,6 +669,7 @@ Toshokan Sensou (Library War) *2008, 2012*
 Touch *1985*  
 Trinity Seven *2014, 2017, 2019*  
 Tsubasa: Reservoir Chronicle *2005, 2007, 2009*  
+Tsugumomo *2017, 2020*  
 Tsukai ni Taisetsu na Koto (Someday's Dreamers) *2003*  
 Tsuki ga Kirei (As the Moon, So Beautiful) *2017*  
 Tsuki ga Michibiku Isekai Douchuu (Tsukimichi: Moonlit Fantasy) *2021*  
@@ -704,7 +718,7 @@ Yamada-kun to 7-nin no Majo *2013, 2014, 2015*
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
 Yesterday o Utatte (Sing "Yesterday" for Me) *2020*  
-Yokohama Kaidashi Kikou *1998*  
+Yokohama Kaidashi Kikou (Yokohama Shopping Log) *1998*  
 Yokoyama Mitsuteru Sangokushi *1991*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
 Yoroiden Samurai Troopers *1988, 1989, 1991*  
