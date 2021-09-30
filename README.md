@@ -267,6 +267,7 @@ Hokago Saikoro Club (After School Dice Club) *2019*
 Hono no Tokyuji Dodge Danpei (Fighting Dodgeball Boy Dodge Danpei) *1991*  
 Honzuki no Gekokujo (Ascendance of a Bookworm) *2019*  
 Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021*  
+Hosekisho Richard-shi no Nazo Kantei (The Case Files of Jeweler Richard) *2018*  
 Hotarubi no Mori e *2011*  
 Hourou Musuko (Wandering Son) *2011*  
 Houseki no Kuni (Land of the Lustrous) *2017*  
@@ -368,6 +369,7 @@ Kodomo no Omocha (Kodocha) *1996*
 Koe no Katachi (A Silent Voice) *2016*  
 Koi to Senkyo to Chocolate (Love, Election and Chocolate) *2012*  
 Koi to Uso (Love and Lies) *2017*  
+Koi wa Ameagari no You ni (Afer the Rain) *2018*  
 Koikimo: Koi to Yobu ni wa Kimochi Warui (It's Disgusting to Call This Love) *2021*  
 Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn) *2015, 2016*  
 Kokuriko-Zaka Kara (From Up On Poppy Hill) *2011*  
@@ -507,9 +509,10 @@ Osomatsu-san (Mr. Osomatsu) *2015*
 Ouran Koukou Host Club (Ouran High School Host Club) *2006*  
 Overman King Gainer *2002*  
 
-Patalliro! *1982, 2005*  
 Pan De Peace *2016*  
 Panchi Rain (Punch Line) *2015*  
+Paradise Kiss *2005*  
+Patalliro! *1982, 2005*  
 Perrine Monogatari (The Story of Perrine) *1978, 1990*  
 Pet *2020*  
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
