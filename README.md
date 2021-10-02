@@ -152,6 +152,7 @@ Dumbbell Nan-Kilo Moteru? (How Heavy Are the Dumbbells You Lift?) *2019*
 Durarara!! *2010, 2015*  
 
 Ef: A Tale of Memories *2007*  
+Eitoman (8th Man) *1963, 1993*  
 Eizoken ni wa Te o Dasu na! (Keep Your Hands Off Eizouken!) *2020*  
 Endro~! *2019*  
 Enen no Shouboutai (Fire Force) *2019*  
@@ -496,6 +497,7 @@ Nyan Koi! *2009*
 
 Ochamegami Monogatari Korokoro Poron (Little Pollon) *1982*  
 Odd Taxi *2021*  
+Ogon Bat (Golden Bat) *1967*  
 Okami to Koshinryo (Spice and Wolf) *2008, 2009*  
 One Punch Man *2015*  
 Oniisama e... (Dear Brother) *1991*  
@@ -549,6 +551,7 @@ Sagrada Reset (Sakurada Reset) *2017*
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.) *2016, 2019*  
 Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
 Saiunkoku Monogatari (The Story of Saiunkoku) *2006, 2007*  
+Saiyuki (Journey to the West | Alakazam the Great) *1960*  
 Sakigake!! Otokojuku *1988*  
 Sakura Quest *2017*  
 Sakura Trick *2014*  
@@ -600,6 +603,7 @@ Shobushi Densetsu Tetsuya (The Legend of the Gambler: Tetsuya) *2000*
 Shokojo Sera (Princess Sarah) *1985*  
 Shokugeki no Souma (Food Wars!) *2015*  
 Shonan Bakusozoku (Bomber Bikers of Shonan) *1986*  
+Shonen Jakku to Mahotsukai (Jack and the Witch) *1967*  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
 Show by Rock!! *2015, 2016, 2020, 2021*  
 Showa Genroku Rakugo Shinju *2015, 2016*  
@@ -655,12 +659,14 @@ Tentomushi no Uta (The Song of Tentomushi) *1974*
 Terra e... (Toward the Terra) *1980, 2007*  
 Texhnolyze *2003*  
 The Kabocha Wine *1982, 1984*   
+Tiger & Bunny *2011, 2012, 2014, 2022*  
 Tiger Mask *1969, 1970, 1981, 2013*  
 Time Bokan *1975*  
 Time Travel Tondekeman (Time Quest!) *1989*  
 Tokimeki Tonight *1982*  
 Tokyo ESP *2014*  
 Tokyo Godfathers *2003*  
+Tokyo Magnitude 8.0 *2009*  
 Tokyo Ravens *2013*  
 Tokyo Revengers *2021*  
 Tonari no Kyuuketsuki-san (Ms. Vampire Who Lives in My Neighborhood) *2018*  
