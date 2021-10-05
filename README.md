@@ -108,6 +108,7 @@ Chrome Shelled Regios *2009*
 Chukan Kanriroku Tonegawa (Mr. Tonegawa: Middle Management Blues) *2018*  
 Chuuka Ichiban! (Cooking Master Boy) *1997, 2019*  
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions) *2012, 2013, 2014*  
+Cider no You ni Kotoba ga Wakiagaru (Words Bubble Up Like Soda Pop) *2021*  
 City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*  
 Classroom Crisis *2015*  
 Cleopatra DC *1989*  
@@ -120,6 +121,7 @@ Crusher Joe *1983, 1989*
 Cutey Honey *1973, 1994, 1997, 2004*  
 
 D.Gray-man *2006, 2016*  
+Deaimon *2022*  
 Dagashi Kashi *2016, 2018*  
 Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?) *2015, 2019*  
 Danshi Koukousei no Nichijou (Daily Lives of High School Boys) *2012*  
@@ -319,6 +321,7 @@ Kaguya-sama: Love is War *2019, 2002*
 Kaibyoi Ramune (Dr. Ramune: Mysterious Disease Specialist) *2021*  
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
 Kakegurui *2017, 2019*  
+Kakko no Iinazuke (A Couple of Cuckoos) *2022*  
 Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits) *2018*  
 Kaleido Star *2003, 2004, 2005, 2006, 2007*  
 Kami Nomi zo Shiru Sekai (The World God Only Knows) *2010, 2013*  
@@ -447,6 +450,7 @@ Mazinger Z *1972*
 Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
 Metal Skin Panic MADOX-01 *1987*  
 Michiko to Hatchin (Michiko & Hatchin) *2008*  
+Mieruko-chan *2021*   
 Miira no Kaikata (How to keep a mummy) *2018*  
 Mikakunin de Shinkokei (Engaged to the Unidentified) *2014*  
 Mimi wo Sumaseba (Whisper of the Heart) *1995*  
@@ -483,6 +487,7 @@ Net-juu no Susume (Recovery of an MMO Junkie) *2017*
 Nichijou *2011*  
 Nijuichi Emon (21 Emon) *1991, 1992*  
 Nisekoi *2014, 2015*  
+Nekojiru-so (Cat Soup) *2001*  
 Negima! *2004, 2005, 2006, 2008, 2009, 2011*  
 New Game! *2016*  
 No Game No Life *2014, 2015*  
@@ -579,6 +584,7 @@ Seitokai no Ichizon (Student Council's Discretion) *2009, 2012*
 Seitokai Yakindomo *2010, 2011, 2014, 2017, 2021*  
 Seikai no Monshou (Crest of the Stars) *1999*  
 Seikai no Senki (Banner of the Stars|related:Crest of the Stars) *2000, 2001, 2005*  
+Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru (The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat) *2021*  
 Sekai Seifuku: Boryaku no Zuvizuda (World Conquest Zvezda Plot) *2014*  
 Seisenshi Dunbine (Aura Battler Dunbine) *1983, 1988*  
 Sekirei *2008, 2010*  
@@ -597,6 +603,7 @@ Shigatsu wa Kimi no Uso (Your Lie in April) *2014*
 Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*   
 Shin Sekai Yori (From the New World) *2012*  
 Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
+Shinka no Mi (The Fruit of Evolution) *2021*  
 Shiroi Suna no Aquatope (The Aquatope on White Sand) *2021*  
 Shirobako *2014, 2015, 2020*  
 Shobushi Densetsu Tetsuya (The Legend of the Gambler: Tetsuya) *2000*  
@@ -683,6 +690,7 @@ Tsugumomo *2017, 2020*
 Tsukai ni Taisetsu na Koto (Someday's Dreamers) *2003*  
 Tsuki ga Kirei (As the Moon, So Beautiful) *2017*  
 Tsuki ga Michibiku Isekai Douchuu (Tsukimichi: Moonlit Fantasy) *2021*  
+Tsuki to Laika to Nosferatu (Irina: The Vampire Cosmonaut) *2021*  
 Tsukuyomi: Moon Phase *2004*  
 Tsurezure Children *2017*  
 
