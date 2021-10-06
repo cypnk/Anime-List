@@ -112,6 +112,7 @@ Cider no You ni Kotoba ga Wakiagaru (Words Bubble Up Like Soda Pop) *2021*
 City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*  
 Classroom Crisis *2015*  
 Cleopatra DC *1989*  
+Clockwork Planet *2017*  
 Comic Girls *2018*  
 Concrete Revolutio *2015*  
 Cop Craft: Dragnet Mirage Reloaded *2019*  
@@ -341,6 +342,7 @@ Karakai Jozu no Takagi-san (Teasing Master Takagi-san) *2018*
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances) *1998*  
 Karigurashi no Arrietty (Arrietty) *2010*  
 Karin (Chibi Vampire) *2005*  
+Kanata no Asutora (Astra Lost in Space) *2019*  
 Kaze ga Tsuyoku Fuiteiru (Run with the Wind) *2018*  
 Kaze no Na wa Amunejia (A Wind Named Amnesia) *1990*  
 Kaze no Shojo Emily (Emily of New Moon) *2007*  
@@ -386,6 +388,7 @@ Kono Oto Tomare! Sounds of Life (Stop This Sound) *2019*
 Kono Subarashii Sekai ni Shukufuku wo! (KonoSuba: God's Blessing on this Wonderful World!) *2016, 2019*  
 Konohana Kitan *2017*  
 Kore wa Zombie Desu ka? *2011, 2012*  
+Kotetsujo no Kabaneri (Kabaneri of the Iron Fortress) *2016, 2019*  
 Kotonoha no Niwa (The Garden of Words) *2013*  
 Kotoura-san *2013*  
 Kujira no Kora wa Sajo ni Utau (Children of the Whales) *2017*  
@@ -614,7 +617,7 @@ Shonan Bakusozoku (Bomber Bikers of Shonan) *1986*
 Shonen Jakku to Mahotsukai (Jack and the Witch) *1967*  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
 Show by Rock!! *2015, 2016, 2020, 2021*  
-Showa Genroku Rakugo Shinju *2015, 2016*  
+Showa Genroku Rakugo Shinju (Descending Stories) *2015, 2016*  
 Shuffle! *2005, 2007*  
 Shumatsu no Izetta (Izetta: The Last Witch) *2016*  
 SKET Dance *2011*  
