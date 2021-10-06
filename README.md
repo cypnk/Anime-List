@@ -315,6 +315,7 @@ Jungle wa Itsumo Hare nochi Guu (Haré+Guu) *2001*
 Junketsu no Maria (Maria the Virgin Witch) *2015*  
 
 K-On! *2009, 2011*  
+Kacho-Oji (Black Heaven) *1999*  
 Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
 Kageki Shoujo *2021*  
 Kaguya-sama: Love is War *2019, 2002*  
