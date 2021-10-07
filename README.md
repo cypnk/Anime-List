@@ -40,6 +40,7 @@ Appleseed *1988*
 Arakawa Under the Bridge *2010*  
 Aria The Animation *2005*  
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019*  
+Arte *2020*  
 Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*  
 Arusuran Senki (The Heroic Legend of Arslan) *1991*  
 Ashita no Joe (Tomorrow's Joe) *1970*  
@@ -144,6 +145,7 @@ Dog Days *2011, 2012, 2015*
 Dokaben *1976*  
 Domestic na Kanojo (Domestic Girlfriend) *2019*  
 Doraemon *1973, 1979, 2005*  
+Dorohedoro *2020*  
 Dororo *1969, 2019*  
 Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat) *2019*  
 Dragon Drive *2002*  
@@ -325,6 +327,7 @@ Kaiketsu Zoro (The Legend of Zorro) *1995*
 Kakegurui *2017, 2019*  
 Kakko no Iinazuke (A Couple of Cuckoos) *2022*  
 Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits) *2018*  
+Kakushigoto (My Dad's Secret Ambition) *2020*  
 Kaleido Star *2003, 2004, 2005, 2006, 2007*  
 Kami Nomi zo Shiru Sekai (The World God Only Knows) *2010, 2013*  
 Kami-tachi ni Hirowareta Otoko (By the Grace of the Gods) *2020*  
@@ -481,6 +484,7 @@ Muhyo to Roji no Mahoritsu Sodan Jimusho (Muhyo & Roji's Bureau of Supernatural 
 
 Nagi no Asukara (A Lull in the Sea) *2013*  
 Nakitai Watashi wa Neko o Kaburu (A Whisker Away) *2020*  
+Nami yo Kiitekure (Wave, Listen to Me!) *2020*  
 Nana *2006*  
 Nanatsu no Taizai (The Seven Deadly Sins) *2014*  
 Nanatsu no Umi no Tiko (Tico of the Seven Seas) *1994*  
