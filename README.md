@@ -54,10 +54,12 @@ Azumanga Daioh *2002*
 Babel II *1973, 1992, 2001*  
 Baby Steps *2014*  
 Baccano! *2007*  
+Bachikan Kiseki Chosakan (Vatican Miracle Examiner) *2017*  
 Back Street Girls: Gokudolls *2018*  
 Baka to Test to Shoukanjuu *2010, 2011*  
 Bakemonogatari *2009, 2013, 2014*  
 Bakuman *2010*  
+Bakuretsu Hanta (Sorcerer Hunters) *1995*  
 Bakuso Kyodai Let's & Go!! *1996, 1997*  
 Ballroom e Youkoso (Welcome to the Ballroom) *2017*  
 BanG Dream! *2017, 2018, 2019, 2020*  
@@ -85,7 +87,7 @@ Bokura ga Ita (We Were There) *2006*
 Bokura wa Minna Kawaisou (The Kawai Complex Guide to Manors and Hostel Behavior) *2014*  
 Bokutachi wa Benkyou ga Dekinai (We Never Learn: BOKUBEN) *2019*  
 Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan) *2005, 2007*  
-Bakuretsu Hanta (Sorcerer Hunters) *1995*  
+Brave Raideen *1975, 1996*  
 Bungou Stray Dogs *2016, 2021*  
 Burn Up! *1991, 1996, 1997, 2004*  
 Buso Renkin (Arms Alchemist) *2006*  
@@ -148,6 +150,7 @@ Doraemon *1973, 1979, 2005*
 Dorohedoro *2020*  
 Dororo *1969, 2019*  
 Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat) *2019*  
+Dr. Slump *1981, 1997*  
 Dragon Drive *2002*  
 Dragon Quest: The Adventure of Dai *1991, 2020*  
 Dragon's Heaven *1988*  
@@ -159,6 +162,7 @@ Durarara!! *2010, 2015*
 Ef: A Tale of Memories *2007*  
 Eitoman (8th Man) *1963, 1993*  
 Eizoken ni wa Te o Dasu na! (Keep Your Hands Off Eizouken!) *2020*  
+Emiya-sanchi no Kyo no Gohan (Today's Menu for the Emiya Family) *2018*  
 Endro~! *2019*  
 Enen no Shouboutai (Fire Force) *2019*  
 Eru Kazado (El Cazador de la Bruja) *2007*  
@@ -184,6 +188,7 @@ Fushigi Yuugi (Mysterious Play) *1995*
 Gaisutazu Furakushonsu obu za Asu (Geisters) *2001*  
 Gakuen Babysitters *2018*  
 Gall Force *1986*  
+Ganbare Genki *1980*  
 Garasu no Kamen (Glass Mask) *1984, 1998, 2005*  
 Garasu no Kantai (Glass Fleet) *2006*  
 Gate *2015, 2016*  
@@ -291,6 +296,8 @@ Ichiban Ushiro no Dai Mao (Demon King Daimao) *2010*
 Idol Densetsu Eriko *1989*  
 Ie Naki Ko (Nobody's Boy: Remi) *1977, 1980*  
 Igano Kabamaru *1983*  
+Ike! Ina-chuu Takkyuubu (The Ping Pong Club) *1995*  
+Ikkyu-san *1975, 1978, 1980, 1981*  
 Ikoku Meiro no Kurowaze (Croisée in a Foreign Labyrinth) *2011*  
 Ima, Soko ni Iru Boku (Now and Then, Here and There) *1999*  
 Imoto Sae Ireba Ii (A Sister's All You Need) *2017*  
@@ -303,6 +310,7 @@ Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food Fro
 Isekai Shokudou (Restaurant to Another World) *2017*  
 Isekai wa Smartphone to Tomo ni *2017*  
 Isshukan Friends (One Week Friends) *2014*  
+Isu (The Chair) *1964*  
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.) *2020*  
 Ixion Saga DT *2012*
 
@@ -518,6 +526,7 @@ Orange *2016*
 Ore Monogatari!! (My Love Story!!) *2015*  
 Oritsu Uchugun: Oneamisu no Tsubasa (Royal Space Force: The Wings of Honnêamise) *1987*  
 Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) *2017*  
+Osama Ranking (Ranking of Kings) *2021*  
 Oshitsu Kyoshi Haine (The Royal Tutor) *2017, 2019*  
 Osomatsu-kun *1966, 1988, 1989*  
 Osomatsu-san (Mr. Osomatsu) *2015*  
@@ -563,9 +572,11 @@ Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend) *2015*
 Sagrada Reset (Sakurada Reset) *2017*  
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.) *2016, 2019*  
 Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
+Sairento Mebiusu (Silent Möbius) *1991, 1998*  
 Saiunkoku Monogatari (The Story of Saiunkoku) *2006, 2007*  
 Saiyuki (Journey to the West | Alakazam the Great) *1960*  
 Sakigake!! Otokojuku *1988*  
+Sakugan *2021*  
 Sakura Quest *2017*  
 Sakura Trick *2014*  
 Sakurasou no Pet na Kanojo (The Pet Girl of Sakurasou) *2012*  
@@ -575,6 +586,7 @@ Samurai Champloo *2004*
 Samurai Flamenco *2013*  
 Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion) *2016*  
 Sarai-ya Goyo (House of Five Leaves) *2010*  
+Sarazanmai *2019*  
 Sasami-san@Ganbaranai *2013*  
 Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
 Sasurai no Taiyo (Nozomi in the Sun) *1971*  
@@ -592,6 +604,7 @@ Seitokai no Ichizon (Student Council's Discretion) *2009, 2012*
 Seitokai Yakindomo *2010, 2011, 2014, 2017, 2021*  
 Seikai no Monshou (Crest of the Stars) *1999*  
 Seikai no Senki (Banner of the Stars|related:Crest of the Stars) *2000, 2001, 2005*  
+Sekai Meisaku Dowa Hakucho no Mizumi (Swan Lake) *1981*  
 Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru (The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat) *2021*  
 Sekai Seifuku: Boryaku no Zuvizuda (World Conquest Zvezda Plot) *2014*  
 Seisenshi Dunbine (Aura Battler Dunbine) *1983, 1988*  
@@ -619,6 +632,7 @@ Shokojo Sera (Princess Sarah) *1985*
 Shokugeki no Souma (Food Wars!) *2015*  
 Shonan Bakusozoku (Bomber Bikers of Shonan) *1986*  
 Shonen Jakku to Mahotsukai (Jack and the Witch) *1967*  
+Shonen Ninja Kaze no Fujimaru (Fujimaru of the Wind: The Childhood of a Ninja) *1964*  
 Shoujo Shuumatsu Ryokou (Girl's Last Tour) *2017*  
 Show by Rock!! *2015, 2016, 2020, 2021*  
 Showa Genroku Rakugo Shinju (Descending Stories) *2015, 2016*  
@@ -699,6 +713,7 @@ Tsukai ni Taisetsu na Koto (Someday's Dreamers) *2003*
 Tsuki ga Kirei (As the Moon, So Beautiful) *2017*  
 Tsuki ga Michibiku Isekai Douchuu (Tsukimichi: Moonlit Fantasy) *2021*  
 Tsuki to Laika to Nosferatu (Irina: The Vampire Cosmonaut) *2021*  
+Tsurikichi Sanpei (Fisherman Sanpei) *1980*  
 Tsukuyomi: Moon Phase *2004*  
 Tsurezure Children *2017*  
 
@@ -706,6 +721,7 @@ Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!) *2018*
 Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord) *2019*  
 Uchouten Kazoku (The Eccentric Family) *2013, 2017*  
 Uchu no Suteruvia (Stellvia of the Universe) *2003*  
+Uchu Shonen Soran (Space Boy Soran) *1965*  
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199) *2012, 2014*  
 Udon no Kuni no Kiniro Kemari (Poco’s Udon World) *2016*  
 UFO Princess Valkyrie (UFO Ultramaiden Valkyrie) *2002, 2006*  
@@ -716,6 +732,7 @@ Urusei Yatsura *1981*
 Ushio to Tora *1992, 2015*  
 Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020*  
 
+Valkyria Chronicles *2008*  
 Vampire Knight *2008*  
 Vampire Princess Miyu *1988, 1997*  
 Vinland Saga *2019*  
@@ -763,5 +780,6 @@ YuruYuri *2011, 2012, 2014, 2015, 2019*
 
 Zan Sayonara Zetsubou Sensei *2007, 2008, 2009*  
 Zero no Tsukaima *2006, 2007, 2008, 2012*  
+Zetsuen no Tenpesuto (Blast of Tempest) *2012*  
 Zettai Karen Children (Psychic Squad) *2008*  
 
