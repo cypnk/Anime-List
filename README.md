@@ -353,6 +353,7 @@ Karakai Jozu no Takagi-san (Teasing Master Takagi-san) *2018*
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances) *1998*  
 Karigurashi no Arrietty (Arrietty) *2010*  
 Karin (Chibi Vampire) *2005*  
+Kasei Yakyoku *1988*  
 Kanata no Asutora (Astra Lost in Space) *2019*  
 Kaze ga Tsuyoku Fuiteiru (Run with the Wind) *2018*  
 Kaze no Na wa Amunejia (A Wind Named Amnesia) *1990*  
