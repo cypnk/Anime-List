@@ -5,6 +5,7 @@ Absolute Duo *2015*
 Accel World *2012*  
 Acchi Kocchi (Place to Place) *2012*  
 Ace o Nerae! (Aim for the Ace!) *1973, 1978, 1979, 1988*  
+Aharen-san wa Hakarenai *2022*  
 Aka-chan to Boku (Baby & Me) *1996*  
 Aka-zukin Cha-Cha (Lil' Red Riding Hood Cha-Cha) *1994*  
 Akane-chan *1968*  
@@ -37,9 +38,10 @@ Ao no Exorcist (Blue Exorcist) *2011, 2017*
 Aoharu x Kikanjuu (Youth x Machine gun) *2015*  
 Aozora Shojotai (801 T.T.S. Airbats) *1994*  
 Appleseed *1988*  
+Araiguma Rasukaru (Rascal the Raccoon) *1977*  
 Arakawa Under the Bridge *2010*  
 Aria The Animation *2005*  
-Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019*  
+Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019, 2022*  
 Arte *2020*  
 Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*  
 Arusuran Senki (The Heroic Legend of Arslan) *1991*  
@@ -63,6 +65,7 @@ Bakuretsu Hanta (Sorcerer Hunters) *1995*
 Bakuso Kyodai Let's & Go!! *1996, 1997*  
 Ballroom e Youkoso (Welcome to the Ballroom) *2017*  
 BanG Dream! *2017, 2018, 2019, 2020*  
+Bara-O no Soretsu (Requiem of the Rose King) *2022*  
 Barakamon *2014, 2016*  
 Basara *1998*  
 Beast King GoLion *1981*  
@@ -101,6 +104,7 @@ Cat's Eye *1983, 1984*
 Chainsaw Man *2021*  
 Chargeman Ken! *1974*  
 Charlotte *2015*  
+Chikyugai Shonen Shojo (Extra-Terrestrial Boys & Girls) *2022*  
 Chito Kusushi no Suro Raifu: Isekai ni Tsukuro Doraggusutoa (Drugstore in Another World: The Slow Life of a Cheat Pharmacist) *2021*  
 Chio-chan no Tsuugakuro (Chio's School Road) *2018*  
 Chitose get You!! *2012*  
@@ -127,7 +131,7 @@ Cutey Honey *1973, 1994, 1997, 2004*
 D.Gray-man *2006, 2016*  
 Deaimon *2022*  
 Dagashi Kashi *2016, 2018*  
-Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?) *2015, 2019*  
+Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?) *2015, 2019, 2022*  
 Danshi Koukousei no Nichijou (Daily Lives of High School Boys) *2012*  
 Dantalian no Shoka (The Mystic Archives of Dantalian) *2011*  
 Darling in the FranXX *2018*  
@@ -177,11 +181,12 @@ Fantastic Children *2004*
 Flip Flappers *2016*  
 Flying Witch *2016*  
 Free! *2013, 2014, 2018*  
-Fruits Basket *2001, 2019*  
+Fruits Basket *2001, 2019, 2022*  
 Fukigen na Mononokean (The Morose Mononokean) *2016*  
 Full Moon o Sagashite *2002*  
 Fumetsu no Anata e (To Your Eternity) *2021*  
 Fune wo Amu (The Great Passage) *2016*  
+Fushigi no Kuni no Alice *1983*  
 Fushigi no Umi no Nadia (Nadia: The Secret of Blue Water) *1990*  
 Fushigi Yuugi (Mysterious Play) *1995*  
 
@@ -217,7 +222,7 @@ Golden Kamuy *2018*
 Golgo 13 *1998, 2008*  
 Gosenzo-sama Banbanzai! *1989*  
 Gosick *2011*  
-Gotoubun no Hanayome (The Quintessential Quintuplets) *2019, 2021*  
+Gotoubun no Hanayome (The Quintessential Quintuplets) *2019, 2021, 2022*  
 Grand Blue (Grand Blue Dreaming) *2018*  
 Great Pretender *2020*  
 Great Teacher Onizuka *1999*  
@@ -231,6 +236,7 @@ Haibane Renmei *2002*
 Haikyuu!! *2014*  
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!) *2009, 2010, 2012, 2013*  
 Hajime no Ippo *2000, 2003, 2009, 2013*  
+Hakozume: Koban Joshi no Gyakusho (Police in a Pod) *2022*  
 Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods) *2018*  
 Hana no Mahotsukai Mari Beru (Flower Witch Mary Bell) *1992*  
 Haha o Tazunete Sanzen Ri (3000 Leagues in Search of Mother) *1976, 1980, 1999*  
@@ -276,7 +282,7 @@ Hitori Bocchi no Marumaru Seikatsu *2019*
 Hitsugi no Chaika (Chaika - The Coffin Princess) *2014*  
 Hokago Saikoro Club (After School Dice Club) *2019*  
 Hono no Tokyuji Dodge Danpei (Fighting Dodgeball Boy Dodge Danpei) *1991*  
-Honzuki no Gekokujo (Ascendance of a Bookworm) *2019*  
+Honzuki no Gekokujo (Ascendance of a Bookworm) *2019, 2022*  
 Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021*  
 Hosekisho Richard-shi no Nazo Kantei (The Case Files of Jeweler Richard) *2018*  
 Hotarubi no Mori e *2011*  
@@ -311,11 +317,11 @@ Isekai Shokudou (Restaurant to Another World) *2017*
 Isekai wa Smartphone to Tomo ni *2017*  
 Isshukan Friends (One Week Friends) *2014*  
 Isu (The Chair) *1964*  
-Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.) *2020*  
+Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.) *2020, 2022*  
 Ixion Saga DT *2012*
 
 Jaku Chara Tomozaki-kun (Bottom-tier Character Tomozaki) *2021*  
-Jashin-chan Dropkick (Dropkick On My Devil!!) *2018, 2020*  
+Jashin-chan Dropkick (Dropkick On My Devil!!) *2018, 2020, 2022*  
 Jibaku Shonen Hanako-kun (Toilet-Bound Hanako-kun) *2020*  
 Jinrui wa Suitai Shimashita (Humanity Has Declined) *2012*  
 Jitsu wa Watashi wa (My Monster Secret | Actually, I Am...) *2015*  
@@ -327,9 +333,10 @@ Junketsu no Maria (Maria the Virgin Witch) *2015*
 
 K-On! *2009, 2011*  
 Kacho-Oji (Black Heaven) *1999*  
+Kage no Jitsuryokusha ni Naritakute! (The Eminence in Shadow) *2022*  
 Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
 Kageki Shoujo *2021*  
-Kaguya-sama: Love is War *2019, 2002*  
+Kaguya-sama: Love is War *2019, 2020, 2022*  
 Kaibyoi Ramune (Dr. Ramune: Mysterious Disease Specialist) *2021*  
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
 Kakegurui *2017, 2019*  
@@ -346,10 +353,10 @@ Kamisama ni Natta Hi (The Day I Became a God) *2020*
 Kamisama no Memochou (Heaven's Memo Pad) *2011*  
 Kamizawa Wanda *2016*  
 Kannagi (Kannagi: Crazy Shrine Maidens) *2008*  
-Kanojo Okarishimasu (Rent-a-Girlfriend) *2020*  
+Kanojo Okarishimasu (Rent-a-Girlfriend) *2020, 2022*  
 Kanon *2006*  
 Kara no Kyokai (The Garden of Sinners) *2007, 2009, 2011, 2013*  
-Karakai Jozu no Takagi-san (Teasing Master Takagi-san) *2018*  
+Karakai Jozu no Takagi-san (Teasing Master Takagi-san) *2018, 2022*  
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances) *1998*  
 Karigurashi no Arrietty (Arrietty) *2010*  
 Karin (Chibi Vampire) *2005*  
@@ -389,6 +396,7 @@ Koe no Katachi (A Silent Voice) *2016*
 Koi to Senkyo to Chocolate (Love, Election and Chocolate) *2012*  
 Koi to Uso (Love and Lies) *2017*  
 Koi wa Ameagari no You ni (Afer the Rain) *2018*  
+Koi wa Sekai Seifuku no Ato de (Love After World Domination) *2022*  
 Koikimo: Koi to Yobu ni wa Kimochi Warui (It's Disgusting to Call This Love) *2021*  
 Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn) *2015, 2016*  
 Kokuriko-Zaka Kara (From Up On Poppy Hill) *2011*  
@@ -399,7 +407,8 @@ Kono Naka ni Hitori, Imouto ga Iru! (Nakaimo – My Sister Is Among Them!) *2012
 Kono Oto Tomare! Sounds of Life (Stop This Sound) *2019*  
 Kono Subarashii Sekai ni Shukufuku wo! (KonoSuba: God's Blessing on this Wonderful World!) *2016, 2019*  
 Konohana Kitan *2017*  
-Kore wa Zombie Desu ka? *2011, 2012*  
+Kore wa Zombie Desu ka? (Is This a Zombie?) *2011, 2012*  
+Koroshi Ai (Love of Kill) *2022*  
 Kotetsujo no Kabaneri (Kabaneri of the Iron Fortress) *2016, 2019*  
 Kotonoha no Niwa (The Garden of Words) *2013*  
 Kotoura-san *2013*  
@@ -429,7 +438,7 @@ Lovely★Complex (Love★Com) *2007*
 Lupin III *1971, 1977, 1984*  
 
 Mach GoGoGo (Speed Racer) *1967*  
-Machikado Mazoku (The Demon Girl Next Door) *2019*  
+Machikado Mazoku (The Demon Girl Next Door) *2019, 2022*  
 Madan no O to Vanadis (Lord Marksman and Vanadis) *2014*  
 Magi (Magi: The Labyrinth of Magic) *2012, 2013*  
 Magical Taluluto *1990, 1991*  
@@ -525,6 +534,7 @@ One Punch Man *2015*
 Oniisama e... (Dear Brother) *1991*  
 Orange *2016*  
 Ore Monogatari!! (My Love Story!!) *2015*  
+Orient *2022*  
 Oritsu Uchugun: Oneamisu no Tsubasa (Royal Space Force: The Wings of Honnêamise) *1987*  
 Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) *2017*  
 Osama Ranking (Ranking of Kings) *2021*  
@@ -555,6 +565,7 @@ Radiant *2018*
 Rave Master *2001*  
 Ray *2006*  
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
+Riadeiru no Daichi nite (In the Land of Leadale) *2022*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
 Rokuhoudou Yotsuiro Biyori *2018*  
@@ -615,6 +626,7 @@ Senjushi (The Thousand Noble Musketeers) *2018*
 Senkuu Ishigami (Dr. Stone) *2019, 2021*  
 Senryuu Shoujo *2019*  
 Servamp *2016*  
+Sento Meka Zabunguru (Xabungle | Combat Mecha Xabungle) *1982*  
 Sentoin, Hakenshimasu! (Combatants Will Be Dispatched!) *2021*  
 Seto no Hanayome (My Bride is a Mermaid) *2007*  
 Sewayaki Kitsune no Senko-san (The Helpful Fox Senko-san) *2019*  
@@ -641,6 +653,7 @@ Shuffle! *2005, 2007*
 Shumatsu no Izetta (Izetta: The Last Witch) *2016*  
 SKET Dance *2011*  
 Slam Dunk *1993, 1994, 1995*  
+Slow Loop *2022*  
 Slow Start *2018*  
 Soko Kihei Botomuzu (Armored Trooper Votoms) *1983, 1985, 1986, 1988, 1994, 2010, 2011*  
 SoltyRei *2005*  
@@ -651,6 +664,7 @@ Sora to Umi (Between the Sky and Sea) *2018*
 Sora yori mo Tooi Basho (A Place Further Than the Universe) *2018*  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful) *2014*  
 Space☆Dandy *2014*  
+Spriggan *1998, 2022*  
 Starzinger (Sci-Fi West Saga Starzinger) *1978, 1979*  
 Stella Jo-Gakuin C3-Bu (Stella Women's Academy, High School Division Class C3) *2013*  
 Stella no Mahou (Magic of Stella) *2016*  
@@ -660,6 +674,7 @@ Strange Dawn *2000*
 Strike the Blood *2013, 2015, 2016, 2018, 2020*  
 Subete ga F ni Naru (The Perfect Insider) *2015*  
 Sugar Sugar Rune *2005*  
+Summer Time Rendering *2022*  
 Super Cub *2021*  
 Sutamyu (Star-Myu) *2016*  
 Suzuka *2005*  
@@ -699,6 +714,7 @@ Tokyo Godfathers *2003*
 Tokyo Magnitude 8.0 *2009*  
 Tokyo Ravens *2013*  
 Tokyo Revengers *2021*  
+Tokyo Nijuyon-ku (Tokyo 24th Ward) *2022*  
 Tonari no Kyuuketsuki-san (Ms. Vampire Who Lives in My Neighborhood) *2018*  
 Tonari no Totoro (My Neighbor Totoro) *1988*  
 Tonari no Yamada-kun *1999*  
@@ -731,7 +747,8 @@ UQ Holder! *2017*
 Ura Sekai Pikunikku (Otherside Picnic) *2021*  
 Urusei Yatsura *1981*  
 Ushio to Tora *1992, 2015*  
-Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020*  
+Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020, 2022*  
+Uzumaki *2022*  
 
 Valkyria Chronicles *2008*  
 Vampire Knight *2008*  
@@ -767,7 +784,7 @@ Yokoyama Mitsuteru Sangokushi *1991*
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
 Yoroiden Samurai Troopers *1988, 1989, 1991*  
 Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*  
-Youjo Senki (Saga of Tanya the Evil) *2017, 2019*  
+Youjo Senki (Saga of Tanya the Evil) *2017, 2019, 2022*  
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life) *2017*  
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite) *2017*  
 Yowamushi Pedal *2013, 2014, 2015, 2016, 2017, 2018*  
@@ -776,7 +793,7 @@ Yumeiro Patissiere *2009, 2010*
 Yumekui Merry (Dream Eater Merry) *2011*  
 Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs) *2018*  
 Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero) *2014, 2017, 2021*  
-Yuru Camp△ (Laid-Back Camp) *2018, 2020*  
+Yuru Camp△ (Laid-Back Camp) *2018, 2020, 2022*  
 YuruYuri *2011, 2012, 2014, 2015, 2019*  
 
 Zan Sayonara Zetsubou Sensei *2007, 2008, 2009*  
