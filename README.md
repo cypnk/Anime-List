@@ -376,6 +376,7 @@ Kenran Butosai Za Mazu Deibureiku (Mars Daybreak) *2004*
 Keppeki Danshi! Aoyama-kun (Clean Freak! Aoyama kun) *2017*  
 Kidou Senkan Nadeshiko (Martian Successor Nadesico) *1996*  
 Kikaider *1972*  
+Kiko Soseiki Mospeada (Genesis Climber Mospeada) *1983, 1985*  
 Kikokai Garian (Panzer World Galient) *1984, 1986*  
 Kimagure Orange Road *1985, 1987, 1988, 1989, 1996*  
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba) *2019*  
@@ -441,7 +442,7 @@ Mach GoGoGo (Speed Racer) *1967*
 Machikado Mazoku (The Demon Girl Next Door) *2019, 2022*  
 Madan no O to Vanadis (Lord Marksman and Vanadis) *2014*  
 Magi (Magi: The Labyrinth of Magic) *2012, 2013*  
-Magical Taluluto *1990, 1991*  
+Magical Taluluto (Magical Taruruto) *1990, 1991, 1992*  
 Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
 Maho no Tenshi Kurīmī Mami (Creamy Mami, the Magic Angel) *1983*  
 Maho Senshi Riui (Rune Soldier) *2001*  
@@ -488,6 +489,7 @@ Mobile Police Patlabor (Patlabor) *1988, 1989, 1990, 1993, 2002, 2014, 2016*
 Mokke *2007*  
 Momo e no Tegami (A Letter to Momo) *2011*  
 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (Problem Children Are Coming From Another World, Aren't They?) *2013*  
+Moretsu Ataro (Furious Ataro) *1969, 1990*  
 Monster Musume no Iru Nichijou *2015, 2016*  
 Monster Musume no Oisha-san (Monster Girl Doctor) *2020*  
 Mouretsu Pirates (Bodacious Space Pirates) *2012, 2014*  
@@ -733,6 +735,7 @@ Tsuki to Laika to Nosferatu (Irina: The Vampire Cosmonaut) *2021*
 Tsurikichi Sanpei (Fisherman Sanpei) *1980*  
 Tsukuyomi: Moon Phase *2004*  
 Tsurezure Children *2017*  
+Tsurupika Hagemaru-kun (Hagemaru) *1988*  
 
 Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!) *2018*  
 Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord) *2019*  
