@@ -82,6 +82,7 @@ Black Bullet *2014*
 Black Cat *2005*  
 Black Clover *2017*  
 Black Jack *1993, 1996, 2000, 2004, 2005, 2006*  
+Black Magic *1987*  
 Bobobo-bo Bo-bobo *2003*  
 Boogiepop Phantom *2000*  
 Boku no Hero Academia *2016*  
@@ -175,6 +176,7 @@ Esper Mami (Mami the Psychic) *1987, 1988*
 Etotama *2015, 2021*  
 Excel Saga *1999*  
 
+F (Formula-1) *1988*  
 Fairy Tail *2009*  
 Faibu Suta Monogatari (The Five Star Stories) *1989*  
 Fantastic Children *2004*  
@@ -252,6 +254,7 @@ Hataage! Kemono Michi (Kemono Michi: Rise Up) *2019*
 Hataraki Man *2006*  
 Hataraku Mao-sama (The Devil is a Part-Timer!) *2013*  
 Hataraku Saibou (Cells at Work) *2018, 2020*  
+Hiatari Ryoko (Sunny Ryoko | Ryoko, A New Day) *1987*  
 Haunted Junction *1997*  
 Hayate no Gotoku! *2007, 2009, 2012, 2013, 2014*  
 Heavy Metal L-Gaim *1984, 1986*  
@@ -486,6 +489,7 @@ Mitsuboshi Colors *2018*
 Miyuki *1983*  
 Mob Psycho 100 *2016, 2018, 2019*  
 Mobile Police Patlabor (Patlabor) *1988, 1989, 1990, 1993, 2002, 2014, 2016*  
+Moeru! Onii-san (The Burning Wild Man) *1988, 1989*  
 Mokke *2007*  
 Momo e no Tegami (A Letter to Momo) *2011*  
 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo? (Problem Children Are Coming From Another World, Aren't They?) *2013*  
