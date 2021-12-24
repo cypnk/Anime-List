@@ -29,6 +29,7 @@ Alpen Rose *1985*
 Amaama to Inazuma (Sweetness & Lightning) *2016*  
 Amanchu! *2016*  
 Angel Heart *2005*  
+Anmitsu Hime (Sugar Princess) *1986*  
 Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai (Anohana: The Flower We Saw That Day) *2011, 2013*  
 Ano Natsu de Matteru (Waiting in the Summer) *2012, 2014*  
 Ansatsu Kyoushitsu (Assassination Classroom) *2015*  
@@ -196,6 +197,7 @@ Gaisutazu Furakushonsu obu za Asu (Geisters) *2001*
 Gakuen Babysitters *2018*  
 Gall Force *1986*  
 Ganbare Genki *1980*  
+Ganbarist! Shun *1996*  
 Garasu no Kamen (Glass Mask) *1984, 1998, 2005*  
 Garasu no Kantai (Glass Fleet) *2006*  
 Gate *2015, 2016*  
@@ -231,6 +233,7 @@ Great Teacher Onizuka *1999*
 Grendizer (UFO Robot Grendizer) *1975, 1976*  
 Gugure! Kokkuri-san (Repeat! Kokkuri-san) *2014*  
 Gunsmith Cats *1995*  
+Guranda Musashi *1997, 1998*  
 
 Hachimitsu to Kuroba (Honey and Clover) *2005, 2006*  
 Hachinantte Sore wa Nai Desho! (The 8th son? Are you kidding me?) *2020*  
@@ -332,6 +335,7 @@ Joshiraku *2012, 2013*
 Joshikousei no Mudazukai (Wasteful Days of High School Girls) *2019*  
 Joukamachi no Dandelion (Castle Town Dandelion) *2015*  
 Jungle wa Itsumo Hare nochi Guu (Haré+Guu) *2001*  
+Janguru no Oja Ta-chan (Jungle King Tar-chan) *1993*  
 Junketsu no Maria (Maria the Virgin Witch) *2015*  
 
 K-On! *2009, 2011*  
@@ -485,6 +489,7 @@ Mikakunin de Shinkokei (Engaged to the Unidentified) *2014*
 Mimi wo Sumaseba (Whisper of the Heart) *1995*  
 Minami-ke *2007, 2008, 2009, 2012, 2013*  
 Mirai Shounen Conan (Future Boy Conan) *1978, 1984, 1999*  
+Mister Ajikko *1987*  
 Mitsuboshi Colors *2018*  
 Miyuki *1983*  
 Mob Psycho 100 *2016, 2018, 2019*  
@@ -540,6 +545,7 @@ One Punch Man *2015*
 Oniisama e... (Dear Brother) *1991*  
 Orange *2016*  
 Ore Monogatari!! (My Love Story!!) *2015*  
+Ore wa Teppei (Teppei) *1977*  
 Orient *2022*  
 Oritsu Uchugun: Oneamisu no Tsubasa (Royal Space Force: The Wings of Honnêamise) *1987*  
 Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) *2017*  
@@ -714,6 +720,7 @@ Tiger & Bunny *2011, 2012, 2014, 2022*
 Tiger Mask *1969, 1970, 1981, 2013*  
 Time Bokan *1975*  
 Time Travel Tondekeman (Time Quest!) *1989*  
+Tobe! Isami (Soar High! Isami) *1995*  
 Tokimeki Tonight *1982*  
 Tokyo ESP *2014*  
 Tokyo Godfathers *2003*  
