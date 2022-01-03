@@ -636,6 +636,7 @@ Sekirei *2008, 2010*
 Sen to Chihiro no Kamikakushi (Spirited Away) *2001*  
 Senjushi (The Thousand Noble Musketeers) *2018*  
 Senkuu Ishigami (Dr. Stone) *2019, 2021*  
+Senpai ga Uzai Kohai no Hanashi (My Senpai Is Annoying) *2021*  
 Senryuu Shoujo *2019*  
 Servamp *2016*  
 Sento Meka Zabunguru (Xabungle | Combat Mecha Xabungle) *1982*  
@@ -759,7 +760,8 @@ UFO Princess Valkyrie (UFO Ultramaiden Valkyrie) *2002, 2006*
 Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
 UQ Holder! *2017*  
 Ura Sekai Pikunikku (Otherside Picnic) *2021*  
-Urusei Yatsura *1981*  
+Uramichi Onii-san (Life Lessons with Uramichi Oniisan) *2021*  
+Urusei Yatsura *1981, 2022*  
 Ushio to Tora *1992, 2015*  
 Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020, 2022*  
 Uzumaki *2022*  
