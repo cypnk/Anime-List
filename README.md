@@ -158,6 +158,7 @@ Dororo *1969, 2019*
 Doukyonin wa Hiza, Tokidoki, Atama no Ue. (My Roommate is a Cat) *2019*  
 Dr. Slump *1981, 1997*  
 Dragon Drive *2002*  
+Dragon, Ie o Kau (Dragon Goes House-Hunting) *2021*  
 Dragon Quest: The Adventure of Dai *1991, 2020*  
 Dragon's Heaven *1988*  
 Drifters *2016*  
@@ -206,7 +207,7 @@ GeGeGe no Kitaro *1968, 1971, 1985, 1996, 2007, 2008, 2018*
 Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun) *2014*  
 Genjitsushugi Yusha no Okoku Saikenki (How a Realist Hero Rebuilt the Kingdom) *2021*  
 Genmu Senki Leda (Leda: The Fantastic Adventure of Yohko) *1985*  
-Gensoumaden Saiyuuki (Saiyuki) *1999, 2000, 2001, 2003, 2004, 2007, 2011, 2017*  
+Gensoumaden Saiyuuki (Saiyuki) *1999, 2000, 2001, 2003, 2004, 2007, 2011, 2017, 2022*  
 GetBackers *2002*  
 Getter Robo *1974*  
 Ghost Sweeper Mikami *1993, 1994*  
@@ -577,7 +578,7 @@ Radiant *2018*
 Rave Master *2001*  
 Ray *2006*  
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
-Riadeiru no Daichi nite (In the Land of Leadale) *2022*  
+Riadeiru no Daichi nite | Leadale no Daichi nite (In the Land of Leadale) *2022*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
 Rokuhoudou Yotsuiro Biyori *2018*  
