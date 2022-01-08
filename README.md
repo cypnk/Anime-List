@@ -578,6 +578,7 @@ Radiant *2018*
 Rave Master *2001*  
 Ray *2006*  
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
+Re-Kan! *2015*  
 Riadeiru no Daichi nite | Leadale no Daichi nite (In the Land of Leadale) *2022*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
