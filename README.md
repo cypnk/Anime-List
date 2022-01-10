@@ -346,6 +346,7 @@ Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*
 Kageki Shoujo *2021*  
 Kaguya-sama: Love is War *2019, 2020, 2022*  
 Kaibyoi Ramune (Dr. Ramune: Mysterious Disease Specialist) *2021*  
+Kaijin Kaihatsubu no Kuroitsu-san (Miss Kuroitsu from the Monster Development Department) *2022*  
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
 Kakegurui *2017, 2019*  
 Kakko no Iinazuke (A Couple of Cuckoos) *2022*  
@@ -794,6 +795,7 @@ Yakitate!! Japan *2004*
 Yaku nara Magu Kappu mo (Let's Make a Mug Too) *2021*  
 Yakyu-kyo no Uta (Poetry of Baseball Enthusiasts) *1977, 1979*  
 Yamada-kun to 7-nin no Majo *2013, 2014, 2015*  
+Yami Shibai (Yamishibai: Japanese Ghost Stories) *2013, 2020*  
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
 Yesterday o Utatte (Sing "Yesterday" for Me) *2020*  
