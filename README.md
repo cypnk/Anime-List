@@ -9,6 +9,7 @@ Aharen-san wa Hakarenai *2022*
 Aka-chan to Boku (Baby & Me) *1996*  
 Aka-zukin Cha-Cha (Lil' Red Riding Hood Cha-Cha) *1994*  
 Akane-chan *1968*  
+Akebi-chan no Sailor Fuku (Akebi's Sailor Uniform) *2022*  
 Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*  
 Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
 Agatha Christie no Meitantei Poirot to Marple (Agatha Christie's Great Detectives Poirot and Marple) *2004*  
