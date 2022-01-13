@@ -87,6 +87,7 @@ Black Jack *1993, 1996, 2000, 2004, 2005, 2006*
 Black Magic *1987*  
 Bobobo-bo Bo-bobo *2003*  
 Boogiepop Phantom *2000*  
+Boku no Chikyu wo Mamotte (Please Save My Earth) *1993, 1994, 1995*  
 Boku no Hero Academia *2016*  
 Boku wa Tomodachi ga Sukunai (Haganai: I Don't Have Many Friends) *2011, 2013*  
 Bokura ga Ita (We Were There) *2006*  
