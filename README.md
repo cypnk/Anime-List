@@ -441,6 +441,7 @@ Kyouran Kazoku Nikki *2008*
 Kyousogiga *2011, 2012, 2013*  
 Kyuketsuki Sugu Shinu (The Vampire Dies in No Time) *2021*  
 
+Le Chevalier D'Eon *2006*  
 Level E *2011*  
 Little Witch Academia *2013, 2015, 2017*  
 Love Hina *2000, 2001, 2002*  
@@ -698,6 +699,7 @@ Sutamyu (Star-Myu) *2016*
 Suzuka *2005*  
 Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya) *2006, 2009*  
 
+Tada-kun wa Koi o Shinai (Tada Never Falls in Love) *2018*  
 Taiho Shichauzo (You're Under Arrest) *1994, 1996, 1999, 2001, 2002, 2007*  
 Taisho Otome Otogi Banashi *2021*  
 Taiyo no Ko Esuteban (Esteban, Child of the Sun | The Mysterious Cities of Gold) *1982*  
@@ -758,6 +760,7 @@ Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!) *2018*
 Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord) *2019*  
 Uchouten Kazoku (The Eccentric Family) *2013, 2017*  
 Uchu no Suteruvia (Stellvia of the Universe) *2003*  
+Uchu Senkan Tiramisu (Space Battleship Tiramisu) *2018*  
 Uchu Shonen Soran (Space Boy Soran) *1965*  
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199) *2012, 2014*  
 Udon no Kuni no Kiniro Kemari (Poco’s Udon World) *2016*  
