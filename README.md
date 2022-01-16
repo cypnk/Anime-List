@@ -369,6 +369,7 @@ Kanojo Okarishimasu (Rent-a-Girlfriend) *2020, 2022*
 Kanon *2006*  
 Kara no Kyokai (The Garden of Sinners) *2007, 2009, 2011, 2013*  
 Karakai Jozu no Takagi-san (Teasing Master Takagi-san) *2018, 2022*  
+Karakuri Circus *2018*  
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances) *1998*  
 Karigurashi no Arrietty (Arrietty) *2010*  
 Karin (Chibi Vampire) *2005*  
