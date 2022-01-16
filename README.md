@@ -44,6 +44,7 @@ Araiguma Rasukaru (Rascal the Raccoon) *1977*
 Arakawa Under the Bridge *2010*  
 Aria The Animation *2005*  
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019, 2022*  
+Arms (Project Arms) *2001*  
 Arte *2020*  
 Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*  
 Arusuran Senki (The Heroic Legend of Arslan) *1991*  
@@ -528,6 +529,7 @@ Nazo no Kanojo Ekkusu (Mysterious Girlfriend X) *2012*
 Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
 Nichijou *2011*  
 Nijuichi Emon (21 Emon) *1991, 1992*  
+Ninpu Kamui Gaiden *1969*  
 Nisekoi *2014, 2015*  
 Nekojiru-so (Cat Soup) *2001*  
 Negima! *2004, 2005, 2006, 2008, 2009, 2011*  
@@ -670,6 +672,7 @@ Show by Rock!! *2015, 2016, 2020, 2021*
 Showa Genroku Rakugo Shinju (Descending Stories) *2015, 2016*  
 Shuffle! *2005, 2007*  
 Shumatsu no Izetta (Izetta: The Last Witch) *2016*  
+Silent Möbius *1991, 1992, 1998*  
 SKET Dance *2011*  
 Slam Dunk *1993, 1994, 1995*  
 Slow Loop *2022*  
