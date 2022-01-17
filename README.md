@@ -170,6 +170,7 @@ Dumbbell Nan-Kilo Moteru? (How Heavy Are the Dumbbells You Lift?) *2019*
 Durarara!! *2010, 2015*  
 
 Ef: A Tale of Memories *2007*  
+Eiga Daisuki Pompo-san (Pompo: The Cinephile ) *2021*  
 Eitoman (8th Man) *1963, 1993*  
 Eizoken ni wa Te o Dasu na! (Keep Your Hands Off Eizouken!) *2020*  
 Emiya-sanchi no Kyo no Gohan (Today's Menu for the Emiya Family) *2018*  
@@ -261,16 +262,16 @@ Hataage! Kemono Michi (Kemono Michi: Rise Up) *2019*
 Hataraki Man *2006*  
 Hataraku Mao-sama (The Devil is a Part-Timer!) *2013*  
 Hataraku Saibou (Cells at Work) *2018, 2020*  
-Hiatari Ryoko (Sunny Ryoko | Ryoko, A New Day) *1987*  
 Haunted Junction *1997*  
 Hayate no Gotoku! *2007, 2009, 2012, 2013, 2014*  
 Heavy Metal L-Gaim *1984, 1986*  
 Heavy Object *2015*  
+Heike Monogatari (The Heike Story) *2021*  
 Heion Sedai no Idaten-tachi (The Idaten Deities Know Only Peace) *2021*  
 Hello! Sandybell *1981*  
 Hensuki *2019*  
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
-Hiatari Ryoko! (Good Sunshine!) *1987, 1988*  
+Hiatari Ryoko! (Sunny Ryoko | Ryoko, A New Day | Good Sunshine!) *1987, 1988*  
 Hibike! Euphonium (Sound! Euphonium) *2015, 2016, 2017, 2018*  
 Hidamari Sketch *2007, 2008, 2010, 2011, 2012, 2013*  
 Hidan no Aria *2011, 2015*  
@@ -335,6 +336,7 @@ Jashin-chan Dropkick (Dropkick On My Devil!!) *2018, 2020, 2022*
 Jibaku Shonen Hanako-kun (Toilet-Bound Hanako-kun) *2020*  
 Jinrui wa Suitai Shimashita (Humanity Has Declined) *2012*  
 Jitsu wa Watashi wa (My Monster Secret | Actually, I Am...) *2015*  
+Josee to Tora to Sakanatachi (Josee, the Tiger and the Fish) *2021*  
 Joshiraku *2012, 2013*  
 Joshikousei no Mudazukai (Wasteful Days of High School Girls) *2019*  
 Joukamachi no Dandelion (Castle Town Dandelion) *2015*  
@@ -489,6 +491,7 @@ Mashiro no Oto (Those Snow White Notes) *2021*
 Mazinger Z *1972*  
 Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
 Metal Skin Panic MADOX-01 *1987*  
+Mewkledreamy *2020, 2021*  
 Michiko to Hatchin (Michiko & Hatchin) *2008*  
 Mieruko-chan *2021*   
 Miira no Kaikata (How to keep a mummy) *2018*  
@@ -681,6 +684,7 @@ Slow Start *2018*
 Soko Kihei Botomuzu (Armored Trooper Votoms) *1983, 1985, 1986, 1988, 1994, 2010, 2011*  
 SoltyRei *2005*  
 Somari to Mori no Kamisama (Somali and the Forest Spirit) *2020*  
+Sonny Boy *2021*  
 Sora no Manimani *2009*  
 Sora no Woto (Sound of the Sky) *2010*  
 Sora to Umi (Between the Sky and Sea) *2018*  
