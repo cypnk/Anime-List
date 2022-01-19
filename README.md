@@ -173,6 +173,7 @@ Ef: A Tale of Memories *2007*
 Eiga Daisuki Pompo-san (Pompo: The Cinephile ) *2021*  
 Eitoman (8th Man) *1963, 1993*  
 Eizoken ni wa Te o Dasu na! (Keep Your Hands Off Eizouken!) *2020*  
+Elemental Gelade *2005*  
 Emiya-sanchi no Kyo no Gohan (Today's Menu for the Emiya Family) *2018*  
 Endro~! *2019*  
 Enen no Shouboutai (Fire Force) *2019*  
