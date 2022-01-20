@@ -353,6 +353,7 @@ Kageki Shoujo *2021*
 Kaguya-sama: Love is War *2019, 2020, 2022*  
 Kaibyoi Ramune (Dr. Ramune: Mysterious Disease Specialist) *2021*  
 Kaijin Kaihatsubu no Kuroitsu-san (Miss Kuroitsu from the Monster Development Department) *2022*  
+Kaiketsu Jouki Tanteidan (Steam Detectives) *1998*  
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
 Kakegurui *2017, 2019*  
 Kakko no Iinazuke (A Couple of Cuckoos) *2022*  
@@ -398,6 +399,7 @@ Kimagure Orange Road *1985, 1987, 1988, 1989, 1996*
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba) *2019*  
 Kimi ni Todoke *2009*  
 Kimi to Boku *2011*  
+Kindaichi Shounen no Jikenbo (The Kindaichi Case Files) *1996, 1997, 2012, 2014, 2015*  
 Kingyo Chuiho! (Goldfish Warning!) *1991*  
 Kinnikuman *1983*  
 Kino no Tabi - the Beautiful World *2003*  
@@ -477,7 +479,7 @@ Majo no Tabitabi (Wandering Witch: The Journey of Elaina) *2020*
 Majo no Takkyuubin (Kiki's Delivery Service) *1989*  
 Majokko Megu-chan *1974*  
 Majokko Tickle *1978*  
-Majutsushi Ofen (Sorcerous Stabber Orphen) *1998, 1999, 2020, 2021*  
+Majutsushi Ofen | Majutsushi Orphen (Sorcerous Stabber Orphen) *1998, 1999, 2020, 2021*  
 Malice@Doll *2001*  
 Manga Sarutobi Sasuke *1979*  
 Manyuu Hikenchou *2011*  
