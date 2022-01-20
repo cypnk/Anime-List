@@ -274,6 +274,7 @@ Hensuki *2019*
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
 Hiatari Ryoko! (Sunny Ryoko | Ryoko, A New Day | Good Sunshine!) *1987, 1988*  
 Hibike! Euphonium (Sound! Euphonium) *2015, 2016, 2017, 2018*  
+Hidamari no Ki (Tree in the Sun) *2000*  
 Hidamari Sketch *2007, 2008, 2010, 2011, 2012, 2013*  
 Hidan no Aria *2011, 2015*  
 Higashi no Eden (Eden of the East) *2009, 2010*  
