@@ -125,6 +125,7 @@ City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*
 Classroom Crisis *2015*  
 Cleopatra DC *1989*  
 Clockwork Planet *2017*  
+Colorful *2010*  
 Comic Girls *2018*  
 Concrete Revolutio *2015*  
 Cop Craft: Dragnet Mirage Reloaded *2019*  
