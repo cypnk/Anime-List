@@ -808,6 +808,8 @@ Wonder Egg Priority *2021*
 World Trigger *2014*  
 Wotaku ni Koi wa Muzukashii (Wotakoi: Love Is Hard for Otaku) *2018, 2019*  
 
+X (X/1999) *1996, 2001*  
+
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. (My Teen Romantic Comedy SNAFU) *2013, 2015, 2020*  
 Yakitate!! Japan *2004*  
 Yaku nara Magu Kappu mo (Let's Make a Mug Too) *2021*  
