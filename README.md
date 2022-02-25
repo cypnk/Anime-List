@@ -204,6 +204,7 @@ Fushigi Yuugi (Mysterious Play) *1995*
 Gaisutazu Furakushonsu obu za Asu (Geisters) *2001*  
 Gakuen Babysitters *2018*  
 Gall Force *1986*  
+Gallery Fake *2005*  
 Ganbare Genki *1980*  
 Ganbarist! Shun *1996*  
 Garasu no Kamen (Glass Mask) *1984, 1998, 2005*  
@@ -254,6 +255,7 @@ Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods) *2018*
 Hana no Mahotsukai Mari Beru (Flower Witch Mary Bell) *1992*  
 Haha o Tazunete Sanzen Ri (3000 Leagues in Search of Mother) *1976, 1980, 1999*  
 Hana Yori Dango (Boys Over Flowers) *1996*  
+Hanada Shonen Shi (The Story of Young Hanada) *2002*  
 Hanasaku Iroha *2011, 2013*  
 Hanayamata *2014*  
 Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon) *2006*  
@@ -845,4 +847,5 @@ Zan Sayonara Zetsubou Sensei *2007, 2008, 2009*
 Zero no Tsukaima *2006, 2007, 2008, 2012*  
 Zetsuen no Tenpesuto (Blast of Tempest) *2012*  
 Zettai Karen Children (Psychic Squad) *2008*  
+Zettai Shonen (Absolute Boy) *2005*  
 
