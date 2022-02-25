@@ -42,6 +42,7 @@ Aozora Shojotai (801 T.T.S. Airbats) *1994*
 Appleseed *1988*  
 Araiguma Rasukaru (Rascal the Raccoon) *1977*  
 Arakawa Under the Bridge *2010*  
+Area 88 *1985, 2004*  
 Aria The Animation *2005*  
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019, 2022*  
 Arms (Project Arms) *2001*  
@@ -453,6 +454,7 @@ Kyuketsuki Sugu Shinu (The Vampire Dies in No Time) *2021*
 Le Chevalier D'Eon *2006*  
 Level E *2011*  
 Little Witch Academia *2013, 2015, 2017*  
+Lost Universe *1998*  
 Love Hina *2000, 2001, 2002*  
 Love Lab *2013*  
 Love Live! *2013, 2016, 2020*  
@@ -490,6 +492,7 @@ Maou-sama, Retry! *2019*
 Maoyuu Maou Yuusha (Maoyu) *2013*  
 Maojo de Oyasumi (Sleepy Princess in the Demon Castle) *2020*  
 Maria Holic *2009, 2011*  
+Marmalade Boy *1994, 1995*  
 Masamune-kun no Revenge *2017*  
 Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
 Mashiro no Oto (Those Snow White Notes) *2021*  
@@ -624,6 +627,7 @@ Sakurasou no Pet na Kanojo (The Pet Girl of Sakurasou) *2012*
 Sakamoto desu ga? (Haven't You Heard? I'm Sakamoto) *2016*  
 Salaryman Kintaro *2001*  
 Samurai Champloo *2004*  
+Samurai Deeper Kyo *2002*  
 Samurai Flamenco *2013*  
 Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion) *2016*  
 Sarai-ya Goyo (House of Five Leaves) *2010*  
@@ -803,6 +807,7 @@ Wata no Kunihoshi (Star of Cottonland) *1984*
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!) *2013*  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!) *2019*  
 Weruberu no Monogatari (Sisters of Wellber) *2007*  
+Wild 7 *1994, 2002*  
 Witchcraft Works *2014, 2015*  
 Wonder Egg Priority *2021*  
 World Trigger *2014*  
