@@ -103,6 +103,7 @@ Buso Renkin (Arms Alchemist) *2006*
 Busou Shoujo Machiavellianism *2017*  
 Bounen no Xamdou (Xam'd: Lost Memories) *2008*  
 
+C (C for Control) *2011*  
 Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou *2012*  
 Captain Tsubasa *1988*  
 Carole & Tuesday *2019*  
