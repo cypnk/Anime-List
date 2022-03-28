@@ -743,7 +743,8 @@ Tenshi no Tamago (Angel's Egg) *1985*
 Tentomushi no Uta (The Song of Tentomushi) *1974*  
 Terra e... (Toward the Terra) *1980, 2007*  
 Texhnolyze *2003*  
-The Kabocha Wine *1982, 1984*   
+The Kabocha Wine *1982, 1984*  
+Thermae Romae *2022*  
 Tiger & Bunny *2011, 2012, 2014, 2022*  
 Tiger Mask *1969, 1970, 1981, 2013*  
 Time Bokan *1975*  
