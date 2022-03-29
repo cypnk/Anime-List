@@ -241,6 +241,7 @@ Grand Blue (Grand Blue Dreaming) *2018*
 Great Pretender *2020*  
 Great Teacher Onizuka *1999*  
 Grendizer (UFO Robot Grendizer) *1975, 1976*  
+Grimm Douwa: Kin no Tori (The Golden Bird) *1987*  
 Gugure! Kokkuri-san (Repeat! Kokkuri-san) *2014*  
 Gunsmith Cats *1995*  
 Guranda Musashi *1997, 1998*  
@@ -277,6 +278,7 @@ Heion Sedai no Idaten-tachi (The Idaten Deities Know Only Peace) *2021*
 Hello! Sandybell *1981*  
 Hensuki *2019*  
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
+Hi-no-youjin (Combustible) *2012*  
 Hiatari Ryoko! (Sunny Ryoko | Ryoko, A New Day | Good Sunshine!) *1987, 1988*  
 Hibike! Euphonium (Sound! Euphonium) *2015, 2016, 2017, 2018*  
 Hidamari no Ki (Tree in the Sun) *2000*  
@@ -329,6 +331,7 @@ Inari, Konkon, Koi Iroha *2014*
 Infinite Dendrogram *2020*  
 Initial D *1998, 1999, 2001, 2004, 2012, 2014*  
 Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace) *2014*  
+Inu to Hasami wa Tsukaiyo (Dog & Scissors) *2013*  
 Iroduku Sekai no Ashita kara (IRODUKU: The World in Colors) *2018*  
 Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World) *2018*  
 Isekai Shokudou (Restaurant to Another World) *2017*  
@@ -430,6 +433,7 @@ Komori-san wa Kotowarenai! *2015*
 Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!) *2016*  
 Kono Naka ni Hitori, Imouto ga Iru! (Nakaimo – My Sister Is Among Them!) *2012*  
 Kono Oto Tomare! Sounds of Life (Stop This Sound) *2019*  
+Kono Sekai no Katasumi ni (In This Corner of the World) *2016*  
 Kono Subarashii Sekai ni Shukufuku wo! (KonoSuba: God's Blessing on this Wonderful World!) *2016, 2019*  
 Konohana Kitan *2017*  
 Kore wa Zombie Desu ka? (Is This a Zombie?) *2011, 2012*  
@@ -454,6 +458,7 @@ Kyouran Kazoku Nikki *2008*
 Kyousogiga *2011, 2012, 2013*  
 Kyuketsuki Sugu Shinu (The Vampire Dies in No Time) *2021*  
 
+Lady Georgie *1983*  
 Le Chevalier D'Eon *2006*  
 Level E *2011*  
 Little Witch Academia *2013, 2015, 2017*  
@@ -472,7 +477,7 @@ Magical Taluluto (Magical Taruruto) *1990, 1991, 1992*
 Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
 Maho no Tenshi Kurīmī Mami (Creamy Mami, the Magic Angel) *1983*  
 Maho Senshi Riui (Rune Soldier) *2001*  
-Mahojin Guru Guru (Magic Circle Guruguru) *1994*  
+Mahojin Guru Guru (Magic Circle Guruguru) *1994, 1996, 2000, 2017*  
 Mahoraba: Heartful days *2005*  
 Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica) *2011*  
 Mahou Shoujo Ore *2018*  
@@ -513,6 +518,7 @@ Mirai Shounen Conan (Future Boy Conan) *1978, 1984, 1999*
 Mister Ajikko *1987*  
 Mitsuboshi Colors *2018*  
 Miyuki *1983*  
+Mizuiro Jidai (Aqua Age) *1996*  
 Mob Psycho 100 *2016, 2018, 2019*  
 Mobile Police Patlabor (Patlabor) *1988, 1989, 1990, 1993, 2002, 2014, 2016*  
 Moeru! Onii-san (The Burning Wild Man) *1988, 1989*  
@@ -562,6 +568,7 @@ Nyan Koi! *2009*
 Ochamegami Monogatari Korokoro Poron (Little Pollon) *1982*  
 Odd Taxi *2021*  
 Ogon Bat (Golden Bat) *1967*  
+Ojiisan no Lamp *2011*  
 Okami to Koshinryo (Spice and Wolf) *2008, 2009*  
 One Punch Man *2015*  
 Oniisama e... (Dear Brother) *1991*  
@@ -590,6 +597,7 @@ Piano no Mori (Forest of Piano) *2007, 2018*
 Plunderer *2020*  
 Poco's Udon World *2016*  
 Popolocrois Monogatari *1998*  
+Poputepipikku (Pop Team Epic) *2018*  
 Princess Connect! Re:Dive *2020*  
 Princess Principal *2017, 2021*  
 Prizun Skuru (Prison School) *2015*  
@@ -807,6 +815,7 @@ Wagnaria! (Working!) *2010, 2011, 2015, 2016*
 Wakaba Girl *2015*  
 Wake Up, Girls! *2014, 2015, 2017*  
 Wangan Midnight *2007*  
+Wanpaku Oji no Orochi Taiji (The Little Prince and the Eight-Headed Dragon) *1963*  
 Wata no Kunihoshi (Star of Cottonland) *1984*  
 Watashi ga Motenai wa Dou Kangaetemo Omaera ga Warui! (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!) *2013*  
 Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! (Didn't I Say to Make My Abilities Average in the Next Life?!) *2019*  
@@ -828,6 +837,7 @@ Yami Shibai (Yamishibai: Japanese Ghost Stories) *2013, 2020*
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
 Yesterday o Utatte (Sing "Yesterday" for Me) *2020*  
+Vinasu Senki (Venus Wars) *1989*  
 Yokohama Kaidashi Kikou (Yokohama Shopping Log) *1998*  
 Yokoyama Mitsuteru Sangokushi *1991*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
