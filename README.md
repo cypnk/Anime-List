@@ -806,6 +806,7 @@ Uzumaki *2022*
 Valkyria Chronicles *2008*  
 Vampire Knight *2008*  
 Vampire Princess Miyu *1988, 1997*  
+Vinasu Senki (Venus Wars) *1989*  
 Vinland Saga *2019*  
 Virus (Virus Buster Serge) *1997*  
 Vivy: Fluorite Eye's Song *2021*  
@@ -837,7 +838,6 @@ Yami Shibai (Yamishibai: Japanese Ghost Stories) *2013, 2020*
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
 Yesterday o Utatte (Sing "Yesterday" for Me) *2020*  
-Vinasu Senki (Venus Wars) *1989*  
 Yokohama Kaidashi Kikou (Yokohama Shopping Log) *1998*  
 Yokoyama Mitsuteru Sangokushi *1991*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
