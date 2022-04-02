@@ -588,6 +588,7 @@ Overman King Gainer *2002*
 Pan De Peace *2016*  
 Panchi Rain (Punch Line) *2015*  
 Paradise Kiss *2005*  
+Paripi Komei (Ya Boy Kongming) *2022*  
 Patalliro! *1982, 2005*  
 Perrine Monogatari (The Story of Perrine) *1978, 1990*  
 Pet *2020*  
