@@ -590,6 +590,7 @@ Panchi Rain (Punch Line) *2015*
 Paradise Kiss *2005*  
 Paripi Komei (Ya Boy Kongming) *2022*  
 Patalliro! *1982, 2005*  
+Patapata Hikousen no Bouken (Secret of Cerulean Sand) *2002*  
 Perrine Monogatari (The Story of Perrine) *1978, 1990*  
 Pet *2020*  
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
