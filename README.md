@@ -208,6 +208,7 @@ Gall Force *1986*
 Gallery Fake *2005*  
 Ganbare Genki *1980*  
 Ganbarist! Shun *1996*  
+Gankutsuou (Gankutsuou: The Count of Monte Cristo) *2004*  
 Garasu no Kamen (Glass Mask) *1984, 1998, 2005*  
 Garasu no Kantai (Glass Fleet) *2006*  
 Gate *2015, 2016*  
