@@ -135,6 +135,7 @@ Coppelion *2013*
 Cowboy Bebop *1998*  
 Crusher Joe *1983, 1989*  
 Cutey Honey *1973, 1994, 1997, 2004*  
+Cyberpunk: Edgerunners *2022*  
 
 D.Gray-man *2006, 2016*  
 Deaimon *2022*  
@@ -335,6 +336,7 @@ Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonpla
 Inu to Hasami wa Tsukaiyo (Dog & Scissors) *2013*  
 Iroduku Sekai no Ashita kara (IRODUKU: The World in Colors) *2018*  
 Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World) *2018*  
+Isekai Ojisan (Uncle from Another World) *2022*  
 Isekai Shokudou (Restaurant to Another World) *2017*  
 Isekai wa Smartphone to Tomo ni *2017*  
 Isshukan Friends (One Week Friends) *2014*  
@@ -409,6 +411,7 @@ Kimagure Orange Road *1985, 1987, 1988, 1989, 1996*
 Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba) *2019*  
 Kimi ni Todoke *2009*  
 Kimi to Boku *2011*  
+Kimi wa Hokago Insomunia (Insomniacs After School) *2023*  
 Kindaichi Shounen no Jikenbo (The Kindaichi Case Files) *1996, 1997, 2012, 2014, 2015*  
 Kingyo Chuiho! (Goldfish Warning!) *1991*  
 Kinnikuman *1983*  
@@ -611,6 +614,7 @@ Rave Master *2001*
 Ray *2006*  
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
 Re-Kan! *2015*  
+Recca no Honoo (Flame of Recca) *1997*  
 Riadeiru no Daichi nite | Leadale no Daichi nite (In the Land of Leadale) *2022*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
@@ -796,6 +800,7 @@ Uchu Senkan Tiramisu (Space Battleship Tiramisu) *2018*
 Uchu Shonen Soran (Space Boy Soran) *1965*  
 Uchuu Senkan Yamato 2199 (Space Battleship Yamato 2199) *2012, 2014*  
 Udon no Kuni no Kiniro Kemari (Poco’s Udon World) *2016*  
+Ueki no Hosoku (The Law of Ueki) *2005*  
 UFO Princess Valkyrie (UFO Ultramaiden Valkyrie) *2002, 2006*  
 Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
 UQ Holder! *2017*  
@@ -841,6 +846,7 @@ Yami Shibai (Yamishibai: Japanese Ghost Stories) *2013, 2020*
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
 Yesterday o Utatte (Sing "Yesterday" for Me) *2020*  
+Yofukashi no Uta (Call of the Night) *2022*  
 Yokohama Kaidashi Kikou (Yokohama Shopping Log) *1998*  
 Yokoyama Mitsuteru Sangokushi *1991*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
