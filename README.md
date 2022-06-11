@@ -692,6 +692,7 @@ Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*
 Shinka no Mi (The Fruit of Evolution) *2021*  
 Shiroi Suna no Aquatope (The Aquatope on White Sand) *2021*  
 Shirobako *2014, 2015, 2020*  
+Shirokuma Cafe (Polar Bare Cafe) *2012*  
 Shobushi Densetsu Tetsuya (The Legend of the Gambler: Tetsuya) *2000*  
 Shokojo Sera (Princess Sarah) *1985*  
 Shokugeki no Souma (Food Wars!) *2015*  
