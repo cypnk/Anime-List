@@ -504,6 +504,7 @@ Maou-sama, Retry! *2019*
 Maoyuu Maou Yuusha (Maoyu) *2013*  
 Maojo de Oyasumi (Sleepy Princess in the Demon Castle) *2020*  
 Maria Holic *2009, 2011*  
+Maris the Chojo (The Supergal) *1986*  
 Marmalade Boy *1994, 1995*  
 Masamune-kun no Revenge *2017*  
 Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
