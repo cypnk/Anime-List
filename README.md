@@ -307,6 +307,7 @@ Hono no Tokyuji Dodge Danpei (Fighting Dodgeball Boy Dodge Danpei) *1991*
 Honzuki no Gekokujo (Ascendance of a Bookworm) *2019, 2022*  
 Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021*  
 Hosekisho Richard-shi no Nazo Kantei (The Case Files of Jeweler Richard) *2018*  
+Hoshi no Samidare (Lucifer and the Biscuit Hammer) *2022*  
 Hotarubi no Mori e *2011*  
 Hourou Musuko (Wandering Son) *2011*  
 Houseki no Kuni (Land of the Lustrous) *2017*  
@@ -448,6 +449,7 @@ Kotoura-san *2013*
 Kujira no Kora wa Sajo ni Utau (Children of the Whales) *2017*  
 Kuma Kuma Kuma Bear *2020*  
 Kumamiko: Girl meets Bear *2016*  
+Kumicho Musume to Sewagakari (The Yakuza's Guide to Babysitting) *2022*  
 Kumo desu ga, Nani ka? (So I'm a Spider, So What?) *2021*  
 Kurogane Communication *1998*  
 Kuroshitsuji (Black Butler) *2008, 2014*  
@@ -511,6 +513,7 @@ Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*
 Mashiro no Oto (Those Snow White Notes) *2021*  
 Mazinger Z *1972*  
 Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
+Meitantei Homuzu (Sherlock Hound) *1984*  
 Metal Skin Panic MADOX-01 *1987*  
 Mewkledreamy *2020, 2021*  
 Michiko to Hatchin (Michiko & Hatchin) *2008*  
@@ -686,6 +689,7 @@ Sewayaki Kitsune no Senko-san (The Helpful Fox Senko-san) *2019*
 Shadows House *2021*  
 Shakugan no Shana *2005, 2007, 2011*  
 Shaman King *2001, 2021*  
+Shangri-La Frontier *2023*  
 Shigatsu wa Kimi no Uso (Your Lie in April) *2014*  
 Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*   
 Shin Sekai Yori (From the New World) *2012*  
