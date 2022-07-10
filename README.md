@@ -513,6 +513,7 @@ Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*
 Mashiro no Oto (Those Snow White Notes) *2021*  
 Mazinger Z *1972*  
 Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
+Megazone 23 *1985, 1986*  
 Meitantei Homuzu (Sherlock Hound) *1984*  
 Metal Skin Panic MADOX-01 *1987*  
 Mewkledreamy *2020, 2021*  
@@ -550,6 +551,7 @@ Nagi no Asukara (A Lull in the Sea) *2013*
 Nakitai Watashi wa Neko o Kaburu (A Whisker Away) *2020*  
 Nami yo Kiitekure (Wave, Listen to Me!) *2020*  
 Nana *2006*  
+Nanako SOS *1983*  
 Nanatsu no Taizai (The Seven Deadly Sins) *2014*  
 Nanatsu no Umi no Tiko (Tico of the Seven Seas) *1994*  
 Natsu no Arashi! (Summer Storm!) *2009*  
@@ -611,6 +613,7 @@ Poputepipikku (Pop Team Epic) *2018*
 Princess Connect! Re:Dive *2020*  
 Princess Principal *2017, 2021*  
 Prizun Skuru (Prison School) *2015*  
+Puraresu Sanshiro (Plawres Sanshiro) *1983*  
 Purasutikku Memorizu (Plastic Memories) *2015*  
 
 Radiant *2018*  
@@ -655,6 +658,7 @@ Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion) *2016*
 Sarai-ya Goyo (House of Five Leaves) *2010*  
 Sarazanmai *2019*  
 Sasami-san@Ganbaranai *2013*  
+Sasuga no Sarutobi *1982*  
 Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
 Sasurai no Taiyo (Nozomi in the Sun) *1971*  
 Sayonara Watashi no Kurama (Farewell, My Dear Cramer) *2021*  
@@ -723,6 +727,7 @@ Sora no Woto (Sound of the Sky) *2010*
 Sora to Umi (Between the Sky and Sea) *2018*  
 Sora yori mo Tooi Basho (A Place Further Than the Universe) *2018*  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful) *2014*  
+Soreyuke! Uchu Senkan Yamamoto Yohko (Starship Girl Yamamoto Yohko) *1996, 1997, 1999*  
 Space☆Dandy *2014*  
 Spriggan *1998, 2022*  
 Starzinger (Sci-Fi West Saga Starzinger) *1978, 1979*  
