@@ -140,6 +140,7 @@ Cyberpunk: Edgerunners *2022*
 D.Gray-man *2006, 2016*  
 Deaimon *2022*  
 Dagashi Kashi *2016, 2018*  
+Daisetsusan no Yuusha Kibaou (King Fang) *1978*  
 Danjon ni Deai o Motomeru no wa Machigatteiru Daro ka (DanMachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?) *2015, 2019, 2022*  
 Danshi Koukousei no Nichijou (Daily Lives of High School Boys) *2012*  
 Dantalian no Shoka (The Mystic Archives of Dantalian) *2011*  
@@ -251,6 +252,7 @@ Guranda Musashi *1997, 1998*
 Hachimitsu to Kuroba (Honey and Clover) *2005, 2006*  
 Hachinantte Sore wa Nai Desho! (The 8th son? Are you kidding me?) *2020*  
 Haibane Renmei *2002*  
+Haikara-san ga Toru (Haikara-San: Here Comes Miss Modern | Smart-san) *1978, 2017, 2018*  
 Haikyuu!! *2014*  
 Haiyore! Nyaruko-san (Nyaruko: Crawling With Love!) *2009, 2010, 2012, 2013*  
 Hajime no Ippo *2000, 2003, 2009, 2013*  
@@ -326,7 +328,7 @@ Idol Densetsu Eriko *1989*
 Ie Naki Ko (Nobody's Boy: Remi) *1977, 1980*  
 Igano Kabamaru *1983*  
 Ike! Ina-chuu Takkyuubu (The Ping Pong Club) *1995*  
-Ikkyu-san *1975, 1978, 1980, 1981*  
+Ikkyu-san (Highschool Baseball Ninja) *1975, 1978, 1980, 1981*  
 Ikoku Meiro no Kurowaze (Croisée in a Foreign Labyrinth) *2011*  
 Ima, Soko ni Iru Boku (Now and Then, Here and There) *1999*  
 Imoto Sae Ireba Ii (A Sister's All You Need) *2017*  
@@ -340,6 +342,7 @@ Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food Fro
 Isekai Ojisan (Uncle from Another World) *2022*  
 Isekai Shokudou (Restaurant to Another World) *2017*  
 Isekai wa Smartphone to Tomo ni *2017*  
+Isekai Yakkyoku (Parallel World Pharmacy) *2022*  
 Isshukan Friends (One Week Friends) *2014*  
 Isu (The Chair) *1964*  
 Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.) *2020, 2022*  
@@ -768,6 +771,7 @@ Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime) *2018*
 Tenshi no Tamago (Angel's Egg) *1985*  
 Tentomushi no Uta (The Song of Tentomushi) *1974*  
 Terra e... (Toward the Terra) *1980, 2007*  
+Tetsujin 28-go (Gigantor) *1963, 1992, 2013*  
 Texhnolyze *2003*  
 The Kabocha Wine *1982, 1984*  
 Thermae Romae *2022*  
@@ -866,6 +870,7 @@ Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*
 Youjo Senki (Saga of Tanya the Evil) *2017, 2019, 2022*  
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life) *2017*  
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite) *2017*  
+Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei (A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized) *2022*  
 Yowamushi Pedal *2013, 2014, 2015, 2016, 2017, 2018*  
 Yukoku no Moriarty (Moriarty the Patriot) *2020, 2021*  
 Yumeiro Patissiere *2009, 2010*  
