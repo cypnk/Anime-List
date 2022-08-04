@@ -867,6 +867,7 @@ Yokoyama Mitsuteru Sangokushi *1991*
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
 Yoroiden Samurai Troopers *1988, 1989, 1991*  
 Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*  
+Yoru wa Neko to Issho (Nights with a Cat) *2022*  
 Youjo Senki (Saga of Tanya the Evil) *2017, 2019, 2022*  
 Youkai Apartment no Yuuga na Nichijou (Elegant Yokai Apartment Life) *2017*  
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite) *2017*  
