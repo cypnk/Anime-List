@@ -770,6 +770,7 @@ Tenki no Ko (Weathering with you) *2019*
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime) *2018*  
 Tenshi no Tamago (Angel's Egg) *1985*  
 Tentomushi no Uta (The Song of Tentomushi) *1974*  
+Teppen—!!! (Teppen—!!!!!!!!!!!!!!! Laughing 'til you Cry) *2022*  
 Terra e... (Toward the Terra) *1980, 2007*  
 Tetsujin 28-go (Gigantor) *1963, 1992, 2013*  
 Texhnolyze *2003*  
