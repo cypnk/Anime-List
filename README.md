@@ -558,6 +558,7 @@ Nanako SOS *1983*
 Nanatsu no Taizai (The Seven Deadly Sins) *2014*  
 Nanatsu no Umi no Tiko (Tico of the Seven Seas) *1994*  
 Natsu no Arashi! (Summer Storm!) *2009*  
+Natsuiro Kiseki *2012*  
 Natsume Yujin-Cho (Natsume's Book of Friends) *2008, 2013, 2017*  
 Nazo no Kanojo Ekkusu (Mysterious Girlfriend X) *2012*  
 Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
@@ -597,6 +598,7 @@ Osomatsu-kun *1966, 1988, 1989*
 Osomatsu-san (Mr. Osomatsu) *2015*  
 Ouran Koukou Host Club (Ouran High School Host Club) *2006*  
 Overman King Gainer *2002*  
+Ozuma *2012*  
 
 Pan De Peace *2016*  
 Panchi Rain (Punch Line) *2015*  
