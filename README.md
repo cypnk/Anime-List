@@ -65,6 +65,7 @@ Back Street Girls: Gokudolls *2018*
 Baka to Test to Shoukanjuu *2010, 2011*  
 Bakemonogatari *2009, 2013, 2014*  
 Bakuman *2010*  
+Bakuon! *2016*  
 Bakuretsu Hanta (Sorcerer Hunters) *1995*  
 Bakuso Kyodai Let's & Go!! *1996, 1997*  
 Ballroom e Youkoso (Welcome to the Ballroom) *2017*  
@@ -203,6 +204,7 @@ Fune wo Amu (The Great Passage) *2016*
 Fushigi no Kuni no Alice *1983*  
 Fushigi no Umi no Nadia (Nadia: The Secret of Blue Water) *1990*  
 Fushigi Yuugi (Mysterious Play) *1995*  
+Futari Daka (Twin Hawks) *1984*  
 
 Gaisutazu Furakushonsu obu za Asu (Geisters) *2001*  
 Gakuen Babysitters *2018*  
@@ -319,6 +321,7 @@ Hungry Heart: Wild Striker *2002*
 Hunter x Hunter *1998, 1999, 2002, 2011*  
 Hyakka Ryouran: Samurai Girls *2010, 2013, 2015*  
 Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives) *2020*  
+Hyouge Mono *2011*  
 Hyouka *2012*  
 Hyper Police *1997*  
 
@@ -481,6 +484,7 @@ Lupin III *1971, 1977, 1984*
 Mach GoGoGo (Speed Racer) *1967*  
 Machikado Mazoku (The Demon Girl Next Door) *2019, 2022*  
 Madan no O to Vanadis (Lord Marksman and Vanadis) *2014*  
+Madlax *2004*  
 Magi (Magi: The Labyrinth of Magic) *2012, 2013*  
 Magical Taluluto (Magical Taruruto) *1990, 1991, 1992*  
 Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
@@ -574,6 +578,7 @@ No Guns Life *2019*
 No-Rin *2014*  
 Nobunaga no Shinobi *2016, 2018*  
 Nodame Cantabile *2007, 2008, 2010*  
+Noir *2001*  
 Non Non Biyori *2013, 2015, 2018, 2021*  
 Nurarihyon no Mago (Nura: Rise of the Yokai Clan) *2010, 2011*  
 Nurse Angel Ririka SOS *1995*  
