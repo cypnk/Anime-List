@@ -694,13 +694,13 @@ Sen to Chihiro no Kamikakushi (Spirited Away) *2001*
 Senjushi (The Thousand Noble Musketeers) *2018*  
 Senkuu Ishigami (Dr. Stone) *2019, 2021*  
 Senpai ga Uzai Kohai no Hanashi (My Senpai Is Annoying) *2021*  
-Senryuu Shoujo *2019*  
+Senryuu Shoujo (Senryu Girl) *2019*  
 Servamp *2016*  
 Sento Meka Zabunguru (Xabungle | Combat Mecha Xabungle) *1982*  
 Sentoin, Hakenshimasu! (Combatants Will Be Dispatched!) *2021*  
 Seto no Hanayome (My Bride is a Mermaid) *2007*  
 Sewayaki Kitsune no Senko-san (The Helpful Fox Senko-san) *2019*  
-Shadows House *2021*  
+Shadows House *2021, 2022*  
 Shakugan no Shana *2005, 2007, 2011*  
 Shaman King *2001, 2021*  
 Shangri-La Frontier *2023*  
