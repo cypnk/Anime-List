@@ -17,6 +17,7 @@ Ai Shite Knight (Love Me, My Knight) *1983*
 Ai Yori Aoshi (Bluer Than Indigo) *2002*    
 Aidorumasuta Shinderera Garuzu (The Idolmaster Cinderella Girls) *2015, 2017*  
 Aishiteruze Baby (I Love You, Baby) *2004*  
+Aiura *2013*  
 Akagami no Shirayuki-hime (Snow White with the Red Hair) *2015*  
 Akage no An (Anne of Green Gables) *1979*  
 Akai Kodan Jirion (Red Photon Zillion) *1987, 1988*  
@@ -42,6 +43,7 @@ Aozora Shojotai (801 T.T.S. Airbats) *1994*
 Appleseed *1988*  
 Araiguma Rasukaru (Rascal the Raccoon) *1977*  
 Arakawa Under the Bridge *2010*  
+Arata Kangatari (Arata: The Legend) *2013*  
 Area 88 *1985, 2004*  
 Aria The Animation *2005*  
 Arifureta Shokugyou de Sekaisaikyou (Arifureta - From Commonplace to World's Strongest) *2019, 2022*  
@@ -452,6 +454,7 @@ Koroshi Ai (Love of Kill) *2022*
 Kotetsujo no Kabaneri (Kabaneri of the Iron Fortress) *2016, 2019*  
 Kotonoha no Niwa (The Garden of Words) *2013*  
 Kotoura-san *2013*  
+Koya no Kotobuki Hikotai (The Magnificent Kotobuki) *2019*  
 Kujira no Kora wa Sajo ni Utau (Children of the Whales) *2017*  
 Kuma Kuma Kuma Bear *2020*  
 Kumamiko: Girl meets Bear *2016*  
@@ -658,6 +661,7 @@ Sakigake!! Otokojuku *1988*
 Sakugan *2021*  
 Sakura Quest *2017*  
 Sakura Trick *2014*  
+Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru (Beautiful Bones: Sakurako's Investigation) *2015*  
 Sakurasou no Pet na Kanojo (The Pet Girl of Sakurasou) *2012*  
 Sakamoto desu ga? (Haven't You Heard? I'm Sakamoto) *2016*  
 Salaryman Kintaro *2001*  
@@ -731,6 +735,7 @@ Slow Start *2018*
 Soko Kihei Botomuzu (Armored Trooper Votoms) *1983, 1985, 1986, 1988, 1994, 2010, 2011*  
 SoltyRei *2005*  
 Somari to Mori no Kamisama (Somali and the Forest Spirit) *2020*  
+Sonan desuka? (Are We Lost?) *2019*  
 Sonny Boy *2021*  
 Sora no Manimani *2009*  
 Sora no Woto (Sound of the Sky) *2010*  
@@ -774,6 +779,7 @@ Tenchi Muyou! Ryououki *1992*
 Tenchi Universe *1995*  
 Tenisu no Ojisama (The Prince of Tennis) *2001*  
 Tenki no Ko (Weathering with you) *2019*  
+Tensai Oji no Akaji Kokka Saisei Jutsu - So da, Baikoku Shiyo (The Genius Prince's Guide to Raising a Nation Out of Debt) *2022*  
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime) *2018*  
 Tenshi no Tamago (Angel's Egg) *1985*  
 Tentomushi no Uta (The Song of Tentomushi) *1974*  
