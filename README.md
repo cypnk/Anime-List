@@ -681,7 +681,7 @@ Sazae-san *1969*
 School Rumble *2004, 2005, 2006*  
 Scrapped Princess *2003*  
 Seihou Bukyou Outlaw Star *1998*  
-Seijo no Maryoku wa Bannou Desu (The Saint's Magic Power Is Omnipotent) *2021*  
+Seijo no Maryoku wa Bannou Desu (The Saint's Magic Power Is Omnipotent) *2021, 2023*  
 Seiken no Blacksmith *2009*  
 Seirei no Moribito (Moribito: Guardian of the Spirit) *2007*  
 Seirei Tsukai no Blade Dance (Bladedance of Elementalers) *2014*  
@@ -743,6 +743,7 @@ Sora to Umi (Between the Sky and Sea) *2018*
 Sora yori mo Tooi Basho (A Place Further Than the Universe) *2018*  
 Soredemo Sekai wa Utsukushii (The World is Still Beautiful) *2014*  
 Soreyuke! Uchu Senkan Yamamoto Yohko (Starship Girl Yamamoto Yohko) *1996, 1997, 1999*  
+Soso no Frieren (Frieren: Beyond Journey's End) *2023*  
 Space☆Dandy *2014*  
 Spriggan *1998, 2022*  
 Starzinger (Sci-Fi West Saga Starzinger) *1978, 1979*  
