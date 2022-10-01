@@ -781,6 +781,7 @@ Tenchi Universe *1995*
 Tenisu no Ojisama (The Prince of Tennis) *2001*  
 Tenki no Ko (Weathering with you) *2019*  
 Tensai Oji no Akaji Kokka Saisei Jutsu - So da, Baikoku Shiyo (The Genius Prince's Guide to Raising a Nation Out of Debt) *2022*  
+Tensei Shitara Ken Deshita (Reincarnated as a Sword) *2022*  
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime) *2018*  
 Tenshi no Tamago (Angel's Egg) *1985*  
 Tentomushi no Uta (The Song of Tentomushi) *1974*  
@@ -824,6 +825,7 @@ Tsurupika Hagemaru-kun (Hagemaru) *1988*
 
 Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!) *2018*  
 Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord) *2019*  
+Uchi no Shishou wa Shippo ga Nai (My Master Has No Tail) *2022*  
 Uchouten Kazoku (The Eccentric Family) *2013, 2017*  
 Uchu no Suteruvia (Stellvia of the Universe) *2003*  
 Uchu Senkan Tiramisu (Space Battleship Tiramisu) *2018*  
