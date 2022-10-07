@@ -160,6 +160,7 @@ Detective Conan (Case Closed) *1996*
 Detroit Metal City *2008*  
 Demi-chan wa Kataritai (Interviews With Monster Girls) *2017*  
 Di Gi Charat *1999*  
+Do It Yourself!! *2022*  
 Dog Days *2011, 2012, 2015*  
 Dokaben *1976*  
 Domestic na Kanojo (Domestic Girlfriend) *2019*  
