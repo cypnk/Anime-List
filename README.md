@@ -91,6 +91,7 @@ Black Clover *2017*
 Black Jack *1993, 1996, 2000, 2004, 2005, 2006*  
 Black Magic *1987*  
 Bobobo-bo Bo-bobo *2003*  
+Bocchi the Rock! *2022*  
 Boogiepop Phantom *2000*  
 Boku no Chikyu wo Mamotte (Please Save My Earth) *1993, 1994, 1995*  
 Boku no Hero Academia *2016*  
@@ -133,6 +134,7 @@ Clockwork Planet *2017*
 Colorful *2010*  
 Comic Girls *2018*  
 Concrete Revolutio *2015*  
+Cool Doji Danshi (Play it Cool, Guys) *2022*  
 Cop Craft: Dragnet Mirage Reloaded *2019*  
 Coppelion *2013*  
 Cowboy Bebop *1998*  
@@ -320,6 +322,7 @@ Hourou Musuko (Wandering Son) *2011*
 Houseki no Kuni (Land of the Lustrous) *2017*  
 Hozuki no Reitetsu (Hozuki's Coolheadedness) *2014, 2015*  
 Howl no Ugoku Shiro (Howl's Moving Castle) *2004*  
+Human Bug Daigaku (Human Bug University | The Human Crazy University) *2022*  
 Hungry Heart: Wild Striker *2002*  
 Hunter x Hunter *1998, 1999, 2002, 2011*  
 Hyakka Ryouran: Samurai Girls *2010, 2013, 2015*  
