@@ -652,6 +652,7 @@ Roujin Z (Old Man Z) *1991*
 Rozen Maiden *2004, 2005, 2006, 2013*  
 
 Sabanto x Sabisu (Servant x Service) *2013*  
+Sabikui Bisco (Rust-Eater Bisco) *2022*  
 Saber Marionette J *1996*  
 Shacho, Battle no Jikan Desu! (Shachibato! President, It's Time for Battle!) *2020*  
 Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend) *2015*  
@@ -810,6 +811,7 @@ Tokyo Nijuyon-ku (Tokyo 24th Ward) *2022*
 Tonari no Kyuuketsuki-san (Ms. Vampire Who Lives in My Neighborhood) *2018*  
 Tonari no Totoro (My Neighbor Totoro) *1988*  
 Tonari no Yamada-kun *1999*  
+Tondemo Skill de Isekai Horo Meshi (Campfire Cooking in Another World with My Absurd Skill) *2023*  
 Tonikaku Kawaii (TONIKAWA: Over the Moon For You) *2020*  
 Toriko *2011*  
 Tosho Daimos *1978*  
