@@ -30,6 +30,7 @@ Allison to Lillia (Allison and Lillia) *2008*
 Alpen Rose *1985*  
 Amaama to Inazuma (Sweetness & Lightning) *2016*  
 Amanchu! *2016*  
+Angel Densetsu (Angel Legend) *1998*  
 Angel Heart *2005*  
 Anmitsu Hime (Sugar Princess) *1986*  
 Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai (Anohana: The Flower We Saw That Day) *2011, 2013*  
@@ -274,6 +275,7 @@ Hanayamata *2014*
 Hanbun no Tsuki ga Noboru Sora (Looking Up At The Half-Moon) *2006*  
 Handa-kun (related: Barakamon) *2014, 2016*  
 Happy Cooking Graffiti (Gourmet Girl Graffiti) *2015*  
+Hareluya II Boy (Hallelujah Boy) *1997*  
 Hariken Porima (Hurricane Polymar) *1974*  
 Harris no Kaze *1966, 1971*  
 Hataage! Kemono Michi (Kemono Michi: Rise Up) *2019*  
