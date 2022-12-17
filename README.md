@@ -753,6 +753,8 @@ Soreyuke! Uchu Senkan Yamamoto Yohko (Starship Girl Yamamoto Yohko) *1996, 1997,
 Soso no Frieren (Frieren: Beyond Journey's End) *2023*  
 Space☆Dandy *2014*  
 Spriggan *1998, 2022*  
+Spy Kyoshitsu (Spy Classroom) *2023*  
+Spy x Family *2022*  
 Starzinger (Sci-Fi West Saga Starzinger) *1978, 1979*  
 Stella Jo-Gakuin C3-Bu (Stella Women's Academy, High School Division Class C3) *2013*  
 Stella no Mahou (Magic of Stella) *2016*  
