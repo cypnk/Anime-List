@@ -612,6 +612,7 @@ Osomatsu-kun *1966, 1988, 1989*
 Osomatsu-san (Mr. Osomatsu) *2015*  
 Ouran Koukou Host Club (Ouran High School Host Club) *2006*  
 Overman King Gainer *2002*  
+Oyukiumi no Kaina (Kaina of the Great Snow Sea) *2023*  
 Ozuma *2012*  
 
 Pan De Peace *2016*  
