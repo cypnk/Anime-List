@@ -533,6 +533,7 @@ Megazone 23 *1985, 1986*
 Meitantei Homuzu (Sherlock Hound) *1984*  
 Metal Skin Panic MADOX-01 *1987*  
 Mewkledreamy *2020, 2021*  
+MF Ghost *2023*  
 Michiko to Hatchin (Michiko & Hatchin) *2008*  
 Mieruko-chan *2021*   
 Miira no Kaikata (How to keep a mummy) *2018*  
