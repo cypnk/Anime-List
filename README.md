@@ -82,6 +82,7 @@ Beck *2004*
 Beelzebub-jo no Okinimesu Mama (As Miss Beelzebub Likes) *2018*  
 Berserk *1997, 2016*  
 Berusaiyu no Bara (The Rose of Versailles) *1979*  
+Big X *1964*  
 Binbo Gami-Ga! (Good Luck Girl!) *2012*  
 Binbo Shimai Monogatari (Flat Broke Sisters) *2006*  
 Birthday Wonderland *2019*  
@@ -350,6 +351,7 @@ Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonpla
 Inu to Hasami wa Tsukaiyo (Dog & Scissors) *2013*  
 Iroduku Sekai no Ashita kara (IRODUKU: The World in Colors) *2018*  
 Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World) *2018*  
+Isekai Nonbiri Nouka (Farming Life in Another World) *2023*  
 Isekai Ojisan (Uncle from Another World) *2022*  
 Isekai Shokudou (Restaurant to Another World) *2017*  
 Isekai wa Smartphone to Tomo ni *2017*  
@@ -907,6 +909,7 @@ Yumeiro Patissiere *2009, 2010*
 Yumekui Merry (Dream Eater Merry) *2011*  
 Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs) *2018*  
 Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero) *2014, 2017, 2021*  
+Yuuyake Bancho (Sunset Bancho) *1968*  
 Yuru Camp△ (Laid-Back Camp) *2018, 2020, 2022*  
 YuruYuri *2011, 2012, 2014, 2015, 2019*  
 
