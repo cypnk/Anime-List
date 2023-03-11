@@ -110,6 +110,7 @@ Busou Shoujo Machiavellianism *2017*
 Bounen no Xamdou (Xam'd: Lost Memories) *2008*  
 
 C (C for Control) *2011*  
+California Crisis - Tsuigeki no Hibana (California Crisis: Gun Salvo) *1986*  
 Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou *2012*  
 Captain Tsubasa *1988*  
 Carole & Tuesday *2019*  
@@ -336,6 +337,7 @@ Hyper Police *1997*
 
 I My Me! Strawberry Eggs (Strawberry Eggs) *2001*  
 Ichiban Ushiro no Dai Mao (Demon King Daimao) *2010*  
+Idol Defense Force Hummingbird *1993*  
 Idol Densetsu Eriko *1989*  
 Ie Naki Ko (Nobody's Boy: Remi) *1977, 1980*  
 Igano Kabamaru *1983*  
@@ -525,6 +527,7 @@ Maoyuu Maou Yuusha (Maoyu) *2013*
 Maojo de Oyasumi (Sleepy Princess in the Demon Castle) *2020*  
 Maria Holic *2009, 2011*  
 Maris the Chojo (The Supergal) *1986*  
+Maroko *1990*  
 Marmalade Boy *1994, 1995*  
 Masamune-kun no Revenge *2017*  
 Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
@@ -559,6 +562,7 @@ Monster Musume no Oisha-san (Monster Girl Doctor) *2020*
 Mouretsu Pirates (Bodacious Space Pirates) *2012, 2014*  
 Moyashimon *2007, 2012*  
 Muggu Cuppu *2021*  
+Mujigen Hunter Fandora *1985*  
 Mujin Wakusei Savaivu (Uninhabited Planet Survive) *2003*  
 Musaigen no Phantom World (Myriad Colors Phantom World) *2016*  
 Musekinin Kanchō Tairo (The Irresponsible Captain Tylor) *1993*  
@@ -580,6 +584,7 @@ Nazo no Kanojo Ekkusu (Mysterious Girlfriend X) *2012*
 Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
 Nichijou *2011*  
 Nijuichi Emon (21 Emon) *1991, 1992*  
+Nineteen 19 *1990*  
 Ninpu Kamui Gaiden *1969*  
 Nisekoi *2014, 2015*  
 Nekojiru-so (Cat Soup) *2001*  
@@ -836,6 +841,7 @@ Tsurikichi Sanpei (Fisherman Sanpei) *1980*
 Tsukuyomi: Moon Phase *2004*  
 Tsurezure Children *2017*  
 Tsurupika Hagemaru-kun (Hagemaru) *1988*  
+Twilight Q *1987*  
 
 Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!) *2018*  
 Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord) *2019*  
