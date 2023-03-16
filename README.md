@@ -85,6 +85,7 @@ Berusaiyu no Bara (The Rose of Versailles) *1979*
 Big X *1964*  
 Binbo Gami-Ga! (Good Luck Girl!) *2012*  
 Binbo Shimai Monogatari (Flat Broke Sisters) *2006*  
+Bincho-tan *2006*  
 Birthday Wonderland *2019*  
 Bishoujo Senshi Sailor Moon (Sailor Moon) *1992*  
 Black Bullet *2014*  
@@ -168,6 +169,7 @@ Di Gi Charat *1999*
 Do It Yourself!! *2022*  
 Dog Days *2011, 2012, 2015*  
 Dokaben *1976*  
+Dokkiri Doctor *1998*  
 Domestic na Kanojo (Domestic Girlfriend) *2019*  
 Doraemon *1973, 1979, 2005*  
 Dorohedoro *2020*  
@@ -372,6 +374,7 @@ Josee to Tora to Sakanatachi (Josee, the Tiger and the Fish) *2021*
 Joshiraku *2012, 2013*  
 Joshikousei no Mudazukai (Wasteful Days of High School Girls) *2019*  
 Joukamachi no Dandelion (Castle Town Dandelion) *2015*  
+Judge *1991*  
 Jungle wa Itsumo Hare nochi Guu (Haré+Guu) *2001*  
 Janguru no Oja Ta-chan (Jungle King Tar-chan) *1993*  
 Junketsu no Maria (Maria the Virgin Witch) *2015*  
@@ -734,6 +737,7 @@ Shirobako *2014, 2015, 2020*
 Shirokuma Cafe (Polar Bare Cafe) *2012*  
 Shobushi Densetsu Tetsuya (The Legend of the Gambler: Tetsuya) *2000*  
 Shokojo Sera (Princess Sarah) *1985*  
+Shokoku no Altair (Altair: A Record of Battles) *2017*  
 Shokugeki no Souma (Food Wars!) *2015*  
 Shonan Bakusozoku (Bomber Bikers of Shonan) *1986*  
 Shonen Jakku to Mahotsukai (Jack and the Witch) *1967*  
