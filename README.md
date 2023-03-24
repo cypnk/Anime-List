@@ -397,6 +397,7 @@ Kaleido Star *2003, 2004, 2005, 2006, 2007*
 Kami Nomi zo Shiru Sekai (The World God Only Knows) *2010, 2013*  
 Kami-tachi ni Hirowareta Otoko (By the Grace of the Gods) *2020*  
 Kamichu! (The Goddess is a Middle School Student) *2005*  
+KamiErabi GOD.app *2023*  
 Kamikaze Kaitou Jeanne (Phantom Thief Jeanne) *1999*  
 Kamisama Hajimemashita (Kamisama Kiss) *2012, 2015*  
 Kamisama ni Natta Hi (The Day I Became a God) *2020*  
@@ -413,6 +414,7 @@ Karigurashi no Arrietty (Arrietty) *2010*
 Karin (Chibi Vampire) *2005*  
 Kasei Yakyoku *1988*  
 Kanata no Asutora (Astra Lost in Space) *2019*  
+Kawaisugi Kuraishisu (Too Cute Crisis) *2023*  
 Kaze ga Tsuyoku Fuiteiru (Run with the Wind) *2018*  
 Kaze no Na wa Amunejia (A Wind Named Amnesia) *1990*  
 Kaze no Shojo Emily (Emily of New Moon) *2007*  
@@ -484,6 +486,7 @@ Kyoryu Bokenki Jura Torippa (Jura Tripper | Dino Adventure Jurassic Tripper) *19
 Kyoukai no Rinne (RIN-NE) *2015*  
 Kyouran Kazoku Nikki *2008*  
 Kyousogiga *2011, 2012, 2013*  
+Kyujitsu no Warumono-san (Mr. Villain's Day Off) *2023*  
 Kyuketsuki Sugu Shinu (The Vampire Dies in No Time) *2021*  
 
 Lady Georgie *1983*  
@@ -859,6 +862,7 @@ Udon no Kuni no Kiniro Kemari (Poco’s Udon World) *2016*
 Ueki no Hosoku (The Law of Ueki) *2005*  
 UFO Princess Valkyrie (UFO Ultramaiden Valkyrie) *2002, 2006*  
 Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
+Undead Girl Murder Farce *2023*  
 UQ Holder! *2017*  
 Ura Sekai Pikunikku (Otherside Picnic) *2021*  
 Uramichi Onii-san (Life Lessons with Uramichi Oniisan) *2021*  
