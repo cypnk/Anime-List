@@ -804,6 +804,7 @@ Tekkaman Blade *1992*
 Tenchi Muyou! Ryououki *1992*  
 Tenchi Universe *1995*  
 Tenisu no Ojisama (The Prince of Tennis) *2001*  
+Tengoku Daimakyo (Heavenly Delusion) *2023*  
 Tenki no Ko (Weathering with you) *2019*  
 Tensai Oji no Akaji Kokka Saisei Jutsu - So da, Baikoku Shiyo (The Genius Prince's Guide to Raising a Nation Out of Debt) *2022*  
 Tensei Shitara Ken Deshita (Reincarnated as a Sword) *2022*  
