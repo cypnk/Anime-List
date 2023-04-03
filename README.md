@@ -903,6 +903,7 @@ Yakitate!! Japan *2004*
 Yaku nara Magu Kappu mo (Let's Make a Mug Too) *2021*  
 Yakyu-kyo no Uta (Poetry of Baseball Enthusiasts) *1977, 1979*  
 Yamada-kun to 7-nin no Majo *2013, 2014, 2015*  
+Yamada-kun to Lv999 no Koi o Suru (My Love Story With Yamada-kun at Lv999 | Loving Yamada at LV999!) *2023*  
 Yami Shibai (Yamishibai: Japanese Ghost Stories) *2013, 2020*  
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
