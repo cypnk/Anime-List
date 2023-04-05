@@ -263,6 +263,7 @@ Guranda Musashi *1997, 1998*
 
 Hachimitsu to Kuroba (Honey and Clover) *2005, 2006*  
 Hachinantte Sore wa Nai Desho! (The 8th son? Are you kidding me?) *2020*  
+Hadashi no Gen (Barefoot Gen) *1983, 1986*  
 Haibane Renmei *2002*  
 Haikara-san ga Toru (Haikara-San: Here Comes Miss Modern | Smart-san) *1978, 2017, 2018*  
 Haikyuu!! *2014*  
