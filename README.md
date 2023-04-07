@@ -615,6 +615,7 @@ Ojiisan no Lamp *2011*
 Okami to Koshinryo (Spice and Wolf) *2008, 2009*  
 One Punch Man *2015*  
 Oniisama e... (Dear Brother) *1991*  
+Opus Colors *2023*  
 Orange *2016*  
 Ore Monogatari!! (My Love Story!!) *2015*  
 Ore wa Teppei (Teppei) *1977*  
