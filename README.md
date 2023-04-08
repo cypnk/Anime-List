@@ -800,6 +800,7 @@ Tamayura *2010*
 Tari Tari *2012*  
 Tasogare Otome x Amunejia (Dusk Maiden of Amnesia) *2012*  
 Tattoon Master *1996*  
+Tearmoon Teikoku Monogatari (Tearmoon Empire) *2023*  
 Tegami Bachi *2009*  
 Tejina-senpai (Magical Sempai) *2019*  
 Tekkaman Blade *1992*  
