@@ -626,6 +626,7 @@ Osama Ranking (Ranking of Kings) *2021*
 Oshitsu Kyoshi Haine (The Royal Tutor) *2017, 2019*  
 Osomatsu-kun *1966, 1988, 1989*  
 Osomatsu-san (Mr. Osomatsu) *2015*  
+Otonari ni Ginga (A Galaxy Next Door) *2023*  
 Ouran Koukou Host Club (Ouran High School Host Club) *2006*  
 Overman King Gainer *2002*  
 Oyukiumi no Kaina (Kaina of the Great Snow Sea) *2023*  
