@@ -155,6 +155,7 @@ Danshi Koukousei no Nichijou (Daily Lives of High School Boys) *2012*
 Dantalian no Shoka (The Mystic Archives of Dantalian) *2011*  
 Darling in the FranXX *2018*  
 Date A Live *2013*  
+Dead Mount Death Play *2023*  
 DearS *2004*  
 Death March kara Hajimaru Isekai Kyousoukyoku (Death March to The Parallel World Rhapsody) *2018*  
 Deca Dence *2020*  
@@ -185,6 +186,7 @@ Druaga No Tou (The Tower of Druaga) *2008, 2009*
 Dumbbell Nan-Kilo Moteru? (How Heavy Are the Dumbbells You Lift?) *2019*  
 Durarara!! *2010, 2015*  
 
+Edomae Elf *2023*  
 Ef: A Tale of Memories *2007*  
 Eiga Daisuki Pompo-san (Pompo: The Cinephile ) *2021*  
 Eitoman (8th Man) *1963, 1993*  
@@ -405,6 +407,7 @@ Kamisama ni Natta Hi (The Day I Became a God) *2020*
 Kamisama no Memochou (Heaven's Memo Pad) *2011*  
 Kamizawa Wanda *2016*  
 Kannagi (Kannagi: Crazy Shrine Maidens) *2008*  
+Kanojo ga Koushaku-tei ni Itta Riyuu (Why Raeliana Ended Up at the Duke's Mansion) *2023*  
 Kanojo Okarishimasu (Rent-a-Girlfriend) *2020, 2022*  
 Kanon *2006*  
 Kara no Kyokai (The Garden of Sinners) *2007, 2009, 2011, 2013*  
@@ -513,6 +516,7 @@ Maho Senshi Riui (Rune Soldier) *2001*
 Mahojin Guru Guru (Magic Circle Guruguru) *1994, 1996, 2000, 2017*  
 Mahoraba: Heartful days *2005*  
 Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica) *2011*  
+Mahou Shoujo Magical Destroyers (Magical Destroyers) *2023*  
 Mahou Shoujo Ore *2018*  
 Mahouka Koukou no Rettousei (The Irregular at Magic High School) *2014, 2021*  
 Mahoutsukai no Yome (The Ancient Magus' Bride) *2016, 2017, 2021*  
@@ -539,8 +543,10 @@ Marmalade Boy *1994, 1995*
 Masamune-kun no Revenge *2017*  
 Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
 Mashiro no Oto (Those Snow White Notes) *2021*  
+Mashle *2023*  
 Mazinger Z *1972*  
 Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
+Megami no Cafe Terrace (The Cafe Terrace and Its Goddesses) *2023*  
 Megazone 23 *1985, 1986*  
 Meitantei Homuzu (Sherlock Hound) *1984*  
 Metal Skin Panic MADOX-01 *1987*  
