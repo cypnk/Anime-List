@@ -596,6 +596,7 @@ Natsume Yujin-Cho (Natsume's Book of Friends) *2008, 2013, 2017*
 Nazo no Kanojo Ekkusu (Mysterious Girlfriend X) *2012*  
 Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
 Nichijou *2011*  
+Niehime to Kemono no Ou (Sacrificial Princess and the King of Beasts) *2023*  
 Nijuichi Emon (21 Emon) *1991, 1992*  
 Nineteen 19 *1990*  
 Ninpu Kamui Gaiden *1969*  
@@ -761,6 +762,7 @@ Shuffle! *2005, 2007*
 Shumatsu no Izetta (Izetta: The Last Witch) *2016*  
 Silent Möbius *1991, 1992, 1998*  
 SKET Dance *2011*  
+Skip to Loafer *2023*  
 Slam Dunk *1993, 1994, 1995*  
 Slow Loop *2022*  
 Slow Start *2018*  
