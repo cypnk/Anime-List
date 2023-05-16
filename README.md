@@ -186,7 +186,7 @@ Druaga No Tou (The Tower of Druaga) *2008, 2009*
 Dumbbell Nan-Kilo Moteru? (How Heavy Are the Dumbbells You Lift?) *2019*  
 Durarara!! *2010, 2015*  
 
-Edomae Elf *2023*  
+Edomae Elf (Otaku Elf) *2023*  
 Ef: A Tale of Memories *2007*  
 Eiga Daisuki Pompo-san (Pompo: The Cinephile ) *2021*  
 Eitoman (8th Man) *1963, 1993*  
@@ -442,6 +442,7 @@ Kimi to Boku *2011*
 Kimi wa Hokago Insomunia (Insomniacs After School) *2023*  
 Kindaichi Shounen no Jikenbo (The Kindaichi Case Files) *1996, 1997, 2012, 2014, 2015*  
 Kingyo Chuiho! (Goldfish Warning!) *1991*  
+Kiniro Mosaic *2013, 2015, 2021*  
 Kinnikuman *1983*  
 Kino no Tabi - the Beautiful World *2003*  
 Kishin Doji Zenki (Demon Prince Zenki) *1995*  
@@ -940,6 +941,7 @@ Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero) *2014, 2017, 2021*
 Yuuyake Bancho (Sunset Bancho) *1968*  
 Yuru Camp△ (Laid-Back Camp) *2018, 2020, 2022*  
 YuruYuri *2011, 2012, 2014, 2015, 2019*  
+Yuyushiki *2013, 2017*  
 
 Zan Sayonara Zetsubou Sensei *2007, 2008, 2009*  
 Zero no Tsukaima *2006, 2007, 2008, 2012*  
