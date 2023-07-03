@@ -323,7 +323,7 @@ Hitsugi no Chaika (Chaika - The Coffin Princess) *2014*
 Hokago Saikoro Club (After School Dice Club) *2019*  
 Hono no Tokyuji Dodge Danpei (Fighting Dodgeball Boy Dodge Danpei) *1991*  
 Honzuki no Gekokujo (Ascendance of a Bookworm) *2019, 2022*  
-Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021*  
+Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021, 2023*  
 Hosekisho Richard-shi no Nazo Kantei (The Case Files of Jeweler Richard) *2018*  
 Hoshi no Samidare (Lucifer and the Biscuit Hammer) *2022*  
 Hotarubi no Mori e *2011*  
@@ -402,6 +402,7 @@ Kami-tachi ni Hirowareta Otoko (By the Grace of the Gods) *2020*
 Kamichu! (The Goddess is a Middle School Student) *2005*  
 KamiErabi GOD.app *2023*  
 Kamikaze Kaitou Jeanne (Phantom Thief Jeanne) *1999*  
+Kaminaki Sekai no Kamisama Katsudou (KamiKatsu | What God Does in a World Without Gods) *2023*  
 Kamisama Hajimemashita (Kamisama Kiss) *2012, 2015*  
 Kamisama ni Natta Hi (The Day I Became a God) *2020*  
 Kamisama no Memochou (Heaven's Memo Pad) *2011*  
@@ -581,7 +582,7 @@ Mujin Wakusei Savaivu (Uninhabited Planet Survive) *2003*
 Musaigen no Phantom World (Myriad Colors Phantom World) *2016*  
 Musekinin Kanchō Tairo (The Irresponsible Captain Tylor) *1993*  
 Mushibugyou *2013, 2014*  
-Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World) *2021*  
+Mushoku Tensei: Isekai Ittara Honki Dasu (Jobless Reincarnation: I Will Seriously Try If I Go to Another World) *2021, 2023*  
 Muhyo to Roji no Mahoritsu Sodan Jimusho (Muhyo & Roji's Bureau of Supernatural Investigation) *2018*  
 
 Nagi no Asukara (A Lull in the Sea) *2013*  
@@ -678,6 +679,7 @@ Romeo no Aoi Sora (Romeo and the Black Brothers | Romeo's Blue Skies) *1995*
 Rosario to Vampire *2008*  
 Roujin Z (Old Man Z) *1991*  
 Rozen Maiden *2004, 2005, 2006, 2013*  
+Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (Atelier Ryza: Ever Darkness & the Secret Hideout) *2023*  
 
 Sabanto x Sabisu (Servant x Service) *2013*  
 Sabikui Bisco (Rust-Eater Bisco) *2022*  
@@ -864,6 +866,7 @@ Tsurezure Children *2017*
 Tsurupika Hagemaru-kun (Hagemaru) *1988*  
 Twilight Q *1987*  
 
+Uchi no Kaisha no Chiisai Senpai no Hanashi (My Tiny Sempai | Story of a Small Senior in My Company) *2023*  
 Uchi no Maid ga Uzasugiru! (Our Maid is Way Too Annoying!) *2018*  
 Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai (If It's for My Daughter, I'd Even Defeat a Demon Lord) *2019*  
 Uchi no Shishou wa Shippo ga Nai (My Master Has No Tail) *2022*  
