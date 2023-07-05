@@ -505,6 +505,7 @@ Love Lab *2013*
 Love Live! *2013, 2016, 2020*  
 Lovely★Complex (Love★Com) *2007*  
 Lupin III *1971, 1977, 1984*  
+Lv1 Maou to One Room Yuusha (Level 1 Demon Lord and One Room Hero) *2023*  
 
 Mach GoGoGo (Speed Racer) *1967*  
 Machikado Mazoku (The Demon Girl Next Door) *2019, 2022*  
