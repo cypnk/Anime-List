@@ -619,6 +619,7 @@ Nurse Angel Ririka SOS *1995*
 Nyan Koi! *2009*  
 
 Ochamegami Monogatari Korokoro Poron (Little Pollon) *1982*  
+Odeo 808 (Cyber City Oedo 808) *1990*  
 Odd Taxi *2021*  
 Ogon Bat (Golden Bat) *1967*  
 Ojiisan no Lamp *2011*  
