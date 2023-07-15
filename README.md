@@ -159,6 +159,7 @@ Dead Mount Death Play *2023*
 DearS *2004*  
 Death March kara Hajimaru Isekai Kyousoukyoku (Death March to The Parallel World Rhapsody) *2018*  
 Deca Dence *2020*  
+Dekiru Neko wa Kyou mo Yuuutsu (The Masterful Cat Is Depressed Again Today) *2023*  
 Denkigai no Honya-san (Denki-gai) *2014*  
 Denpa Kyoushi (Ultimate Otaku Teacher) *2015*  
 Denpa Onna to Seishun Otoko (Ground Control to Psychoelectric Girl) *2011*  
@@ -295,6 +296,7 @@ Heavy Metal L-Gaim *1984, 1986*
 Heavy Object *2015*  
 Heike Monogatari (The Heike Story) *2021*  
 Heion Sedai no Idaten-tachi (The Idaten Deities Know Only Peace) *2021*  
+Helck *2023*  
 Hello! Sandybell *1981*  
 Hensuki *2019*  
 Hi no Tori 2772: Ai no Kosumozon (Phoenix 2772) *1980*  
@@ -336,6 +338,7 @@ Hungry Heart: Wild Striker *2002*
 Hunter x Hunter *1998, 1999, 2002, 2011*  
 Hyakka Ryouran: Samurai Girls *2010, 2013, 2015*  
 Hyaku-Man no Inochi no Ue ni Ore wa Tatteiru (I'm Standing on a Million Lives) *2020*  
+Hyakushou Kizoku *2023*  
 Hyouge Mono *2011*  
 Hyouka *2012*  
 Hyper Police *1997*  
@@ -425,6 +428,7 @@ Kaze no Na wa Amunejia (A Wind Named Amnesia) *1990*
 Kaze no Shojo Emily (Emily of New Moon) *2007*  
 Kaze no Tani no Naushika (Nausicaä of the Valley of the Wind) *1984*  
 Kazemakase Tsukikage Ran (Carried by the Wind: Tsukikage Ran) *2000*  
+Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone (The Swiss Family Robinson: Flone of the Mysterious Island) *1981*  
 Kekkaishi *2006*  
 Kemono Friends *2017*  
 Kemono no Sou-ja Erin (The Beast Player Erin) *2009*  
@@ -750,6 +754,7 @@ Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*
 Shin Sekai Yori (From the New World) *2012*  
 Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
 Shinka no Mi (The Fruit of Evolution) *2021*  
+Shiro Seijo to Kuro Bokushi (Saint Cecilia and Pastor Lawrence) *2023*  
 Shiroi Suna no Aquatope (The Aquatope on White Sand) *2021*  
 Shirobako *2014, 2015, 2020*  
 Shirokuma Cafe (Polar Bare Cafe) *2012*  
