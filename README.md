@@ -520,6 +520,7 @@ Magical Taluluto (Magical Taruruto) *1990, 1991, 1992*
 Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
 Maho no Tenshi Kurīmī Mami (Creamy Mami, the Magic Angel) *1983*  
 Maho Senshi Riui (Rune Soldier) *2001*  
+Maho Tsukai ni Taisetsu na Koto (Someday's Dreamers) *2003, 2008*  
 Mahojin Guru Guru (Magic Circle Guruguru) *1994, 1996, 2000, 2017*  
 Mahoraba: Heartful days *2005*  
 Mahou Shoujo Madoka★Magica (Puella Magi Madoka Magica) *2011*  
@@ -537,6 +538,7 @@ Majokko Megu-chan *1974*
 Majokko Tickle *1978*  
 Majutsushi Ofen | Majutsushi Orphen (Sorcerous Stabber Orphen) *1998, 1999, 2020, 2021*  
 Malice@Doll *2001*  
+Manaria Friends (Mysteria Friends) *2019*  
 Manga Sarutobi Sasuke *1979*  
 Manyuu Hikenchou *2011*  
 Mao Gakuin No Futekigosha (The Misfit of Demon King Academy) *2020*  
@@ -657,6 +659,7 @@ Perrine Monogatari (The Story of Perrine) *1978, 1990*
 Pet *2020*  
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
 Planetarian: Chiisana Hoshi no Yume (Planetarian: The Reverie of a Little Planet) *2016, 2021*  
+Piano *2002*  
 Piano no Mori (Forest of Piano) *2007, 2018*  
 Plunderer *2020*  
 Poco's Udon World *2016*  
@@ -863,7 +866,6 @@ Touch *1985*
 Trinity Seven *2014, 2017, 2019*  
 Tsubasa: Reservoir Chronicle *2005, 2007, 2009*  
 Tsugumomo *2017, 2020*  
-Tsukai ni Taisetsu na Koto (Someday's Dreamers) *2003*  
 Tsuki ga Kirei (As the Moon, So Beautiful) *2017*  
 Tsuki ga Michibiku Isekai Douchuu (Tsukimichi: Moonlit Fantasy) *2021*  
 Tsuki to Laika to Nosferatu (Irina: The Vampire Cosmonaut) *2021*  
@@ -932,7 +934,7 @@ Yattaman (Yatterman) *1977, 2008, 2009*
 Yawara! *1989, 1992, 1996*  
 Yesterday o Utatte (Sing "Yesterday" for Me) *2020*  
 Yofukashi no Uta (Call of the Night) *2022*  
-Yokohama Kaidashi Kikou (Yokohama Shopping Log) *1998*  
+Yokohama Kaidashi Kikou (Yokohama Shopping Log) *1998, 2002*  
 Yokoyama Mitsuteru Sangokushi *1991*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
 Yoroiden Samurai Troopers *1988, 1989, 1991*  
@@ -946,6 +948,7 @@ Yowamushi Pedal *2013, 2014, 2015, 2016, 2017, 2018*
 Yukoku no Moriarty (Moriarty the Patriot) *2020, 2021*  
 Yumeiro Patissiere *2009, 2010*  
 Yumekui Merry (Dream Eater Merry) *2011*  
+Yumemiru Danshi wa Genjitsushugisha (The Dreaming Boy is a Realist) *2023*  
 Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs) *2018*  
 Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero) *2014, 2017, 2021*  
 Yuuyake Bancho (Sunset Bancho) *1968*  
