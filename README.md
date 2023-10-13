@@ -487,6 +487,7 @@ Kumicho Musume to Sewagakari (The Yakuza's Guide to Babysitting) *2022*
 Kumo desu ga, Nani ka? (So I'm a Spider, So What?) *2021*  
 Kurogane Communication *1998*  
 Kuroshitsuji (Black Butler) *2008, 2014*  
+Kusuriya no Hitorigoto (The Apothecary Diaries) *2023*  
 Kyandi Kyandi (Candy Candy) *1976*  
 Kyaputen Fyucha (Captain Future) *1978*  
 Kyokai no Kanata (Beyond the Boundary) *2013, 2014, 2015*  
