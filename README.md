@@ -452,6 +452,7 @@ Kinnikuman *1983*
 Kino no Tabi - the Beautiful World *2003*  
 Kishin Doji Zenki (Demon Prince Zenki) *1995*  
 Kishuku Gakko no Juliet (Boarding School Juliet) *2018*  
+Kitsune no Home Run Ou (Seventh Inning Stretch) *1949*  
 Knight's & Magic *2017*  
 Kobato *2009*  
 Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid) *2017, 2021*  
@@ -821,6 +822,7 @@ Tantei wa Mo, Shindeiru (The Detective Is Already Dead) *2021*
 Tamako Market *2013, 2014*  
 Tamayura *2010*  
 Tari Tari *2012*  
+Tarou-san no Kisha (Taro's Train | Taro's Toy Train) *1929*  
 Tasogare Otome x Amunejia (Dusk Maiden of Amnesia) *2012*  
 Tattoon Master *1996*  
 Tearmoon Teikoku Monogatari (Tearmoon Empire) *2023*  
@@ -953,6 +955,7 @@ Yumemiru Danshi wa Genjitsushugisha (The Dreaming Boy is a Realist) *2023*
 Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs) *2018*  
 Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero) *2014, 2017, 2021*  
 Yuuyake Bancho (Sunset Bancho) *1968*  
+Yuurei-sen (Phantom Ship) *1957*   
 Yuru Camp△ (Laid-Back Camp) *2018, 2020, 2022*  
 YuruYuri *2011, 2012, 2014, 2015, 2019*  
 Yuyushiki *2013, 2017*  
