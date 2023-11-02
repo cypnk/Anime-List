@@ -383,6 +383,7 @@ Joukamachi no Dandelion (Castle Town Dandelion) *2015*
 Judge *1991*  
 Jungle wa Itsumo Hare nochi Guu (Haré+Guu) *2001*  
 Janguru no Oja Ta-chan (Jungle King Tar-chan) *1993*  
+Junkers Come Here *1995*  
 Junketsu no Maria (Maria the Virgin Witch) *2015*  
 
 K-On! *2009, 2011*  
@@ -410,6 +411,7 @@ Kamisama Hajimemashita (Kamisama Kiss) *2012, 2015*
 Kamisama ni Natta Hi (The Day I Became a God) *2020*  
 Kamisama no Memochou (Heaven's Memo Pad) *2011*  
 Kamizawa Wanda *2016*  
+Kanata no Asutora (Astra Lost in Space) *2019*  
 Kannagi (Kannagi: Crazy Shrine Maidens) *2008*  
 Kanojo ga Koushaku-tei ni Itta Riyuu (Why Raeliana Ended Up at the Duke's Mansion) *2023*  
 Kanojo Okarishimasu (Rent-a-Girlfriend) *2020, 2022*  
@@ -421,7 +423,7 @@ Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances) *1998*
 Karigurashi no Arrietty (Arrietty) *2010*  
 Karin (Chibi Vampire) *2005*  
 Kasei Yakyoku *1988*  
-Kanata no Asutora (Astra Lost in Space) *2019*  
+Katsura hime (Princess Katsura) *1937*  
 Kawaisugi Kuraishisu (Too Cute Crisis) *2023*  
 Kaze ga Tsuyoku Fuiteiru (Run with the Wind) *2018*  
 Kaze no Na wa Amunejia (A Wind Named Amnesia) *1990*  
