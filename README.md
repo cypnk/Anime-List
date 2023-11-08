@@ -123,6 +123,7 @@ Chikyugai Shonen Shojo (Extra-Terrestrial Boys & Girls) *2022*
 Chito Kusushi no Suro Raifu: Isekai ni Tsukuro Doraggusutoa (Drugstore in Another World: The Slow Life of a Cheat Pharmacist) *2021*  
 Chio-chan no Tsuugakuro (Chio's School Road) *2018*  
 Chitose get You!! *2012*  
+Chojiku Romanesque Samy - Missing 99 (Paradox Dimensional Romanesque Samy - missing '99) *1986*  
 Chojiku Seiki Ogasu (Super Dimension Century Orguss) *1983, 1993*  
 Chojin-Kokoseitachi wa Isekai demo Yoyu de Ikinuku Yodesu! (Choyoyu: High School Prodigies Have It Easy Even In Another World) *2019*  
 Choyaku Hyakunin Isshu: Uta Koi *2012*  
@@ -310,7 +311,7 @@ Higashi no Eden (Eden of the East) *2009, 2010*
 High School DxD *2012, 2013, 2015, 2018*  
 High School Fleet *2016, 2020*  
 High Score Girl *2018*  
-High School! Kimengumi *1985*  
+High School! Kimengumi *1985, 1986*  
 Hikari no Densetsu *1986*  
 Hikari to Mizu no Dafune (Daphne in the Brilliant Blue) *2004*  
 Hime-chan no Ribon (Hime-chan's Ribbon) *1992*  
@@ -324,6 +325,7 @@ Hitori Bocchi no Marumaru Seikatsu *2019*
 Hitsugi no Chaika (Chaika - The Coffin Princess) *2014*  
 Hokago Saikoro Club (After School Dice Club) *2019*  
 Hono no Tokyuji Dodge Danpei (Fighting Dodgeball Boy Dodge Danpei) *1991*  
+Honoo Torippa (Fire Tripper) *1985*  
 Honzuki no Gekokujo (Ascendance of a Bookworm) *2019, 2022*  
 Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021, 2023*  
 Hosekisho Richard-shi no Nazo Kantei (The Case Files of Jeweler Richard) *2018*  
@@ -372,6 +374,8 @@ Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. (BOFURI: I D
 Ixion Saga DT *2012*
 
 Jaku Chara Tomozaki-kun (Bottom-tier Character Tomozaki) *2021*  
+Janguru no Oja Ta-chan (Jungle King Tar-chan) *1993*  
+Jarinko Chie (Chie the Brat) *1981, 1991*  
 Jashin-chan Dropkick (Dropkick On My Devil!!) *2018, 2020, 2022*  
 Jibaku Shonen Hanako-kun (Toilet-Bound Hanako-kun) *2020*  
 Jinrui wa Suitai Shimashita (Humanity Has Declined) *2012*  
@@ -382,11 +386,11 @@ Joshikousei no Mudazukai (Wasteful Days of High School Girls) *2019*
 Joukamachi no Dandelion (Castle Town Dandelion) *2015*  
 Judge *1991*  
 Jungle wa Itsumo Hare nochi Guu (Haré+Guu) *2001*  
-Janguru no Oja Ta-chan (Jungle King Tar-chan) *1993*  
 Junkers Come Here *1995*  
 Junketsu no Maria (Maria the Virgin Witch) *2015*  
 
 K-On! *2009, 2011*  
+Kabocha Wine (The Kabocha Wine) *1982, 1984*  
 Kacho-Oji (Black Heaven) *1999*  
 Kage no Jitsuryokusha ni Naritakute! (The Eminence in Shadow) *2022*  
 Kagaku Ninja Tai Gatchaman (Science Ninja Team Gatchaman) *1972*  
@@ -422,7 +426,7 @@ Karakuri Circus *2018*
 Kareshi Kanojo no Jijou (Kare Kano: His and Her Circumstances) *1998*  
 Karigurashi no Arrietty (Arrietty) *2010*  
 Karin (Chibi Vampire) *2005*  
-Kasei Yakyoku *1988*  
+Kasei Yakyoku (Nightsong of Splendor) *1988*  
 Katsura hime (Princess Katsura) *1937*  
 Kawaisugi Kuraishisu (Too Cute Crisis) *2023*  
 Kaze ga Tsuyoku Fuiteiru (Run with the Wind) *2018*  
@@ -458,6 +462,7 @@ Kitsune no Home Run Ou (Seventh Inning Stretch) *1949*
 Knight's & Magic *2017*  
 Kobato *2009*  
 Kobayashi-san Chi no Maid Dragon (Miss Kobayashi's Dragon Maid) *2017, 2021*  
+Kobo-chan *1992*  
 Kobura (Cobra) *1982, 2008, 2010*  
 Kochira Katsushika-ku Kameari Koen Mae Hashutsujo (KochiKame: Tokyo Beat Cops) *1985, 1996*  
 Kodomo no Omocha (Kodocha) *1996*  
@@ -493,6 +498,7 @@ Kuroshitsuji (Black Butler) *2008, 2014*
 Kusuriya no Hitorigoto (The Apothecary Diaries) *2023*  
 Kyandi Kyandi (Candy Candy) *1976*  
 Kyaputen Fyucha (Captain Future) *1978*  
+Kyojin no Hoshi (Star of the Giants) *1968, 1969, 1970, 1977, 1979, 1982*  
 Kyokai no Kanata (Beyond the Boundary) *2013, 2014, 2015*  
 Kyoko Suiri (In/Spectre) *2020*  
 Kyou Kara Ore Wa!! *1993*  
@@ -571,6 +577,7 @@ Miira no Kaikata (How to keep a mummy) *2018*
 Mikakunin de Shinkokei (Engaged to the Unidentified) *2014*  
 Mimi wo Sumaseba (Whisper of the Heart) *1995*  
 Minami-ke *2007, 2008, 2009, 2012, 2013*  
+Miracle Girls *1993*  
 Mirai Shounen Conan (Future Boy Conan) *1978, 1984, 1999*  
 Mister Ajikko *1987*  
 Mitsuboshi Colors *2018*  
@@ -657,7 +664,7 @@ Pan De Peace *2016*
 Panchi Rain (Punch Line) *2015*  
 Paradise Kiss *2005*  
 Paripi Komei (Ya Boy Kongming) *2022*  
-Patalliro! *1982, 2005*  
+Patalliro! *1982, 1983, 2005*  
 Patapata Hikousen no Bouken (Secret of Cerulean Sand) *2002*  
 Perrine Monogatari (The Story of Perrine) *1978, 1990*  
 Pet *2020*  
@@ -845,12 +852,12 @@ Teppen—!!! (Teppen—!!!!!!!!!!!!!!! Laughing 'til you Cry) *2022*
 Terra e... (Toward the Terra) *1980, 2007*  
 Tetsujin 28-go (Gigantor) *1963, 1992, 2013*  
 Texhnolyze *2003*  
-The Kabocha Wine *1982, 1984*  
 Thermae Romae *2022*  
 Tiger & Bunny *2011, 2012, 2014, 2022*  
 Tiger Mask *1969, 1970, 1981, 2013*  
 Time Bokan *1975*  
 Time Travel Tondekeman (Time Quest!) *1989*  
+To-y *1987*  
 Tobe! Isami (Soar High! Isami) *1995*  
 Tokimeki Tonight *1982*  
 Tokyo ESP *2014*  
