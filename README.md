@@ -726,6 +726,7 @@ Samurai Flamenco *2013*
 Sangatsu-gatsu no Lion (3-gatsu no Lion: March Comes In like a Lion) *2016*  
 Sarai-ya Goyo (House of Five Leaves) *2010*  
 Sarazanmai *2019*  
+Sasaki to Pii-chan (Sasaki and Peeps) *2024*  
 Sasami-san@Ganbaranai *2013*  
 Sasuga no Sarutobi *1982*  
 Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
