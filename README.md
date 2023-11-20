@@ -691,6 +691,7 @@ Recca no Honoo (Flame of Recca) *1997*
 Riadeiru no Daichi nite | Leadale no Daichi nite (In the Land of Leadale) *2022*  
 Riding Bean *1989*  
 Rizu to Aoi Tori (Liz and the Blue Bird) *2018*  
+Rocket Girls *2007*  
 Rokuhoudou Yotsuiro Biyori *2018*  
 Roringu Garuzu (The Rolling Girls) *2015*  
 Rokka no Yusha (Rokka: Braves of the Six Flowers) *2015*  
