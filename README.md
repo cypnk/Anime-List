@@ -451,6 +451,7 @@ Kimetsu no Yaiba (Demon Slayer: Kimetsu no Yaiba) *2019*
 Kimi ni Todoke *2009*  
 Kimi to Boku *2011*  
 Kimi wa Hokago Insomunia (Insomniacs After School) *2023*  
+Kimitachi wa Do Ikiru ka (How Do You Live | The Boy and the Heron) *2023*  
 Kindaichi Shounen no Jikenbo (The Kindaichi Case Files) *1996, 1997, 2012, 2014, 2015*  
 Kingyo Chuiho! (Goldfish Warning!) *1991*  
 Kiniro Mosaic *2013, 2015, 2021*  
