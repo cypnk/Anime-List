@@ -93,6 +93,7 @@ Black Cat *2005*
 Black Clover *2017*  
 Black Jack *1993, 1996, 2000, 2004, 2005, 2006*  
 Black Magic *1987*  
+BNA (BNA: Brand New Animal) *2020*  
 Bobobo-bo Bo-bobo *2003*  
 Bocchi the Rock! *2022*  
 Boogiepop Phantom *2000*  
@@ -315,6 +316,7 @@ High School! Kimengumi *1985, 1986*
 Hikari no Densetsu *1986*  
 Hikari to Mizu no Dafune (Daphne in the Brilliant Blue) *2004*  
 Hime-chan no Ribon (Hime-chan's Ribbon) *1992*  
+Hime-sama "Gomon" no Jikan desu ('Tis Time for "Torture," Princess) *2024*  
 Himitsu no Akko-chan (The Secrets of Akko-chan) *1969, 1988, 1989, 1998*  
 Himouto! Umaru-chan *2015, 2017*  
 Hinako Note *2017*  
@@ -331,6 +333,7 @@ Hori-san to Miyamura-kun (Horimiya: Hori and Miyamura) *2012, 2021, 2023*
 Hosekisho Richard-shi no Nazo Kantei (The Case Files of Jeweler Richard) *2018*  
 Hoshi no Samidare (Lucifer and the Biscuit Hammer) *2022*  
 Hotarubi no Mori e *2011*  
+Houkago Teibou Nisshi (Diary of Our Days at the Breakwater) *2020*  
 Hourou Musuko (Wandering Son) *2011*  
 Houseki no Kuni (Land of the Lustrous) *2017*  
 Hozuki no Reitetsu (Hozuki's Coolheadedness) *2014, 2015*  
