@@ -365,6 +365,7 @@ Initial D *1998, 1999, 2001, 2004, 2012, 2014*
 Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace) *2014*  
 Inu to Hasami wa Tsukaiyo (Dog & Scissors) *2013*  
 Iroduku Sekai no Ashita kara (IRODUKU: The World in Colors) *2018*  
+Isekai de Mofumofu Nadenade Suru Tameni Ganbattemasu (Fluffy Paradise | At the Isekai Fluffy Paradise I'm Trying to Do My Best) *2024    
 Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World) *2018*  
 Isekai Nonbiri Nouka (Farming Life in Another World) *2023*  
 Isekai Ojisan (Uncle from Another World) *2022*  
@@ -566,7 +567,8 @@ Marmalade Boy *1994, 1995*
 Masamune-kun no Revenge *2017*  
 Mashin Eiyuden Wataru (Mashin Hero Wataru) *1988*  
 Mashiro no Oto (Those Snow White Notes) *2021*  
-Mashle *2023*  
+Mashle *2023, 2024*  
+Mato Seihei no Slave (Chained Soldier) *2024*  
 Mazinger Z *1972*  
 Meari to Majo no Hana (Mary and the Witch's Flower) *2017*  
 Megami no Cafe Terrace (The Cafe Terrace and Its Goddesses) *2023*  
@@ -826,6 +828,7 @@ Super Cub *2021*
 Sutamyu (Star-Myu) *2016*  
 Suzuka *2005*  
 Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya) *2006, 2009*  
+Synduality: Noir *2023, 2024*  
 
 Tada-kun wa Koi o Shinai (Tada Never Falls in Love) *2018*  
 Taiho Shichauzo (You're Under Arrest) *1994, 1996, 1999, 2001, 2002, 2007*  
@@ -907,6 +910,7 @@ Ueki no Hosoku (The Law of Ueki) *2005*
 UFO Princess Valkyrie (UFO Ultramaiden Valkyrie) *2002, 2006*  
 Umi ga Kikoeru (I Can Hear the Sea | Ocean Waves) *1993*  
 Undead Girl Murder Farce *2023*  
+Under Ninja *2023*  
 UQ Holder! *2017*  
 Ura Sekai Pikunikku (Otherside Picnic) *2021*  
 Uramichi Onii-san (Life Lessons with Uramichi Oniisan) *2021*  
