@@ -663,6 +663,7 @@ Osomatsu-san (Mr. Osomatsu) *2015*
 Otonari ni Ginga (A Galaxy Next Door) *2023*  
 Ouran Koukou Host Club (Ouran High School Host Club) *2006*  
 Overman King Gainer *2002*  
+Oyayubi Hime Monogatari (Thumbelina: A Magical Story) *1992*  
 Oyukiumi no Kaina (Kaina of the Great Snow Sea) *2023*  
 Ozuma *2012*  
 
