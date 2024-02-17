@@ -149,6 +149,7 @@ Cutey Honey *1973, 1994, 1997, 2004*
 Cyberpunk: Edgerunners *2022*  
 
 D.Gray-man *2006, 2016*  
+Danjon Meshi (Delicious in Dungeon) *2024*  
 Deaimon *2022*  
 Dagashi Kashi *2016, 2018*  
 Daisetsusan no Yuusha Kibaou (King Fang) *1978*  
