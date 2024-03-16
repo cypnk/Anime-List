@@ -250,6 +250,7 @@ GJ-bu (Good Job Club) *2013, 2014*
 Gochuumon wa Usagi Desu ka? (Is the order a rabbit?) *2014, 2017, 2019*  
 God Eater *2015*  
 Gojira Shingyura Pointo (Godzilla Singular Point) *2021*  
+Gokinjo Monogatari (Neighborhood Story) *1995, 1996*  
 Gokujo Seitokai (Best Student Council) *2005*  
 Gokukoku no Brynhildr (Brynhildr in the Darkness) *2014*  
 Gokushufudo (The Way of the Househusband) *2021*  
@@ -366,7 +367,7 @@ Initial D *1998, 1999, 2001, 2004, 2012, 2014*
 Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace) *2014*  
 Inu to Hasami wa Tsukaiyo (Dog & Scissors) *2013*  
 Iroduku Sekai no Ashita kara (IRODUKU: The World in Colors) *2018*  
-Isekai de Mofumofu Nadenade Suru Tameni Ganbattemasu (Fluffy Paradise | At the Isekai Fluffy Paradise I'm Trying to Do My Best) *2024    
+Isekai de Mofumofu Nadenade Suru Tameni Ganbattemasu (Fluffy Paradise | At the Isekai Fluffy Paradise I'm Trying to Do My Best) *2024*    
 Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World) *2018*  
 Isekai Nonbiri Nouka (Farming Life in Another World) *2023*  
 Isekai Ojisan (Uncle from Another World) *2022*  
