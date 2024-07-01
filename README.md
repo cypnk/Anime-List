@@ -328,6 +328,7 @@ Hiatari Ryoko! *1987*
 Hitori Bocchi no Marumaru Seikatsu *2019*  
 Hitsugi no Chaika (Chaika - The Coffin Princess) *2014*  
 Hokago Saikoro Club (After School Dice Club) *2019*  
+Hokori Inu no Hanashi (The Cloudy Dog Talk About) *2012*  
 Hono no Tokyuji Dodge Danpei (Fighting Dodgeball Boy Dodge Danpei) *1991*  
 Honoo Torippa (Fire Tripper) *1985*  
 Honzuki no Gekokujo (Ascendance of a Bookworm) *2019, 2022*  
