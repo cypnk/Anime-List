@@ -488,6 +488,7 @@ Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!) *2016*
 Kono Naka ni Hitori, Imouto ga Iru! (Nakaimo – My Sister Is Among Them!) *2012*  
 Kono Oto Tomare! Sounds of Life (Stop This Sound) *2019*  
 Kono Sekai no Katasumi ni (In This Corner of the World) *2016*  
+Kono Sekai wa Fukanzen Sugiru (Quality Assurance in Another World) *2024*  
 Kono Subarashii Sekai ni Shukufuku wo! (KonoSuba: God's Blessing on this Wonderful World!) *2016, 2019*  
 Konohana Kitan *2017*  
 Kore wa Zombie Desu ka? (Is This a Zombie?) *2011, 2012*  
@@ -560,7 +561,8 @@ Manaria Friends (Mysteria Friends) *2019*
 Manga Sarutobi Sasuke *1979*  
 Manyuu Hikenchou *2011*  
 Mao Gakuin No Futekigosha (The Misfit of Demon King Academy) *2020*  
-Maou-sama, Retry! *2019*  
+Maou Gun Saikyou no Majutsushi wa Ningen datta (The Strongest Magician in the Demon Lord's Army was a Human) *2024*  
+Maou-sama, Retry! *2019, 2024*  
 Maoyuu Maou Yuusha (Maoyu) *2013*  
 Maojo de Oyasumi (Sleepy Princess in the Demon Castle) *2020*  
 Maria Holic *2009, 2011*  
@@ -655,6 +657,7 @@ Oniisama e... (Dear Brother) *1991*
 Opus Colors *2023*  
 Orange *2016*  
 Ore Monogatari!! (My Love Story!!) *2015*  
+Ore wa Subete o "Parry" Suru (I Parry Everything) *2024*  
 Ore wa Teppei (Teppei) *1977*  
 Orient *2022*  
 Oritsu Uchugun: Oneamisu no Tsubasa (Royal Space Force: The Wings of Honnêamise) *1987*  
@@ -860,6 +863,7 @@ Tensai Oji no Akaji Kokka Saisei Jutsu - So da, Baikoku Shiyo (The Genius Prince
 Tensei Shitara Ken Deshita (Reincarnated as a Sword) *2022*  
 Tensei shitara Slime Datta Ken (That Time I Got Reincarnated as a Slime) *2018*  
 Tenshi no Tamago (Angel's Egg) *1985*  
+Tensui no Sakuna-hime (Sakuna: Of Rice and Ruin) *2024*  
 Tentomushi no Uta (The Song of Tentomushi) *1974*  
 Teppen—!!! (Teppen—!!!!!!!!!!!!!!! Laughing 'til you Cry) *2022*  
 Terra e... (Toward the Terra) *1980, 2007*  
@@ -890,6 +894,7 @@ Toshokan Sensou (Library War) *2008, 2012*
 Touch *1985*  
 Trinity Seven *2014, 2017, 2019*  
 Tsubasa: Reservoir Chronicle *2005, 2007, 2009*  
+Tsue to Tsurugi no Wistoria (Wistoria: Wand and Sword) *2024*  
 Tsugumomo *2017, 2020*  
 Tsuki ga Kirei (As the Moon, So Beautiful) *2017*  
 Tsuki ga Michibiku Isekai Douchuu (Tsukimichi: Moonlit Fantasy) *2021*  
@@ -979,7 +984,7 @@ Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs) *2018*
 Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero) *2014, 2017, 2021*  
 Yuuyake Bancho (Sunset Bancho) *1968*  
 Yuurei-sen (Phantom Ship) *1957*   
-Yuru Camp△ (Laid-Back Camp) *2018, 2020, 2022*  
+Yuru Camp△ (Laid-Back Camp) *2018, 2020, 2022, 2024*  
 YuruYuri *2011, 2012, 2014, 2015, 2019*  
 Yuyushiki *2013, 2017*  
 
