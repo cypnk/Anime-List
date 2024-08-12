@@ -188,6 +188,7 @@ Dragon's Heaven *1988*
 Drifters *2016*  
 Druaga No Tou (The Tower of Druaga) *2008, 2009*  
 Dumbbell Nan-Kilo Moteru? (How Heavy Are the Dumbbells You Lift?) *2019*  
+Dungeon no Naka no Hito (Dungeon People) *2024*  
 Durarara!! *2010, 2015*  
 
 Edomae Elf (Otaku Elf) *2023*  
@@ -520,6 +521,7 @@ Kyuketsuki Sugu Shinu (The Vampire Dies in No Time) *2021*
 
 Lady Georgie *1983*  
 Le Chevalier D'Eon *2006*  
+Let's Nupu-Nupu *1998*  
 Level E *2011*  
 Little Witch Academia *2013, 2015, 2017*  
 Lost Universe *1998*  
@@ -534,6 +536,7 @@ Mach GoGoGo (Speed Racer) *1967*
 Machikado Mazoku (The Demon Girl Next Door) *2019, 2022*  
 Madan no O to Vanadis (Lord Marksman and Vanadis) *2014*  
 Madlax *2004*  
+Madougushi Dahlia wa Utsumukanai (Dahlia in Bloom: Crafting a Fresh Start with Magical Tools) *2024*  
 Magi (Magi: The Labyrinth of Magic) *2012, 2013*  
 Magical Taluluto (Magical Taruruto) *1990, 1991, 1992*  
 Maho no Purinsesu Minki Momo (Mahou no Princess Minky Momo) *1982*  
@@ -594,6 +597,7 @@ Mister Ajikko *1987*
 Mitsuboshi Colors *2018*  
 Miyuki *1983*  
 Mizuiro Jidai (Aqua Age) *1996*  
+Mob kara Hajimaru Tansaku Eiyuutan (A Nobody's Way Up to an Exploration Hero) *2024*  
 Mob Psycho 100 *2016, 2018, 2019*  
 Mobile Police Patlabor (Patlabor) *1988, 1989, 1990, 1993, 2002, 2014, 2016*  
 Moeru! Onii-san (The Burning Wild Man) *1988, 1989*  
@@ -624,6 +628,7 @@ Nanatsu no Umi no Tiko (Tico of the Seven Seas) *1994*
 Natsu no Arashi! (Summer Storm!) *2009*  
 Natsuiro Kiseki *2012*  
 Natsume Yujin-Cho (Natsume's Book of Friends) *2008, 2013, 2017*  
+Naze Boku no Sekai wo Daremo Oboeteinai no ka? (Why Does Nobody Remember Me in This World?) *2024*  
 Nazo no Kanojo Ekkusu (Mysterious Girlfriend X) *2012*  
 Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
 Nichijou *2011*  
