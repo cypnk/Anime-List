@@ -786,6 +786,7 @@ Shangri-La Frontier *2023*
 Shigatsu wa Kimi no Uso (Your Lie in April) *2014*  
 Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*   
 Shin Sekai Yori (From the New World) *2012*  
+Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1980*  
 Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
 Shinka no Mi (The Fruit of Evolution) *2021*  
 Shiro Seijo to Kuro Bokushi (Saint Cecilia and Pastor Lawrence) *2023*  
