@@ -238,6 +238,7 @@ GeGeGe no Kitaro *1968, 1971, 1985, 1996, 2007, 2008, 2018*
 Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun) *2014*  
 Genjitsushugi Yusha no Okoku Saikenki (How a Realist Hero Rebuilt the Kingdom) *2021*  
 Genmu Senki Leda (Leda: The Fantastic Adventure of Yohko) *1985*  
+Genshiken *2004, 2006, 2007, 2013*  
 Gensoumaden Saiyuuki (Saiyuki) *1999, 2000, 2001, 2003, 2004, 2007, 2011, 2017, 2022*  
 GetBackers *2002*  
 Getter Robo *1974*  
