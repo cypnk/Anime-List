@@ -409,6 +409,7 @@ Kaibyoi Ramune (Dr. Ramune: Mysterious Disease Specialist) *2021*
 Kaijin Kaihatsubu no Kuroitsu-san (Miss Kuroitsu from the Monster Development Department) *2022*  
 Kaiketsu Jouki Tanteidan (Steam Detectives) *1998*  
 Kaiketsu Zoro (The Legend of Zorro) *1995*  
+Kaito Seinto Teru (Saint Tail) *1995*  
 Kakegurui *2017, 2019*  
 Kakko no Iinazuke (A Couple of Cuckoos) *2022*  
 Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits) *2018*  
@@ -974,6 +975,7 @@ Yesterday o Utatte (Sing "Yesterday" for Me) *2020*
 Yofukashi no Uta (Call of the Night) *2022*  
 Yokohama Kaidashi Kikou (Yokohama Shopping Log) *1998, 2002*  
 Yokoyama Mitsuteru Sangokushi *1991*  
+Yojo-Han Shinwa Taikei (Tatami Galaxy) *2010, 2022*  
 Yondemasu yo, Azazel-san (You're Being Summoned, Mr. Azazel) *2010, 2011, 2013*  
 Yoroiden Samurai Troopers *1988, 1989, 1991*  
 Yoru wa Mijikashi Aruke yo Otome (Night is Short, Walk On Girl) *2017*  
