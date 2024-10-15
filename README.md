@@ -752,6 +752,7 @@ Sasami-san@Ganbaranai *2013*
 Sasuga no Sarutobi *1982*  
 Sasurai no Shojo Nell (Nell the Wandering Girl, Wandering Girl Nell) *1979*  
 Sasurai no Taiyo (Nozomi in the Sun) *1971*  
+Sayonara Ryusei, Konnichiwa Jinsei (Goodbye, Dragon Life) *2024*  
 Sayonara Watashi no Kurama (Farewell, My Dear Cramer) *2021*  
 Sayonara Zetsubou Sensei *2007, 2008, 2009, 2012*  
 Sazae-san *1969*  
