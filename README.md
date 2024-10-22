@@ -670,6 +670,7 @@ Orient *2022*
 Oritsu Uchugun: Oneamisu no Tsubasa (Royal Space Force: The Wings of Honnêamise) *1987*  
 Osake wa Fuufu ni Natte kara (Love is Like a Cocktail) *2017*  
 Osama Ranking (Ranking of Kings) *2021*  
+Oishinbo (The Gourmet) *1988,1992,1993*  
 Oshitsu Kyoshi Haine (The Royal Tutor) *2017, 2019*  
 Osomatsu-kun *1966, 1988, 1989*  
 Osomatsu-san (Mr. Osomatsu) *2015*  
