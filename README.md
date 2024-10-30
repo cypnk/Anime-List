@@ -659,6 +659,7 @@ Odd Taxi *2021*
 Ogon Bat (Golden Bat) *1967*  
 Ojiisan no Lamp *2011*  
 Okami to Koshinryo (Spice and Wolf) *2008, 2009*  
+Okko's Inn *2018*  
 One Punch Man *2015*  
 Oniisama e... (Dear Brother) *1991*  
 Opus Colors *2023*  
@@ -690,6 +691,7 @@ Patapata Hikousen no Bouken (Secret of Cerulean Sand) *2002*
 Perrine Monogatari (The Story of Perrine) *1978, 1990*  
 Pet *2020*  
 Peter Grill to Kenja no Jikan (Peter Grill and the Philosopher's Time) *2020*  
+PetoPeto-san *2005*  
 Planetarian: Chiisana Hoshi no Yume (Planetarian: The Reverie of a Little Planet) *2016, 2021*  
 Piano *2002*  
 Piano no Mori (Forest of Piano) *2007, 2018*  
@@ -879,6 +881,7 @@ Teppen—!!! (Teppen—!!!!!!!!!!!!!!! Laughing 'til you Cry) *2022*
 Terra e... (Toward the Terra) *1980, 2007*  
 Tetsujin 28-go (Gigantor) *1963, 1992, 2013*  
 Texhnolyze *2003*  
+The Kabocha Wine (The Pumpkin Wine) *1981, 1984*  
 Thermae Romae *2022*  
 Tiger & Bunny *2011, 2012, 2014, 2022*  
 Tiger Mask *1969, 1970, 1981, 2013*  
@@ -933,6 +936,7 @@ Under Ninja *2023*
 UQ Holder! *2017*  
 Ura Sekai Pikunikku (Otherside Picnic) *2021*  
 Uramichi Onii-san (Life Lessons with Uramichi Oniisan) *2021*  
+Urara Meirocho *2017*  
 Urusei Yatsura *1981, 2022*  
 Ushio to Tora *1992, 2015*  
 Uzaki-chan wa Asobitai! (Uzaki-chan Wants to Hang Out!) *2020, 2022*  
