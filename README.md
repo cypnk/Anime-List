@@ -706,6 +706,7 @@ Puraresu Sanshiro (Plawres Sanshiro) *1983*
 Purasutikku Memorizu (Plastic Memories) *2015*  
 
 Radiant *2018*  
+Ramen Daisuki Koizumi-san (Ms. Koizumi Loves Ramen Noodles) *2018*  
 Rave Master *2001*  
 Ray *2006*  
 Rakudai Kishi no Kyabarurii (Chivalry of a Failed Knight) *2015*  
