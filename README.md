@@ -561,6 +561,7 @@ Majo no Takkyuubin (Kiki's Delivery Service) *1989*
 Majokko Megu-chan *1974*  
 Majokko Tickle *1978*  
 Majutsushi Ofen | Majutsushi Orphen (Sorcerous Stabber Orphen) *1998, 1999, 2020, 2021*  
+Makiba no Shojo Katori (Katri, Girl of the Meadows) *1984*  
 Malice@Doll *2001*  
 Manaria Friends (Mysteria Friends) *2019*  
 Manga Sarutobi Sasuke *1979*  
