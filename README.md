@@ -566,6 +566,7 @@ Malice@Doll *2001*
 Manaria Friends (Mysteria Friends) *2019*  
 Manga Sarutobi Sasuke *1979*  
 Manyuu Hikenchou *2011*  
+Mao 2099 (Demon Lord 2099) *2024*  
 Mao Gakuin No Futekigosha (The Misfit of Demon King Academy) *2020*  
 Maou Gun Saikyou no Majutsushi wa Ningen datta (The Strongest Magician in the Demon Lord's Army was a Human) *2024*  
 Maou-sama, Retry! *2019, 2024*  
@@ -883,6 +884,7 @@ Teppen—!!! (Teppen—!!!!!!!!!!!!!!! Laughing 'til you Cry) *2022*
 Terra e... (Toward the Terra) *1980, 2007*  
 Tetsujin 28-go (Gigantor) *1963, 1992, 2013*  
 Texhnolyze *2003*  
+The Fable *2024*  
 The Kabocha Wine (The Pumpkin Wine) *1981, 1984*  
 Thermae Romae *2022*  
 Tiger & Bunny *2011, 2012, 2014, 2022*  
