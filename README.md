@@ -281,6 +281,7 @@ Hajime no Ippo *2000, 2003, 2009, 2013*
 Hakozume: Koban Joshi no Gyakusho (Police in a Pod) *2022*  
 Hakumei to Mikochi (Hakumei & Mikochi: Tiny Little Life in the Woods) *2018*  
 Hana no Mahotsukai Mari Beru (Flower Witch Mary Bell) *1992*  
+Hand Maid May *2000*  
 Haha o Tazunete Sanzen Ri (3000 Leagues in Search of Mother) *1976, 1980, 1999*  
 Hana Yori Dango (Boys Over Flowers) *1996*  
 Hanada Shonen Shi (The Story of Young Hanada) *2002*  
@@ -735,6 +736,7 @@ Shacho, Battle no Jikan Desu! (Shachibato! President, It's Time for Battle!) *20
 Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend) *2015*  
 Sagrada Reset (Sakurada Reset) *2017*  
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.) *2016, 2019*  
+Saikyo no Shienshoku "Wajutsushi" dearu Ore wa Sekai Saikyo Kuran o Shitagaeru (The Most Notorious "Talker" Runs the World's Greatest Clan) *2024*  
 Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
 Sairento Mebiusu (Silent Möbius) *1991, 1998*  
 Saiunkoku Monogatari (The Story of Saiunkoku) *2006, 2007*  
