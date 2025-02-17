@@ -959,6 +959,7 @@ Vivy: Fluorite Eye's Song *2021*
 Wagaya no Oinari-sama (Our Home's Fox Deity) *2008*  
 Wagnaria! (Working!) *2010, 2011, 2015, 2016*  
 Wakaba Girl *2015*  
+Wakakusa Monogatari (Little Women | Little Women's Four Sisters) *1981*  
 Wake Up, Girls! *2014, 2015, 2017*  
 Wangan Midnight *2007*  
 Wanpaku Oji no Orochi Taiji (The Little Prince and the Eight-Headed Dragon) *1963*  
