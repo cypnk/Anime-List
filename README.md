@@ -32,6 +32,7 @@ Amaama to Inazuma (Sweetness & Lightning) *2016*
 Amanchu! *2016*  
 Angel Densetsu (Angel Legend) *1998*  
 Angel Heart *2005*  
+Anime-Gatari (Anime-chat) *2015, 2017*  
 Anmitsu Hime (Sugar Princess) *1986*  
 Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai (Anohana: The Flower We Saw That Day) *2011, 2013*  
 Ano Natsu de Matteru (Waiting in the Summer) *2012, 2014*  
@@ -500,6 +501,7 @@ Koroshi Ai (Love of Kill) *2022*
 Kotetsujo no Kabaneri (Kabaneri of the Iron Fortress) *2016, 2019*  
 Kotonoha no Niwa (The Garden of Words) *2013*  
 Kotoura-san *2013*  
+Kowloon Generic Romance *2025*  
 Koya no Kotobuki Hikotai (The Magnificent Kotobuki) *2019*  
 Kujira no Kora wa Sajo ni Utau (Children of the Whales) *2017*  
 Kuma Kuma Kuma Bear *2020*  
@@ -905,7 +907,7 @@ Tokyo Nijuyon-ku (Tokyo 24th Ward) *2022*
 Tonari no Kyuuketsuki-san (Ms. Vampire Who Lives in My Neighborhood) *2018*  
 Tonari no Totoro (My Neighbor Totoro) *1988*  
 Tonari no Yamada-kun *1999*  
-Tondemo Skill de Isekai Horo Meshi (Campfire Cooking in Another World with My Absurd Skill) *2023*  
+Tondemo Skill de Isekai Horo Meshi (Campfire Cooking in Another World with My Absurd Skill) *2023, 2025*  
 Tonikaku Kawaii (TONIKAWA: Over the Moon For You) *2020*  
 Toriko *2011*  
 Tosho Daimos *1978*  
