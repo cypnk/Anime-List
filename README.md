@@ -25,6 +25,7 @@ Akanesasu Shoujo (The Girl in Twilight) *2018*
 Akatsuki no Yona (Yona of the Dawn) *2014*  
 Akira *1988*  
 Akudama Doraibu (Akudama Drive) *2020*  
+Akujiki Reijo to Kyoketsu Koshaku (Pass the Monster Meat, Milady!) *2025*  
 Akuma-kun (Devil Boy) *1989*  
 Allison to Lillia (Allison and Lillia) *2008*  
 Alpen Rose *1985*  
@@ -194,6 +195,7 @@ Durarara!! *2010, 2015*
 
 Edomae Elf (Otaku Elf) *2023*  
 Ef: A Tale of Memories *2007*  
+Egao no Taenai Shokuba Desu (A Mangaka's Weirdly Wonderful Workplace) *2025*  
 Eiga Daisuki Pompo-san (Pompo: The Cinephile ) *2021*  
 Eitoman (8th Man) *1963, 1993*  
 Eizoken ni wa Te o Dasu na! (Keep Your Hands Off Eizouken!) *2020*  
@@ -223,6 +225,7 @@ Fushigi no Kuni no Alice *1983*
 Fushigi no Umi no Nadia (Nadia: The Secret of Blue Water) *1990*  
 Fushigi Yuugi (Mysterious Play) *1995*  
 Futari Daka (Twin Hawks) *1984*  
+Futari Solo Camp (Solo Camping for Two) *2025*  
 
 Gaisutazu Furakushonsu obu za Asu (Geisters) *2001*  
 Gakuen Babysitters *2018*  
@@ -414,7 +417,7 @@ Kaiketsu Zoro (The Legend of Zorro) *1995*
 Kaito Seinto Teru (Saint Tail) *1995*  
 Kakegurui *2017, 2019*  
 Kakko no Iinazuke (A Couple of Cuckoos) *2022*  
-Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits) *2018*  
+Kakuriyo Yadomeshi (Kakuriyo: Bed and Breakfast for Spirits) *2018, 2025*  
 Kakushigoto (My Dad's Secret Ambition) *2020*  
 Kaleido Star *2003, 2004, 2005, 2006, 2007*  
 Kami Nomi zo Shiru Sekai (The World God Only Knows) *2010, 2013*  
@@ -737,6 +740,7 @@ Saber Marionette J *1996*
 Shacho, Battle no Jikan Desu! (Shachibato! President, It's Time for Battle!) *2020*  
 Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend) *2015*  
 Sagrada Reset (Sakurada Reset) *2017*  
+Saigo ni Hitotsu dake Onegai Shitemo Yoroshi Desho ka (May I Ask for One Final Thing?) *2025*  
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.) *2016, 2019*  
 Saikyo no Shienshoku "Wajutsushi" dearu Ore wa Sekai Saikyo Kuran o Shitagaeru (The Most Notorious "Talker" Runs the World's Greatest Clan) *2024*  
 Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
