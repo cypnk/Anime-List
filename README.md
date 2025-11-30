@@ -822,6 +822,7 @@ Show by Rock!! *2015, 2016, 2020, 2021*
 Showa Genroku Rakugo Shinju (Descending Stories) *2015, 2016*  
 Shuffle! *2005, 2007*  
 Shumatsu no Izetta (Izetta: The Last Witch) *2016*  
+Shumatsu Touring (Touring After the Apocalypse) *2025*  
 Silent Möbius *1991, 1992, 1998*  
 SKET Dance *2011*  
 Skip to Loafer *2023*  
@@ -988,6 +989,7 @@ Yakyu-kyo no Uta (Poetry of Baseball Enthusiasts) *1977, 1979*
 Yamada-kun to 7-nin no Majo *2013, 2014, 2015*  
 Yamada-kun to Lv999 no Koi o Suru (My Love Story With Yamada-kun at Lv999 | Loving Yamada at LV999!) *2023*  
 Yami Shibai (Yamishibai: Japanese Ghost Stories) *2013, 2020*  
+Yano-kun no Futsu no Hibi (Yano-kun's Ordinary Days) *2025*  
 Yattaman (Yatterman) *1977, 2008, 2009*  
 Yawara! *1989, 1992, 1996*  
 Yesterday o Utatte (Sing "Yesterday" for Me) *2020*  
