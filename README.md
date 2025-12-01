@@ -31,6 +31,7 @@ Allison to Lillia (Allison and Lillia) *2008*
 Alpen Rose *1985*  
 Amaama to Inazuma (Sweetness & Lightning) *2016*  
 Amanchu! *2016*  
+Ameku Takao no Suiri Karute (Ameku M.D.: Doctor Detective) *2025*  
 Angel Densetsu (Angel Legend) *1998*  
 Angel Heart *2005*  
 Anime-Gatari (Anime-chat) *2015, 2017*  
@@ -54,6 +55,7 @@ Arms (Project Arms) *2001*
 Arte *2020*  
 Arupusu no Shojo Haiji (Heidi, Girl of the Alps) *1974*  
 Arusuran Senki (The Heroic Legend of Arslan) *1991*  
+Asashin de Aru no Sutētasu ga Yusha Yori mo Akiraka ni Tsuyoi Nodaga (My Status as an Assassin Obviously Exceeds the Hero's) *2025*  
 Ashita no Joe (Tomorrow's Joe) *1970*  
 Ashita no Nadja (Tomorrow's Nadja) *2003*  
 Asobi Asobase *2018*  
@@ -136,6 +138,7 @@ Chuuka Ichiban! (Cooking Master Boy) *1997, 2019*
 Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions) *2012, 2013, 2014*  
 Cider no You ni Kotoba ga Wakiagaru (Words Bubble Up Like Soda Pop) *2021*  
 City Hunter *1987, 1988, 1989, 1990, 1991, 1996, 1997, 1999, 2019*  
+City The Animation *2025*  
 Classroom Crisis *2015*  
 Cleopatra DC *1989*  
 Clockwork Planet *2017*  
@@ -392,6 +395,7 @@ Janguru no Oja Ta-chan (Jungle King Tar-chan) *1993*
 Jarinko Chie (Chie the Brat) *1981, 1991*  
 Jashin-chan Dropkick (Dropkick On My Devil!!) *2018, 2020, 2022*  
 Jibaku Shonen Hanako-kun (Toilet-Bound Hanako-kun) *2020*  
+Jidohanbaiki ni Umarekawatta Ore wa Meikyu o Samayo (Reborn as a Vending Machine, I Now Wander the Dungeon) *2023*  
 Jinrui wa Suitai Shimashita (Humanity Has Declined) *2012*  
 Jitsu wa Watashi wa (My Monster Secret | Actually, I Am...) *2015*  
 Josee to Tora to Sakanatachi (Josee, the Tiger and the Fish) *2021*  
@@ -430,7 +434,9 @@ Kamisama Hajimemashita (Kamisama Kiss) *2012, 2015*
 Kamisama ni Natta Hi (The Day I Became a God) *2020*  
 Kamisama no Memochou (Heaven's Memo Pad) *2011*  
 Kamizawa Wanda *2016*  
+Kamonohashi Ron no Kindan Suiri (Ron Kamonohashi: Deranged Detective | Ron Kamonohashi's Forbidden Deductions) *2023*  
 Kanata no Asutora (Astra Lost in Space) *2019*  
+Kanchigai no Atelier Meister (The Unaware Atelier Master) *2025*  
 Kannagi (Kannagi: Crazy Shrine Maidens) *2008*  
 Kanojo ga Koushaku-tei ni Itta Riyuu (Why Raeliana Ended Up at the Duke's Mansion) *2023*  
 Kanojo Okarishimasu (Rent-a-Girlfriend) *2020, 2022*  
@@ -640,6 +646,7 @@ Natsuiro Kiseki *2012*
 Natsume Yujin-Cho (Natsume's Book of Friends) *2008, 2013, 2017*  
 Naze Boku no Sekai wo Daremo Oboeteinai no ka? (Why Does Nobody Remember Me in This World?) *2024*  
 Nazo no Kanojo Ekkusu (Mysterious Girlfriend X) *2012*  
+Nazotoki wa Dina no Ato de (The Dinner Table Detective) *2025*  
 Net-juu no Susume (Recovery of an MMO Junkie) *2017*  
 Nichijou *2011*  
 Niehime to Kemono no Ou (Sacrificial Princess and the King of Beasts) *2023*  
@@ -648,6 +655,7 @@ Nineteen 19 *1990*
 Ninpu Kamui Gaiden *1969*  
 Nisekoi *2014, 2015*  
 Nekojiru-so (Cat Soup) *2001*  
+Negapoji Angura (Negative Positive Angler) *2024*  
 Negima! *2004, 2005, 2006, 2008, 2009, 2011*  
 New Game! *2016*  
 No Game No Life *2014, 2015*  
@@ -655,6 +663,7 @@ No Guns Life *2019*
 No-Rin *2014*  
 Nobunaga no Shinobi *2016, 2018*  
 Nodame Cantabile *2007, 2008, 2010*  
+Nohara Hiroshi Hirumeshi no Ryugi (The Style of Hiroshi Nohara's Lunch) *2025*  
 Noir *2001*  
 Non Non Biyori *2013, 2015, 2018, 2021*  
 Nurarihyon no Mago (Nura: Rise of the Yokai Clan) *2010, 2011*  
@@ -742,11 +751,13 @@ Saenai Heroine no Sodatekata (Saekano: How to Raise a Boring Girlfriend) *2015*
 Sagrada Reset (Sakurada Reset) *2017*  
 Saigo ni Hitotsu dake Onegai Shitemo Yoroshi Desho ka (May I Ask for One Final Thing?) *2025*  
 Saiki Kusuo no Ψ-nan (The Disastrous Life of Saiki K.) *2016, 2019*  
+Saikyo no O-sama, Nidome no Jinsei wa Nani wo Suru? (The Beginning After The End) *2025*  
 Saikyo no Shienshoku "Wajutsushi" dearu Ore wa Sekai Saikyo Kuran o Shitagaeru (The Most Notorious "Talker" Runs the World's Greatest Clan) *2024*  
 Saint Seiya (Saint Seiya: Knights of the Zodiac) *1986*  
 Sairento Mebiusu (Silent Möbius) *1991, 1998*  
 Saiunkoku Monogatari (The Story of Saiunkoku) *2006, 2007*  
 Saiyuki (Journey to the West | Alakazam the Great) *1960*  
+Sakamoto Days *2025*  
 Sakigake!! Otokojuku *1988*  
 Sakugan *2021*  
 Sakura Quest *2017*  
@@ -792,6 +803,7 @@ Senkuu Ishigami (Dr. Stone) *2019, 2021*
 Senpai ga Uzai Kohai no Hanashi (My Senpai Is Annoying) *2021*  
 Senryuu Shoujo (Senryu Girl) *2019*  
 Servamp *2016*  
+Sentai Reddo Isekai de Bōkensha ni Naru (The Red Ranger Becomes an Adventurer in Another World) *2025*  
 Sento Meka Zabunguru (Xabungle | Combat Mecha Xabungle) *1982*  
 Sentoin, Hakenshimasu! (Combatants Will Be Dispatched!) *2021*  
 Seto no Hanayome (My Bride is a Mermaid) *2007*  
@@ -824,6 +836,7 @@ Shuffle! *2005, 2007*
 Shumatsu no Izetta (Izetta: The Last Witch) *2016*  
 Shumatsu Touring (Touring After the Apocalypse) *2025*  
 Silent Möbius *1991, 1992, 1998*  
+Silent Witch: Chinmoku no Majo no Kakushigoto (Secrets of the Silent Witch) *2025*  
 SKET Dance *2011*  
 Skip to Loafer *2023*  
 Slam Dunk *1993, 1994, 1995*  
