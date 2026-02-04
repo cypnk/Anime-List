@@ -496,6 +496,7 @@ Koi wa Sekai Seifuku no Ato de (Love After World Domination) *2022*
 Koikimo: Koi to Yobu ni wa Kimochi Warui (It's Disgusting to Call This Love) *2021*  
 Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn) *2015, 2016*  
 Kokuriko-Zaka Kara (From Up On Poppy Hill) *2011*  
+Kyouryuu Tankentai Born Free *1976*  
 Komi-san wa Komyusho desu (Komi Can't Communicate) *2021*  
 Komori-san wa Kotowarenai! *2015*  
 Kono Bijutsubu ni wa Mondai ga Aru! (This Art Club Has a Problem!) *2016*  
