@@ -79,6 +79,7 @@ Ballroom e Youkoso (Welcome to the Ballroom) *2017*
 BanG Dream! *2017, 2018, 2019, 2020*  
 Bara-O no Soretsu (Requiem of the Rose King) *2022*  
 Barakamon *2014, 2016*  
+Bari Bari Densetsu *1986*  
 Basara *1998*  
 Beast King GoLion *1981*  
 Beatless *2018*  
