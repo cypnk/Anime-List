@@ -1,4 +1,4 @@
-# Anime-List
+# Anime-List	
 Watched, Watching, To-Watch
 
 Absolute Duo *2015*  
@@ -14,7 +14,7 @@ Akka: Jusan-ku Kansatsu-ka (ACCA: 13-Territory Inspection Dept.) *2017, 2020*
 Aguresshibu Retsuko (Aggressive Retsuko) *2016, 2018*  
 Agatha Christie no Meitantei Poirot to Marple (Agatha Christie's Great Detectives Poirot and Marple) *2004*  
 Ai Shite Knight (Love Me, My Knight) *1983*  
-Ai Yori Aoshi (Bluer Than Indigo) *2002*    
+Ai Yori Aoshi (Bluer Than Indigo) *2002*  
 Aidorumasuta Shinderera Garuzu (The Idolmaster Cinderella Girls) *2015, 2017*  
 Aishiteruze Baby (I Love You, Baby) *2004*  
 Aiura *2013*  
@@ -182,6 +182,7 @@ Dog Days *2011, 2012, 2015*
 Dokaben *1976*  
 Dokkiri Doctor *1998*  
 Domestic na Kanojo (Domestic Girlfriend) *2019*  
+Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu (Hello, I am a Witch and my Crush Wants me to Make a Love Potion) *2026*  
 Doraemon *1973, 1979, 2005*  
 Dorohedoro *2020*  
 Dororo *1969, 2019*  
@@ -379,7 +380,7 @@ Initial D *1998, 1999, 2001, 2004, 2012, 2014*
 Ino-Batoru wa Nichijo-kei no Naka de (When Supernatural Battles Became Commonplace) *2014*  
 Inu to Hasami wa Tsukaiyo (Dog & Scissors) *2013*  
 Iroduku Sekai no Ashita kara (IRODUKU: The World in Colors) *2018*  
-Isekai de Mofumofu Nadenade Suru Tameni Ganbattemasu (Fluffy Paradise | At the Isekai Fluffy Paradise I'm Trying to Do My Best) *2024*    
+Isekai de Mofumofu Nadenade Suru Tameni Ganbattemasu (Fluffy Paradise | At the Isekai Fluffy Paradise I'm Trying to Do My Best) *2024*  
 Isekai Izakaya: Koto Aitheria no Izakaya Nobu (Isekai Izakaya: Japanese Food From Another World) *2018*  
 Isekai Nonbiri Nouka (Farming Life in Another World) *2023*  
 Isekai Ojisan (Uncle from Another World) *2022*  
@@ -497,6 +498,7 @@ Koi wa Sekai Seifuku no Ato de (Love After World Domination) *2022*
 Koikimo: Koi to Yobu ni wa Kimochi Warui (It's Disgusting to Call This Love) *2021*  
 Kokaku no Pandora (Pandora in the Crimson Shell: Ghost Urn) *2015, 2016*  
 Kokuriko-Zaka Kara (From Up On Poppy Hill) *2011*  
+Kyouran Reijou Nia Liston (Nia Liston: The Merciless Maiden) *2026*  
 Kyouryuu Tankentai Born Free *1976*  
 Komi-san wa Komyusho desu (Komi Can't Communicate) *2021*  
 Komori-san wa Kotowarenai! *2015*  
@@ -604,7 +606,7 @@ Metal Skin Panic MADOX-01 *1987*
 Mewkledreamy *2020, 2021*  
 MF Ghost *2023*  
 Michiko to Hatchin (Michiko & Hatchin) *2008*  
-Mieruko-chan *2021*   
+Mieruko-chan *2021*  
 Miira no Kaikata (How to keep a mummy) *2018*  
 Mikakunin de Shinkokei (Engaged to the Unidentified) *2014*  
 Mimi wo Sumaseba (Whisper of the Heart) *1995*  
@@ -696,6 +698,7 @@ Osomatsu-kun *1966, 1988, 1989*
 Osomatsu-san (Mr. Osomatsu) *2015*  
 Otonari ni Ginga (A Galaxy Next Door) *2023*  
 Ouran Koukou Host Club (Ouran High School Host Club) *2006*  
+Overgeared *2026*  
 Overman King Gainer *2002*  
 Oyayubi Hime Monogatari (Thumbelina: A Magical Story) *1992*  
 Oyukiumi no Kaina (Kaina of the Great Snow Sea) *2023*  
@@ -815,7 +818,7 @@ Shakugan no Shana *2005, 2007, 2011*
 Shaman King *2001, 2021*  
 Shangri-La Frontier *2023*  
 Shigatsu wa Kimi no Uso (Your Lie in April) *2014*  
-Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*   
+Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1981, 1992*  
 Shin Sekai Yori (From the New World) *2012*  
 Shin Taketori Monogatari: Sennen Joo (Queen Millennia) *1980*  
 Shingeki no Bahamuto (Rage of Bahamut) *2014, 2017*  
@@ -907,6 +910,7 @@ Tentomushi no Uta (The Song of Tentomushi) *1974*
 Teppen—!!! (Teppen—!!!!!!!!!!!!!!! Laughing 'til you Cry) *2022*  
 Terra e... (Toward the Terra) *1980, 2007*  
 Tetsujin 28-go (Gigantor) *1963, 1992, 2013*  
+Tetsunabe no Jan! (Iron Wok Jan!) *2026*  
 Texhnolyze *2003*  
 The Fable *2024*  
 The Kabocha Wine (The Pumpkin Wine) *1981, 1984*  
@@ -937,6 +941,7 @@ Trinity Seven *2014, 2017, 2019*
 Tsubasa: Reservoir Chronicle *2005, 2007, 2009*  
 Tsue to Tsurugi no Wistoria (Wistoria: Wand and Sword) *2024*  
 Tsugumomo *2017, 2020*  
+Tsuiho Sareta Chito Fuyo Majutsushi wa Kimama na Sekando Raifu o Oka Suru (The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life) *2026*  
 Tsuki ga Kirei (As the Moon, So Beautiful) *2017*  
 Tsuki ga Michibiku Isekai Douchuu (Tsukimichi: Moonlit Fantasy) *2021*  
 Tsuki to Laika to Nosferatu (Irina: The Vampire Cosmonaut) *2021*  
@@ -1028,7 +1033,7 @@ Yumemiru Danshi wa Genjitsushugisha (The Dreaming Boy is a Realist) *2023*
 Yuragi-sou no Yuuna-san (Yuuna and the Haunted Hot Springs) *2018*  
 Yuuki Yuuna wa Yuusha de Aru (Yuki Yuna Is A Hero) *2014, 2017, 2021*  
 Yuuyake Bancho (Sunset Bancho) *1968*  
-Yuurei-sen (Phantom Ship) *1957*   
+Yuurei-sen (Phantom Ship) *1957*  
 Yuru Camp△ (Laid-Back Camp) *2018, 2020, 2022, 2024*  
 YuruYuri *2011, 2012, 2014, 2015, 2019*  
 Yuyushiki *2013, 2017*  
